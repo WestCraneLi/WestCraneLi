@@ -3,7 +3,8 @@
 * Languages : JavaScript(Typescript), Node
 * Hobbies : Reading, Table tennis, Cooking
 
-<img src="https://github-readme-stats.vercel.app/api?username=WestCraneLi&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false">
+![WestCraneLi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WestCraneLi&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false)
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=WestCraneLi&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false"> -->
 
 ⭐️ From [WestCraneLi](https://github.com/WestCraneLi)
 
