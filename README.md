@@ -4,6 +4,10 @@
 * Hobbies : Reading, Table tennis, Cooking
 
 ![WestCraneLi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WestCraneLi&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false&env=PAT_1)
+
+<!-- ![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=WestCraneLi&layout=compact&hide=html)
+
+![ ](https://github-readme-streak-stats.herokuapp.com/?user=WestCraneLi) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=WestCraneLi&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false"> -->
 
 ⭐️ From [WestCraneLi](https://github.com/WestCraneLi)
