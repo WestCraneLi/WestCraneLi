@@ -1,7 +1,7 @@
 ### Hi there 👋 WestCraneLi
 * Learning : Front-End Development ⚡ | Open-Source 🔥
 * Languages : JavaScript(Typescript), Node
-* Hobbies : Reading, Table tennis, Cooking
+* Hobbies : Reading, Table tennis, Cooking,Origami(Paper folding)
 
 ![WestCraneLi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WestCraneLi&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false&env=PAT_1)
 
