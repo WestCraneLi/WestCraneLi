@@ -26,7 +26,7 @@
 ![Nodemon](https://custom-icon-badges.demolab.com/badge/-Nodemon-%2376D04B?logo=Nodemon&logoColor=white)
 ![vue](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
 ![MiniProgram](https://img.shields.io/badge/-MiniProgram-008000?style=flat-square&logo=WeChat&labelColor=fff&color=07C160)
-![uniapp](https://img.shields.io/badge/-UniApp-008000?style=flat-square&logo=UniApp&labelColor=fff&color=07C160)
+![uniapp](https://custom-icon-badges.demolab.com/badge/-Uniapp-%07C160?logo=uniapp&logoColor=white)
 ![Express](https://custom-icon-badges.demolab.com/badge/-Express-%23000000?logo=Express&logoColor=white)
 ![Nest.js](https://custom-icon-badges.demolab.com/badge/-Next.js-%23CC7799?logo=Nest.js&logoColor=white)
 ![WebPack](https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white)
