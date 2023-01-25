@@ -26,6 +26,7 @@
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![Nodemon](https://custom-icon-badges.demolab.com/badge/-Nodemon-%2376D04B?logo=Nodemon&logoColor=white)
 ![vue](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
+![react](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB)
 ![MiniProgram](https://img.shields.io/badge/-MiniProgram-008000?style=flat-square&logo=WeChat&labelColor=fff&color=07C160)
 ![uniapp](https://custom-icon-badges.demolab.com/badge/-Uniapp-%07C160?logo=uniapp&logoColor=white)
 ![Express](https://custom-icon-badges.demolab.com/badge/-Express-%23000000?logo=Express&logoColor=white)
