@@ -1,7 +1,7 @@
 <h3>
-<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"> -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
   Hi there！ I'm WestCraneLi ~
-<!--   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" /> -->
+  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
 
 <a href="https://github.com/WestCraneLi">
@@ -39,7 +39,7 @@
 ![Git](https://custom-icon-badges.demolab.com/badge/-Git-%23F05032?logo=Git&logoColor=white)
 ![Markdown](https://custom-icon-badges.demolab.com/badge/-Markdown-%23000000?logo=Markdown&logoColor=white)
 
-![WestCraneLi's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=WestCraneLi&theme=github)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=WestCraneLi&theme=github)
 
 ![WestCraneLi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WestCraneLi&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false&env=PAT_1)
 
