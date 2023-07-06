@@ -1,10 +1,7 @@
 
 **Today**
-<blockquote>仗剑救一人，从文万事休。闻鸡两起舞，一死一白头。    --无心</blockquote>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
-Hi there！ I'm WestCraneLi ~
-<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
-</h3>
+<blockquote>一个人决定寂寞，和另一个人相互依偎又有什么错    --无名氏</blockquote>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势"><h3>Hi there！ I'm WestCraneLi ~</h3><img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 
 <a href="https://github.com/WestCraneLi">
 <div align="right" >
