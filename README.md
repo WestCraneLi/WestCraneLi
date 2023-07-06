@@ -1,6 +1,6 @@
 
 <h3>Daily Sentence</h3>
-<blockquote>当遇到你时，大脑连上CSGO都会掉帧。    --Florence</blockquote>
+<blockquote>报君黄金台上意，提携玉龙为君死。    --无名氏</blockquote>
 <img src=https://www.bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp alt="bing img" />
 
 <h3>
