@@ -1,6 +1,21 @@
+const file = require('../utils/file.js');
+const rec = require('../utils/rec.js');
 
+const ONE_URI = 'https://v1.hitokoto.cn/';
+const BING_URI = 'https://www.bing.com';
+const BING_IMG_URI =
+  'https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1';
+
+const setReadme = async () => {
+  try {
+    const one = await rec.getData(ONE_URI);
+    const sentence = `${one.hitokoto}    --${one.from_who || '无名氏'}`;
+    // const bingImg = getUriData(BING_IMG_URI);
+    // const image = BING_URI + bingImg.images[0].url;
+
+    const article = `
 **Today**
-<blockquote>今日过后，所有晦暗都留给过往，凛冬散尽，星河长明。    --网络</blockquote>
+<blockquote>${sentence}</blockquote>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
 Hi there！ I'm WestCraneLi ~
 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
@@ -48,3 +63,11 @@ Hi there！ I'm WestCraneLi ~
 <img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
 
 ⭐️ From [WestCraneLi](https://github.com/WestCraneLi)
+`;
+    await file.setJsonFileData('README.md', article, true);
+  } catch (error) {
+    console.warn(error);
+  }
+};
+
+setReadme();

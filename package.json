@@ -1,0 +1,24 @@
+{
+  "name": "westcraneli",
+  "version": "1.0.0",
+  "description": "WestCraneLi's github",
+  "main": "index.js",
+  "scripts": {
+    "build": "node src/script/setReadme.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WestCraneLi/WestCraneLi.git"
+  },
+  "keywords": [],
+  "author": "WestCraneLi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WestCraneLi/WestCraneLi/issues"
+  },
+  "homepage": "https://github.com/WestCraneLi/WestCraneLi#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.12"
+  }
+}
