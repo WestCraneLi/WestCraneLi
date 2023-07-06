@@ -10,12 +10,13 @@ const setReadme = async () => {
   try {
     const one = await rec.getData(ONE_URI);
     const sentence = `${one.hitokoto}    --${one.from_who || '无名氏'}`;
-    // const bingImg = getUriData(BING_IMG_URI);
-    // const image = BING_URI + bingImg.images[0].url;
+    const bingImg = await rec.getData(BING_IMG_URI);
+    const image = BING_URI + bingImg.images[0].url;
 
     const article = `
-**Daily Sentence**
+<h3>Daily Sentence</h3>
 <blockquote>${sentence}</blockquote>
+<img src=${image} alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />

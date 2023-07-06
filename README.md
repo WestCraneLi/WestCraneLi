@@ -1,11 +1,14 @@
 
-**Today**
-<blockquote>从春夏到秋冬看流过的时空，像拂面过的微风。    --一只叫一行的喵</blockquote>
+<h3>Daily Sentence</h3>
+<blockquote>人生自是有情痴，此恨不关风与月。    --欧阳修</blockquote>
+<img src=https://www.bing.com/th?id=OHR.KissingPenguins_ZH-CN5449471262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp alt="bing img" />
+
 <h3>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
 Hi there! I'm WestCraneLi ~
 <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
+
 <a href="https://github.com/WestCraneLi">
 <div align="right" >
   <img align="right" src="https://count.getloli.com/get/@:WestCraneLi" alt="WestCraneLi" />
