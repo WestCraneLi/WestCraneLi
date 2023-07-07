@@ -1,7 +1,7 @@
 
 <h3>Daily Sentence</h3>
-<blockquote>人生自是有情痴，此恨不关风与月。    --欧阳修</blockquote>
-<img src=https://www.bing.com/th?id=OHR.KissingPenguins_ZH-CN5449471262_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp alt="bing img" />
+<blockquote>报君黄金台上意，提携玉龙为君死。    --无名氏</blockquote>
+<img src=https://www.bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
