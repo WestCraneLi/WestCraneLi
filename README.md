@@ -1,7 +1,7 @@
 
 <h3>Daily Sentence</h3>
-<blockquote>吾虽浪迹天涯，却未迷失本心。    --无名氏</blockquote>
-<img src=https://www.bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp alt="bing img" />
+<blockquote>你，对，你，就是你，你是你。    --不到啊</blockquote>
+<img src=https://www.bing.com/th?id=OHR.CocoaPods_EN-US2252740906_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
