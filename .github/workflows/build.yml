@@ -8,11 +8,15 @@ on:
   schedule:
     # UTC + 8 = 中国时区
     # 22:30 + 8 = 6:30（明天） 每 6 点半触发一次
-    - cron: '30 22 * * *'
+    # - cron: '30 22 * * *'
+    - cron: '* * * * *'
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
 
     steps:
       - name: 设置时区
@@ -46,6 +50,8 @@ jobs:
           git diff
           git config --global user.email "WestCraneLi@foxmail.com"
           git config --global user.name "WestCraneLi"
+          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git pull --rebase
           git add -A
-          git commit -m "Updated Readme" || exit
+          git commit --allow-empty -m "update daily sentence"
           git push
