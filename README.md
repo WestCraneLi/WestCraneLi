@@ -1,6 +1,6 @@
 
 <h3>Daily Sentence</h3>
-<blockquote>报君黄金台上意，提携玉龙为君死。    --无名氏</blockquote>
+<blockquote>吾虽浪迹天涯，却未迷失本心。    --无名氏</blockquote>
 <img src=https://www.bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp alt="bing img" />
 
 <h3>
