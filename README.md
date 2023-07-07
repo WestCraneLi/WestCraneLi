@@ -1,6 +1,6 @@
 
 <h3>Daily Sentence</h3>
-<blockquote>幸运的人一生都在被童年治愈，不幸的人一生都在治愈童年。    --无名氏</blockquote>
+<blockquote>不要有趣，要有用.    --青钢影</blockquote>
 <img src=https://www.bing.com/th?id=OHR.CocoaPods_EN-US2252740906_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp alt="bing img" />
 
 <h3>
