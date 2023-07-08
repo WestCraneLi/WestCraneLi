@@ -1,7 +1,7 @@
 
-<h3>Daily Sentence</h3>
-<blockquote>不要有趣，要有用.    --青钢影</blockquote>
-<img src=https://www.bing.com/th?id=OHR.CocoaPods_EN-US2252740906_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp alt="bing img" />
+<h3>🕡Daily Sentence</h3>
+<blockquote>我命令你，喜欢我！    --无名氏</blockquote>
+<img src=https://www.bing.com/th?id=OHR.CooperChapel_EN-US2412561000_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
