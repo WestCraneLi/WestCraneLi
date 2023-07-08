@@ -14,7 +14,7 @@ const setReadme = async () => {
     const image = BING_URI + bingImg.images[0].url;
 
     const article = `
-<h3>Daily Sentence</h3>
+<h3>🕡Daily Sentence</h3>
 <blockquote>${sentence}</blockquote>
 <img src=${image} alt="bing img" />
 
