@@ -1,6 +1,6 @@
 
 <h3>🕡Daily Sentence</h3>
-<blockquote>我命令你，喜欢我！    --无名氏</blockquote>
+<blockquote>来人间一趟 你要看看太阳。    --薯味博饼</blockquote>
 <img src=https://www.bing.com/th?id=OHR.CooperChapel_EN-US2412561000_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp alt="bing img" />
 
 <h3>
