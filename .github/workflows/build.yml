@@ -8,8 +8,8 @@ on:
   schedule:
     # UTC + 8 = 中国时区
     # 22:30 + 8 = 6:30（明天） 每 6 点半触发一次
-    # - cron: '30 22 * * *'
-    - cron: '* * * * *'
+    - cron: '30 22 * * *'
+#     - cron: '* * * * *'
 
 jobs:
   build:
@@ -41,17 +41,17 @@ jobs:
         run: npm install
       - name: 生成 README.md
         run: npm run build --if-present
-      - name: 推送新 README.md
-        uses: mikeal/publish-to-github-action@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.WestCraneLi }}
+      # - name: 推送新 README.md
+      #   uses: mikeal/publish-to-github-action@master
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.WestCraneLi }}
       - name: Commit and push if changed
         run: |
           git diff
           git config --global user.email "WestCraneLi@foxmail.com"
           git config --global user.name "WestCraneLi"
-          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git pull --rebase
+          git remote set-url origin https://${{ github.actor }}:${{ secrets.WestCraneLi }}@github.com/${{ github.repository }}
           git add -A
           git commit --allow-empty -m "update daily sentence"
+          git pull --rebase
           git push

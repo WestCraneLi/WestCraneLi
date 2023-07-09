@@ -1,7 +1,11 @@
 
-<h3>Daily Sentence</h3>
-<blockquote>报君黄金台上意，提携玉龙为君死。    --无名氏</blockquote>
-<img src=https://www.bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp alt="bing img" />
+<h3>🕡Daily Sentence</h3>
+
+<blockquote>
+Home is not a place, but a kind of memory.
+故乡不是一个地方，而是一种记忆。
+</blockquote>
+<img src=https://staticedu-wps.cache.iciba.com/image/4554d94172a2a7c696338d3744e31bc0.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />

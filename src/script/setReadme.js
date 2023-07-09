@@ -1,22 +1,20 @@
 const file = require('../utils/file.js');
 const rec = require('../utils/rec.js');
 
-const ONE_URI = 'https://v1.hitokoto.cn/';
-const BING_URI = 'https://www.bing.com';
-const BING_IMG_URI =
-  'https://www.bing.com/HPImageArchive.aspx?format=js&idx=0&n=1';
+const CIBA_API = 'https://open.iciba.com/dsapi/';
 
 const setReadme = async () => {
   try {
-    const one = await rec.getData(ONE_URI);
-    const sentence = `${one.hitokoto}    --${one.from_who || '无名氏'}`;
-    const bingImg = await rec.getData(BING_IMG_URI);
-    const image = BING_URI + bingImg.images[0].url;
+    const data = await rec.getData(CIBA_API);
 
     const article = `
-<h3>Daily Sentence</h3>
-<blockquote>${sentence}</blockquote>
-<img src=${image} alt="bing img" />
+<h3>🕡Daily Sentence</h3>
+
+<blockquote>
+${data.content}
+${data.note}
+</blockquote>
+<img src=${data.picture2} alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
