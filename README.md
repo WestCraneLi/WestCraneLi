@@ -50,7 +50,7 @@ Hi there! I'm WestCraneLi ~
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=WestCraneLi&theme=github)
 
-![WestCraneLi's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=WestCraneLi&theme=github&height=320)
+![WestCraneLi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WestCraneLi&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=fff&hide_title=false&env=PAT_1)
 
 <img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
 
