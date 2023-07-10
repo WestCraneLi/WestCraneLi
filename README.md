@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A man is not old until regrets take the place of dreams. 
-当懊悔取代梦想时，人也就老了。
+There is light at the end of the tunnel.
+守得云开见月明。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/355cae6938c5917aaf90f3116c383367.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d25483d75a1e273417e499f1b63dff94.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
