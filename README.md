@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-There is light at the end of the tunnel.
-守得云开见月明。
+Life's too short to hold grudges.
+人生苦短，何必留仇。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d25483d75a1e273417e499f1b63dff94.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/dfd21bd8e8da5f6de3a18a57671ca567.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
