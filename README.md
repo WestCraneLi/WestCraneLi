@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life's too short to hold grudges.
-人生苦短，何必留仇。
+Many people will walk in and out of your life, but only true friends will leave footprints in your heart.
+无数人走进和走出你的生活，但只有真正的朋友会在你的心里留下足迹。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/dfd21bd8e8da5f6de3a18a57671ca567.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/7eec7cadfcc61cbebc851e1d4ef748ad.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
