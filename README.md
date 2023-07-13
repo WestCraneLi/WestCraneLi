@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Many people will walk in and out of your life, but only true friends will leave footprints in your heart.
-无数人走进和走出你的生活，但只有真正的朋友会在你的心里留下足迹。
+ Everybody is somebody. Even a nobody.
+每个人都有自己的价值，即使是无名之辈。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/7eec7cadfcc61cbebc851e1d4ef748ad.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f477e4f959ad22efc5d25574f16fdf3c.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
