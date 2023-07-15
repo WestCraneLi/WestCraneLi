@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The truth is a beautiful and terrible thing, and should therefore be treated with great caution.
-真相是一种美丽又可怕的东西，需要格外谨慎地对待。
+Talent indeed makes a person shine, but hard work does too.
+天赋的确使人闪闪发光，但努力也能使人熠熠生辉。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/931eb280f7da7fa5031b58583dcb3d7d.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4c8ea38265f5eaac6f49936fd14d29f6.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
