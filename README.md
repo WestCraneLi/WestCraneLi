@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Everything has cracks and that's where the light comes in. 
-万物皆有裂痕，那是光照进来的地方。
+lt's better to light a candle than curse the darkness.
+与其诅咒黑暗，不如点亮蜡烛。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f477e4f959ad22efc5d25574f16fdf3c.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c13c845a3f6533ff44bdf1c3bf7c72c3.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
