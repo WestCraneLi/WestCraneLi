@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-lt's better to light a candle than curse the darkness.
-与其诅咒黑暗，不如点亮蜡烛。
+Those who miss each other will finally get together.
+错失彼此的人终有一朝重逢。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c13c845a3f6533ff44bdf1c3bf7c72c3.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/dc1b49d2d9359741bb49f0a936ef6ec7.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
