@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Never compromise. Not even in the face of armageddon.
-永不妥协，即便是在世界末日面前。
+Up the bright moon rises from the sea; I share the same moment though far from thee.
+海上生明月，天涯共此时。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8fcbb628d2d0a7db7526a71e3be1a5fa.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d486eb38c2ccb2a54de3d155a66eb31f.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
