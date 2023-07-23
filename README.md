@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Love is imagination. The other is the carrier. It's you who give the meaning to it.
-爱是想象力，对方是载体，是你赋予它意义。
+Shoot for the moon; even if you miss, you'll land among the stars.
+朝月亮出发，即便你错过了，也将置身于繁星之中。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5ef2de07881f42bf9f36f650953ec04a.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0e07c7a1c33d03bb1d0cf334a63d5b02.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
