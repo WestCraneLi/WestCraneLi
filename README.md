@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Shoot for the moon; even if you miss, you'll land among the stars.
-朝月亮出发，即便你错过了，也将置身于繁星之中。
+The smartest people understand that they are the most ignorant ones. 
+最聪明的人明白自己是最无知的。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0e07c7a1c33d03bb1d0cf334a63d5b02.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/8fcbb628d2d0a7db7526a71e3be1a5fa.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
