@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A little of every thing is nothing in the main.
-每事浅尝辄止，事事都告无成。
+To sin by silence when we should protest makes cowards out of men.
+应该抗议时却保持沉默，这种罪过使人成为懦夫。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b42419f347ac7f02d5c8a8fa27a0b4b0.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f477e4f959ad22efc5d25574f16fdf3c.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
