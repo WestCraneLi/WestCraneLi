@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-To sin by silence when we should protest makes cowards out of men.
-应该抗议时却保持沉默，这种罪过使人成为懦夫。
+I am still waiting for you in situ, but you have forgotten you had been here once.
+我还在原地等你，你却已经忘记曾来过这里。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f477e4f959ad22efc5d25574f16fdf3c.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d94da24cd59af49ee0f15d0d6d66a259.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
