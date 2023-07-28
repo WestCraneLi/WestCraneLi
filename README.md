@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I am still waiting for you in situ, but you have forgotten you had been here once.
-我还在原地等你，你却已经忘记曾来过这里。
+Don't trouble trouble till trouble troubles you.
+不要自找麻烦，除非麻烦找上门。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d94da24cd59af49ee0f15d0d6d66a259.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/94b19e65ca9aed680b3d4b278a9796ce.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
