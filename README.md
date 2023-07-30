@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Today is the first page of the book of challenge. 
-新一年的挑战开始了。
+Shoot for the moon, even if you miss it, you'll land among the stars.
+奔赴月亮吧，即便错过，你也将置身于繁星之中。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/cd76763eae593021bc84d2fa51f64a9d.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0dfd35fcad9190747d8bd3cd2c91c758.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
