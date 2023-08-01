@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-This is my homeland. If I don't fight for it, who will?
-这是我的国土。我不为她而战斗，谁为呢?
+Understand yourself in order to better understanding others.
+知己方能解人。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/56c97a833e642283c5252bb049132045.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/8fcbb628d2d0a7db7526a71e3be1a5fa.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
