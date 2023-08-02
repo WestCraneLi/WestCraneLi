@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Understand yourself in order to better understanding others.
-知己方能解人。
+Never give up on a dream just because of the time it will take to accomplish it.
+永远不要因为梦想需要太长时间才能实现而放弃。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8fcbb628d2d0a7db7526a71e3be1a5fa.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e3e0bf111b67e2be8ccd6d661f4978ba.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
