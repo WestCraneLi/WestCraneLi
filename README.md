@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Each man is the architect of his own fate
-每个人都是自己命运的建筑师。
+Our destiny offers not the cup of despair, but the chalice of opportunity.
+命运给予我们的不是失望之酒，而是机会之杯。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/7eec7cadfcc61cbebc851e1d4ef748ad.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d501a17ccb7a13b0eea54c98640a6999.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
