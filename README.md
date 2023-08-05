@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Our destiny offers not the cup of despair, but the chalice of opportunity.
-命运给予我们的不是失望之酒，而是机会之杯。
+True love such as tea, not to say that come out, but the product.
+真爱如茶，不是说出来的，而是品出来的。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d501a17ccb7a13b0eea54c98640a6999.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5ef2de07881f42bf9f36f650953ec04a.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
