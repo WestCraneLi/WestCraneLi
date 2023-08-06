@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-True love such as tea, not to say that come out, but the product.
-真爱如茶，不是说出来的，而是品出来的。
+Without giving,there is no victory.
+没有付出，就没有胜利。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5ef2de07881f42bf9f36f650953ec04a.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/97cd8f0106dcfd19988878bcf04bcb7f.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
