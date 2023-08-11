@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- Life is not about waiting for the storm to pass, but learn to dance in the rain.
-生活不是等待风暴过去，而是学会在雨中翩翩起舞。
+Not matter of the today will drag tomorrow.
+勿将今日之事拖到明日。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0dfd35fcad9190747d8bd3cd2c91c758.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/60c4b0b16daa6141b4dc1b9c9dc1b652.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
