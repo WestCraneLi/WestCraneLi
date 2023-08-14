@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Fear can hold you prisoner,but hope can set you free.
-怯懦囚禁灵魂,希望还你自由。
+Where there is love,there are always wishes.
+哪里有爱，哪里就有希望。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/355cae6938c5917aaf90f3116c383367.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6286d34c787320416bc8d7083e6f6553.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
