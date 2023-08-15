@@ -48,7 +48,7 @@ jobs:
       - name: Commit and push if changed
         run: |
           git diff
-          git config --global user.email "1565024126@qq.com"
+          git config --global user.email "WestCraneLi@foxmail.com"
           git config --global user.name "WestCraneLi"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.WestCraneLi }}@github.com/${{ github.repository }}
           git add -A
