@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Where there is love,there are always wishes.
-哪里有爱，哪里就有希望。
+Great works are performed not by strength, but by perseverance.
+完成伟大的事业不在于体力，而在于坚韧不拔的毅力。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6286d34c787320416bc8d7083e6f6553.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e3e0bf111b67e2be8ccd6d661f4978ba.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
