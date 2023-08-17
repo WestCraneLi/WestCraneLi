@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Living without an aim is like sailing without a compass.
-生活没有目标，犹如航海没有罗盘。
+Victory won't come to me unless I go to it.
+胜利是不会向自己走来的，我必须自己走向胜利。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/355cae6938c5917aaf90f3116c383367.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/2d6c2f0270c4a0d2950a401f57b4840d.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
