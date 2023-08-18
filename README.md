@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Victory won't come to me unless I go to it.
-胜利是不会向自己走来的，我必须自己走向胜利。
+You can't blend in when you were born to stand out.
+你天生与众不同，注定不会被淹没在人群中。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/2d6c2f0270c4a0d2950a401f57b4840d.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d501a17ccb7a13b0eea54c98640a6999.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
