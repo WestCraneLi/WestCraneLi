@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You can't blend in when you were born to stand out.
-你天生与众不同，注定不会被淹没在人群中。
+May there be enough clouds in your life to make a beautiful sunset.
+愿你的生命中有足够的云翳，来编制一个美丽的黄昏。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d501a17ccb7a13b0eea54c98640a6999.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4c8ea38265f5eaac6f49936fd14d29f6.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
