@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-May there be enough clouds in your life to make a beautiful sunset.
-愿你的生命中有足够的云翳，来编制一个美丽的黄昏。
+If you need,I'll be by your side.
+如果你需要。我就在你身边。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4c8ea38265f5eaac6f49936fd14d29f6.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5d786d9265a8ab5afd6756a5644c52e4.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
