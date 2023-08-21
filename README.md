@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-If you need,I'll be by your side.
-如果你需要。我就在你身边。
+Love rises in the east and falls in the west, romance lasts till death.
+爱意东升西落，浪漫至死不渝。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5d786d9265a8ab5afd6756a5644c52e4.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e3e0bf111b67e2be8ccd6d661f4978ba.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
