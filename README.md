@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The higher I got, the more amazed I was by the view.
-我爬得越高，眼前的风景便愈发迷人。
+Love is the one thing that transcends time and space.
+只有爱可以穿越时空。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c13c845a3f6533ff44bdf1c3bf7c72c3.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f2f54a47b6952f7c06f21107cbc79386.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
