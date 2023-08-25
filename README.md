@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Love is the one thing that transcends time and space.
-只有爱可以穿越时空。
+Thank you for appearing in my youth.
+谢谢你出席我的青春。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f2f54a47b6952f7c06f21107cbc79386.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/2d6c2f0270c4a0d2950a401f57b4840d.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
