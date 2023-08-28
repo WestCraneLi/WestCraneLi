@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-All the bright, precious things fade so fast.And they don't come back.
-所有的光鲜靓丽都敌不过时间，并且一去不复返。
+People love what other people are passionate about.
+人们喜爱别人倾注热情所做的事情。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/360e1d9aa105dd2b61ad808bcbb06c87.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1695961f05f79cb6bf630ce9747a189d.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
