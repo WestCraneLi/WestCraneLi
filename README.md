@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-One meets its destiny on the road he takes to avoid it.
-往往在逃避命运的路上，却与之不期而遇。
+ To improve is to change; to be perfect is to change often.
+要提升价值就要改变; 要达到完美就得经常改变。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f2f54a47b6952f7c06f21107cbc79386.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d94da24cd59af49ee0f15d0d6d66a259.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
