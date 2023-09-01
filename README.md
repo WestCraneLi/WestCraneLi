@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- To improve is to change; to be perfect is to change often.
-要提升价值就要改变; 要达到完美就得经常改变。
+ If you don't like something, change it. If you can't change it, change your attitude.
+如果有不满意的状况，那就试着改变它。 如果你没办法改变它，那就改变你的想法吧
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d94da24cd59af49ee0f15d0d6d66a259.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/94b19e65ca9aed680b3d4b278a9796ce.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
