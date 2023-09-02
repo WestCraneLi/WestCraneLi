@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- If you don't like something, change it. If you can't change it, change your attitude.
-如果有不满意的状况，那就试着改变它。 如果你没办法改变它，那就改变你的想法吧
+Since we cannot change reality, let us change the eyes which see reality.
+既然我们无法改变现实，那就改变看待现实的视角吧。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/94b19e65ca9aed680b3d4b278a9796ce.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6050344edfd2490aeb505e3011edd794.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
