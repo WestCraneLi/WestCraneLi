@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Change in all things is sweet.
-最甜美的事就是改变。
+Not everything that is faced can be changed, but nothing can be changed until it is faced. 
+不是所有你面对的事情都可以改变，但在你实际面对之前，任何事情都无法改变。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0dfd35fcad9190747d8bd3cd2c91c758.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/56c97a833e642283c5252bb049132045.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
