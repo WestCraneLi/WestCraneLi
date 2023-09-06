@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I can't change the direction of the wind, but I can adjust my sails to always reach my destination. 
-我没办法改变风向， 但我可以调整我的风帆，无论如何都能达到我的目的地。
+Do not fear mistakes. You will know failure. Continue to reach out.
+别害怕犯错，你将会遇见失败，续续把手伸出去。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/cd76763eae593021bc84d2fa51f64a9d.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0e07c7a1c33d03bb1d0cf334a63d5b02.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
