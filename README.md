@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-"The man who can make hard things easy is the educator. "
-能使艰难之事变得容易的人是教育者。
+The measure of intelligence is the ability to change.
+衡量智力的标准是适应改变的能力
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4554d94172a2a7c696338d3744e31bc0.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/97cd8f0106dcfd19988878bcf04bcb7f.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
