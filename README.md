@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-If you are not willing to risk the usual, you will have to settle for the ordinary.
-如果你不愿意为平凡冒险，你就得甘于平凡。
+ Change is inevitable. Growth is optional. 
+改变无可避免，是否能从中成长则是你的选择。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c3fbcf027da73cc5094078f03c60d13c.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/931eb280f7da7fa5031b58583dcb3d7d.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
