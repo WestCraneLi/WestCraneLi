@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Before anything else, preparation is the key to success.
-在做任何事情之前，准备是达到成功的关键。
+ I alone can't change the world, but I can cast a stone across the waters to create many ripples.
+我一个人无法改变世界，但我可以投掷石头于水中激起延绵涟漪
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/97cd8f0106dcfd19988878bcf04bcb7f.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6286d34c787320416bc8d7083e6f6553.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
