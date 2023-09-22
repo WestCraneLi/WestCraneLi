@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The price of doing the same old thing is far higher than the price of change. 
-一直重复做旧事物的代价远胜于做出改变。
+The road to success and the road to failure are almost exactly the same.
+通往成功之路与失败之路是几乎相同的。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/7eec7cadfcc61cbebc851e1d4ef748ad.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c3fbcf027da73cc5094078f03c60d13c.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
