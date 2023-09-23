@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The road to success and the road to failure are almost exactly the same.
-通往成功之路与失败之路是几乎相同的。
+Don't be afraid to give up the good to go for the great. 
+不要畏惧放弃所拥有而舍弃追求卓越的机会。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c3fbcf027da73cc5094078f03c60d13c.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/931eb280f7da7fa5031b58583dcb3d7d.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
