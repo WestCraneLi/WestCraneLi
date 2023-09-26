@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-What's dangerous is not to evolve.
-最危险情况是当你不再有新进展。
+ Things don't have to change the world to be important.
+事情不是足以改变世界才算重要。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4554d94172a2a7c696338d3744e31bc0.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/355cae6938c5917aaf90f3116c383367.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
