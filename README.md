@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- Things don't have to change the world to be important.
-事情不是足以改变世界才算重要。
+A day of worry is more exhausting than a week of work.
+忧虑的度过一天，比起工作一周还令人劳累。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/355cae6938c5917aaf90f3116c383367.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/60579abb2ef8eab929cbf832dc1c476f.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
