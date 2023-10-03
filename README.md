@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The world is before you and you need not take it or leave it as it was when you came in.
-世界在你跟前，而你不一定要接受或维持它原先的样子。
+Today was good. Today was fun. Tomorrow is another one.
+不论今天过得很好还是过得很有趣。 明天都是新的开始。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4c8ea38265f5eaac6f49936fd14d29f6.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f477e4f959ad22efc5d25574f16fdf3c.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
