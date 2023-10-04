@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Today was good. Today was fun. Tomorrow is another one.
-不论今天过得很好还是过得很有趣。 明天都是新的开始。
+Forgiveness is the oil of relationships.
+原谅是人际关系的润滑油。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f477e4f959ad22efc5d25574f16fdf3c.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/dfd21bd8e8da5f6de3a18a57671ca567.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
