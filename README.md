@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Forgiveness is the oil of relationships.
-原谅是人际关系的润滑油。
+Everyone thinks of changing the world, but no one thinks of changing himself.
+大家都只想着改变世界，却从没想过先改变自己
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/dfd21bd8e8da5f6de3a18a57671ca567.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/dc1b49d2d9359741bb49f0a936ef6ec7.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
