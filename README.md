@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Everyone thinks of changing the world, but no one thinks of changing himself.
-大家都只想着改变世界，却从没想过先改变自己
+ Play to your strengths. If you aren't great at something, do more of what you’re great at.
+善用你的优势。 多做你擅长的事情而不是那些你不擅长的事。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/dc1b49d2d9359741bb49f0a936ef6ec7.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6d165fd799704d83bd897da859ee34cb.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
