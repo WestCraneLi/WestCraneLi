@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- Play to your strengths. If you aren't great at something, do more of what you’re great at.
-善用你的优势。 多做你擅长的事情而不是那些你不擅长的事。
+Everything that is happening at this moment is a result of the choices you've made in the past.
+此刻所发生的所有事，都是你过去选择的结果。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6d165fd799704d83bd897da859ee34cb.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1695961f05f79cb6bf630ce9747a189d.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
