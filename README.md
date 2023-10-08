@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Everything that is happening at this moment is a result of the choices you've made in the past.
-此刻所发生的所有事，都是你过去选择的结果。
+Things change. And friends leave. Life doesn't stop for anybody. 
+事情会改变，朋友会离去。 生命不会为了任何人而停歇。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1695961f05f79cb6bf630ce9747a189d.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5d786d9265a8ab5afd6756a5644c52e4.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
