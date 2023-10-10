@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Failure is another steppingstone to greatness.
-失败是抵达卓越的另一个踏脚石。
+Times and conditions change so rapidly that we must keep our aim constantly focused on the future. 
+时代和环境变化非常快速，因此我们必须持续将目光聚焦在未来。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5ef2de07881f42bf9f36f650953ec04a.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/360e1d9aa105dd2b61ad808bcbb06c87.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
