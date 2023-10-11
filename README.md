@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Times and conditions change so rapidly that we must keep our aim constantly focused on the future. 
-时代和环境变化非常快速，因此我们必须持续将目光聚焦在未来。
+He that is over-cautious will accomplish little.
+过分谨慎的人难有成就。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/360e1d9aa105dd2b61ad808bcbb06c87.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/8fcbb628d2d0a7db7526a71e3be1a5fa.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
