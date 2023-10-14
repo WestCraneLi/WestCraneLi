@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-He is no wise man who will quit a certainty for an uncertainty.
-为了不确定的事而放弃确定的事是不智的。
+We reform others unconsciously when we walk uprightly.
+当我们行为端正，我们无意中转化他人。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f2f54a47b6952f7c06f21107cbc79386.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d94da24cd59af49ee0f15d0d6d66a259.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
