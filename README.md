@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Big shots are only little shots who keep shooting.
-大人物都是从小人物时不断地尝试而造就。
+Become the person who would attract the results you seek.
+努力成为那位能获得你追寻目标的人物。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/94b19e65ca9aed680b3d4b278a9796ce.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6050344edfd2490aeb505e3011edd794.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
