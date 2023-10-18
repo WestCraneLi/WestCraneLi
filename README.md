@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You’ll never get ahead by blaming your problems on other people.
-怪罪别人绝不会让你获得成功。
+You're not obligated to win. You're obligated to keep trying. To the best you can do everyday.
+但你必须不断尝试，每天表现你最好的一面。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0dfd35fcad9190747d8bd3cd2c91c758.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/56c97a833e642283c5252bb049132045.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
