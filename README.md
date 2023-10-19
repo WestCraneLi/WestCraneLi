@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You're not obligated to win. You're obligated to keep trying. To the best you can do everyday.
-但你必须不断尝试，每天表现你最好的一面。
+Don’t worry about failure; you only have to be right once.
+别害怕失败，只要做对一次就够了。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/56c97a833e642283c5252bb049132045.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/cd76763eae593021bc84d2fa51f64a9d.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
