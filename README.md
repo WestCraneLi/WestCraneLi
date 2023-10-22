@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Everything you've ever wanted is on the other side of fear.
-你得先跨越恐惧才能获得你所想要的一切。
+Being alone in a strange place as a visitor, more so I miss my dear ones on festivals.
+独在异乡为异客，每逢佳节倍思亲。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/596afbbd67fa0de3ea7c72ea08cf4a31.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d501a17ccb7a13b0eea54c98640a6999.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
