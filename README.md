@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-If you don't make things happen, then things will happen to you.
-你不造就未来，就不能控制发生在你身上的事。
+Doubt is a killer. You just have to know who you are and what you stand for.
+怀疑心是杀手。 你需要做的仅是知道自己的立场和自己是为谁而战。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d486eb38c2ccb2a54de3d155a66eb31f.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/97cd8f0106dcfd19988878bcf04bcb7f.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
