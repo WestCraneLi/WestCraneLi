@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Doubt is a killer. You just have to know who you are and what you stand for.
-怀疑心是杀手。 你需要做的仅是知道自己的立场和自己是为谁而战。
+Use the losses and failures of the past as a reason for action, not inaction.
+过去的损失和失败经验，应是你采取行动，而非不采取行动的理由。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/97cd8f0106dcfd19988878bcf04bcb7f.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6286d34c787320416bc8d7083e6f6553.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
