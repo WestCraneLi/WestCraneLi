@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You can't give up! If you give up, you're like everybody else.
-不要放弃！ 一旦你放弃了，就跟一般人没什么两样了。
+Never walk away from failure. On the contrary, study it carefully and imaginatively for its hidden assets.
+遇到失败绝不要一走了之，相反的，为其隐藏的资产仔细并有想像力的研究。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6286d34c787320416bc8d7083e6f6553.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/7eec7cadfcc61cbebc851e1d4ef748ad.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
