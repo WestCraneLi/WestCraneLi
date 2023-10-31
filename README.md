@@ -48,6 +48,8 @@ Hi there! I'm WestCraneLi ~
 ![Git](https://custom-icon-badges.demolab.com/badge/-Git-%23F05032?logo=Git&logoColor=white)
 ![Markdown](https://custom-icon-badges.demolab.com/badge/-Markdown-%23000000?logo=Markdown&logoColor=white)
 
+![WestCraneLi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WestCraneLi&show_icons=true&count_private=true)
+
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=WestCraneLi&theme=github)
 
 ![WestCraneLi's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=WestCraneLi&theme=github&height=320)
