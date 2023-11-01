@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Never walk away from failure. On the contrary, study it carefully and imaginatively for its hidden assets.
-遇到失败绝不要一走了之，相反的，为其隐藏的资产仔细并有想像力的研究。
+There’s never any guarantee that anyone will like you. So if anyone likes you at all, you’ve already won.
+永远无法保证有人会喜欢你。 所以如果有人喜欢你，你就已经赢了。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/7eec7cadfcc61cbebc851e1d4ef748ad.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c3fbcf027da73cc5094078f03c60d13c.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
