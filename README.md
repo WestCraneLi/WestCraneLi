@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-There’s never any guarantee that anyone will like you. So if anyone likes you at all, you’ve already won.
-永远无法保证有人会喜欢你。 所以如果有人喜欢你，你就已经赢了。
+If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.
+如果有人想提供一个绝佳的成长机会给你，千万别再问对方有哪些机会选择，先把握住就对了。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c3fbcf027da73cc5094078f03c60d13c.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/931eb280f7da7fa5031b58583dcb3d7d.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
