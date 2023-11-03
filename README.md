@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.
-如果有人想提供一个绝佳的成长机会给你，千万别再问对方有哪些机会选择，先把握住就对了。
+Eloquent speech is not from lip to ear, but rather from heart to heart.
+在有说服力的演讲，讯息的传递不是由口到耳，而是由心到心。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/931eb280f7da7fa5031b58583dcb3d7d.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/60c4b0b16daa6141b4dc1b9c9dc1b652.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
