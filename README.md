@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Eloquent speech is not from lip to ear, but rather from heart to heart.
-在有说服力的演讲，讯息的传递不是由口到耳，而是由心到心。
+The harder you work, the luckier you get. 
+越努力就能越幸运。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/60c4b0b16daa6141b4dc1b9c9dc1b652.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4554d94172a2a7c696338d3744e31bc0.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
