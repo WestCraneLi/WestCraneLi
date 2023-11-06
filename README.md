@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-If you're going through hell, keep going.
-如果你正在经历困境苦难的途中，请继续前进。
+Cherish forever what makes you unique, cuz you’re really a yawn if it goes.
+感恩让能你与众不同的一切，因为失去这些差异你将会过的索然无味。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/355cae6938c5917aaf90f3116c383367.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/60579abb2ef8eab929cbf832dc1c476f.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
