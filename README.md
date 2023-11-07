@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Cherish forever what makes you unique, cuz you’re really a yawn if it goes.
-感恩让能你与众不同的一切，因为失去这些差异你将会过的索然无味。
+Nothing is impossible; the word itself says 'I'm possible!
+没有什么是不可能的 ; 这个词本意就是“我有一切可能” 。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/60579abb2ef8eab929cbf832dc1c476f.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e3e0bf111b67e2be8ccd6d661f4978ba.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
