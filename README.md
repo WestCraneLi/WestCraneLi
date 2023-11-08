@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Nothing is impossible; the word itself says 'I'm possible!
-没有什么是不可能的 ; 这个词本意就是“我有一切可能” 。
+Whatever you are, be a good one.
+无论你是谁，请当好的那一位。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e3e0bf111b67e2be8ccd6d661f4978ba.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c13c845a3f6533ff44bdf1c3bf7c72c3.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
