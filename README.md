@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is short, and it’s up to you to make it sweet.
-生命短暂，而你可以决定让它活出灿烂。
+Either run the day or the day runs you.
+成功的人主宰时间，失败的人被时间主宰。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d25483d75a1e273417e499f1b63dff94.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4c8ea38265f5eaac6f49936fd14d29f6.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
