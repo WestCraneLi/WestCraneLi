@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-There’s so much creativity in brokeness. Brokeness will have you making it work. 
-跳脱常规激发更多的创造力，同时可以造就不凡的成功。
+If they don’t give you a seat at the table, bring a folding chair
+即使没人给你上桌的机会，你依旧得想尽办法办法让自己参与其中。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f477e4f959ad22efc5d25574f16fdf3c.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/dfd21bd8e8da5f6de3a18a57671ca567.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
