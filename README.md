@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-If they don’t give you a seat at the table, bring a folding chair
-即使没人给你上桌的机会，你依旧得想尽办法办法让自己参与其中。
+I attribute my success to this: I never gave or took any excuse. 
+我将成功归功于这一点：从不给或找任何借口。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/dfd21bd8e8da5f6de3a18a57671ca567.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/dc1b49d2d9359741bb49f0a936ef6ec7.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
