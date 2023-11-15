@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I attribute my success to this: I never gave or took any excuse. 
-我将成功归功于这一点：从不给或找任何借口。
+Your attitude, not your aptitude, will determine your altitude.
+你人生的高度取决于你的态度非你的能力。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/dc1b49d2d9359741bb49f0a936ef6ec7.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6d165fd799704d83bd897da859ee34cb.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
