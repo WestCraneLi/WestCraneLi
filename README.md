@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Quality performance starts with a positive attitude. 
-优质的表现始于积极的态度。
+A life lived by choice is a life of conscious action. A life lived by chance is a life of unconscious reaction.
+选择生活的人是有意识地行动的人。凭运气生活的人是无意识地反应的人。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1695961f05f79cb6bf630ce9747a189d.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5d786d9265a8ab5afd6756a5644c52e4.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
