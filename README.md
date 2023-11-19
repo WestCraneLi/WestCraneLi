@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- Life shrinks or expands in proportion to one's courage.
-生命是走向凋零还是兴盛与一个人的勇气成正比。
+A man, as a general rule, owes very little to what he is born with – a man is what he makes of himself.
+人一般而言，天生的能力对他影响不大， 他如何造就自己决定他的人生。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5ef2de07881f42bf9f36f650953ec04a.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/360e1d9aa105dd2b61ad808bcbb06c87.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
