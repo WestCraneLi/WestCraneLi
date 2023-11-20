@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A man, as a general rule, owes very little to what he is born with – a man is what he makes of himself.
-人一般而言，天生的能力对他影响不大， 他如何造就自己决定他的人生。
+ Knowing is not enough; we must apply. 
+光是知道是不够的; 我们必须能够应用。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/360e1d9aa105dd2b61ad808bcbb06c87.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/8fcbb628d2d0a7db7526a71e3be1a5fa.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
