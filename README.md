@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You will face many defeats in life, but never let yourself be defeated. 
-人的一生都会面临许多磨难，但永远别让自己被磨难打败。
+ Knowing what must be done does away with fear. 
+当清楚知道目标该做什么时，恐惧感就会自行远离。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/94b19e65ca9aed680b3d4b278a9796ce.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6050344edfd2490aeb505e3011edd794.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
