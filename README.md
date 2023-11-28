@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- If you don’t risk anything, you risk even more.
-如果你不敢冒任何风险，那么你就会身处在更大的风险之中。
+Intelligence without ambition is a bird without wings.
+聪明但没有抱负，就像没有翅膀的鸟。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/56c97a833e642283c5252bb049132045.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/cd76763eae593021bc84d2fa51f64a9d.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
