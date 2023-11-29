@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Intelligence without ambition is a bird without wings.
-聪明但没有抱负，就像没有翅膀的鸟。
+No one can make you feel inferior without your consent.
+没有人能在取得你的同意前让你自己感到自卑。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/cd76763eae593021bc84d2fa51f64a9d.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d25483d75a1e273417e499f1b63dff94.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
