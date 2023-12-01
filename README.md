@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- When you undervalue what you do, the world will undervalue who you are. 
-当你低估自己所做的事情时，世界同时也会低估你的价值。
+The man who has made up his mind to win will never say "impossible".
+决心取得胜利的人从来不说“不可能”。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/596afbbd67fa0de3ea7c72ea08cf4a31.jpg alt="bing img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d501a17ccb7a13b0eea54c98640a6999.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
