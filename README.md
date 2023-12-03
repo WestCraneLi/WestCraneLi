@@ -5,7 +5,7 @@
  If you want to lift yourself up, lift up someone else. 
 如果你想振奋自己， 先振奋周遭的人。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d486eb38c2ccb2a54de3d155a66eb31f.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d486eb38c2ccb2a54de3d155a66eb31f.jpg alt="bing img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
@@ -49,11 +49,11 @@ Hi there! I'm WestCraneLi ~
 ![Markdown](https://custom-icon-badges.demolab.com/badge/-Markdown-%23000000?logo=Markdown&logoColor=white)
 
 ![WestCraneLi's GitHub stats](https://github-readme-stats.vercel.app/api?username=WestCraneLi&show_icons=true&count_private=true)
-<a href="https://app.daily.dev/westcraneli">
-  <img src="https://api.daily.dev/devcards/ad91276ae007477da4ff5bf91c125771.png?r=5f7" width="150" alt="WestCrane Li's Dev Card"/>
-</a>
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=WestCraneLi&theme=github)
 
 ![WestCraneLi's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=WestCraneLi&theme=github&height=320)
+<a href="https://app.daily.dev/westcraneli"><img src="https://api.daily.dev/devcards/ad91276ae007477da4ff5bf91c125771.png?r=5f7" width="400" alt="WestCrane Li's Dev Card"/></a>
 
 <img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
 
