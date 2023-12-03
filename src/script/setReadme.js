@@ -63,9 +63,6 @@ Hi there! I'm WestCraneLi ~
 </a>
 
 ![WestCraneLi's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=WestCraneLi&theme=github&height=320)
-<a href="https://app.daily.dev/westcraneli"><img src="https://api.daily.dev/devcards/ad91276ae007477da4ff5bf91c125771.png?r=5f7" width="400" alt="WestCrane Li's Dev Card"/></a>
-
-<img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
 
 ⭐️ From [WestCraneLi](https://github.com/WestCraneLi)
 `;
