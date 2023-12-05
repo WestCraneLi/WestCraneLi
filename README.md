@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Develop your imagination – you can use it to create in your mind what you hope to create in your life.
-发展你的想像力 – 你可以用它在心里创造你想在现实生活创造的东西。
+One always has enough time, if one will apply it well.
+人总是有足够的时间，如果他好好利用。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4c8ea38265f5eaac6f49936fd14d29f6.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/596afbbd67fa0de3ea7c72ea08cf4a31.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
