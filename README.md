@@ -2,8 +2,8 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- I'd rather regret the things I've done than regret the things I haven't done.
-我宁可后悔我曾做过的事，也不要懊悔我从未去做。
+ Learn from the mistakes of others. You can't live long enough to make them yourself.
+试着从别人的错误当中学习，因为你没办法用自己的生命实际感受过每一个错误。
 </blockquote>
 <img src=https://staticedu-wps.cache.iciba.com/image/4554d94172a2a7c696338d3744e31bc0.jpg alt="img" />
 
