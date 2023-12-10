@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- Learn from the mistakes of others. You can't live long enough to make them yourself.
-试着从别人的错误当中学习，因为你没办法用自己的生命实际感受过每一个错误。
+If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
+如果你的行为鼓舞别人梦想更多、学习更多、行动更多及改变更多，你即是位领导者。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4554d94172a2a7c696338d3744e31bc0.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/355cae6938c5917aaf90f3116c383367.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
