@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-If your actions inspire others to dream more, learn more, do more and become more, you are a leader.
-如果你的行为鼓舞别人梦想更多、学习更多、行动更多及改变更多，你即是位领导者。
+Growth and comfort do not coexist.
+成长与舒适是不并存的。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/355cae6938c5917aaf90f3116c383367.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/60579abb2ef8eab929cbf832dc1c476f.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
