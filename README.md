@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Growth and comfort do not coexist.
-成长与舒适是不并存的。
+If you are not doing what you love, you are wasting your time.
+若非在做你喜爱的事，你就是在浪费时间。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/60579abb2ef8eab929cbf832dc1c476f.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e3e0bf111b67e2be8ccd6d661f4978ba.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
