@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-If you are not doing what you love, you are wasting your time.
-若非在做你喜爱的事，你就是在浪费时间。
+Alone we can do so little; together we can do so much. 
+团结合作胜过于单打独斗。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e3e0bf111b67e2be8ccd6d661f4978ba.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c13c845a3f6533ff44bdf1c3bf7c72c3.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
