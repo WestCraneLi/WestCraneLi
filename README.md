@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Alone we can do so little; together we can do so much. 
-团结合作胜过于单打独斗。
+Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.
+人生不只是握有一付好牌，有时候也要把一付坏牌打好。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c13c845a3f6533ff44bdf1c3bf7c72c3.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/2d6c2f0270c4a0d2950a401f57b4840d.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
