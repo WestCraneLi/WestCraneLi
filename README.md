@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.
-人生不只是握有一付好牌，有时候也要把一付坏牌打好。
+ If I have seen further, it is by standing on the shoulders of giants. 
+如果我能看得更远，是因为站在巨人的肩膀上。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/2d6c2f0270c4a0d2950a401f57b4840d.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d25483d75a1e273417e499f1b63dff94.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
