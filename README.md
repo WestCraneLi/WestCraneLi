@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- If I have seen further, it is by standing on the shoulders of giants. 
-如果我能看得更远，是因为站在巨人的肩膀上。
+ No one can whistle a symphony. It takes a whole orchestra to play it. 
+没人能独自吹哨出一首交响乐，需要整个乐队一起才能完成演奏。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d25483d75a1e273417e499f1b63dff94.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4c8ea38265f5eaac6f49936fd14d29f6.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
