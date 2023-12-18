@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- No one can whistle a symphony. It takes a whole orchestra to play it. 
-没人能独自吹哨出一首交响乐，需要整个乐队一起才能完成演奏。
+Talent wins games, but teamwork and intelligence win championships.
+天赋可以赢得游戏，但团队合作及智慧可以赢得冠军。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4c8ea38265f5eaac6f49936fd14d29f6.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/dfd21bd8e8da5f6de3a18a57671ca567.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
