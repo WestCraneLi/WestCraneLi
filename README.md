@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Talent wins games, but teamwork and intelligence win championships.
-天赋可以赢得游戏，但团队合作及智慧可以赢得冠军。
+ It is literally true that you can succeed best and quickest by helping others to succeed. 
+帮助他人成功是让自己最快获得成功的不二法门。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/dfd21bd8e8da5f6de3a18a57671ca567.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/dc1b49d2d9359741bb49f0a936ef6ec7.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
