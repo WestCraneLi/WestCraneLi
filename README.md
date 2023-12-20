@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- It is literally true that you can succeed best and quickest by helping others to succeed. 
-帮助他人成功是让自己最快获得成功的不二法门。
+Love starts when we push aside our ego and make room for someone else.
+爱始于把自我推到一旁，留些空间给别人。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/dc1b49d2d9359741bb49f0a936ef6ec7.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6d165fd799704d83bd897da859ee34cb.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
