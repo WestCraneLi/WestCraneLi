@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-At the courier station of Handan on Winter Solstice night, my arms clasping my knees, only my shadow is accompanying me.
-邯郸驿里逢冬至，抱膝灯前影伴身。
+ Individually, we are one drop. Together, we are an ocean.
+单独来看， 我们都像是水滴。 当凝聚在一起， 我们就是一片海洋。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1695961f05f79cb6bf630ce9747a189d.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5d786d9265a8ab5afd6756a5644c52e4.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
