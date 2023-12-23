@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- Individually, we are one drop. Together, we are an ocean.
-单独来看， 我们都像是水滴。 当凝聚在一起， 我们就是一片海洋。
+Christmas Eve blessing, for you around.
+平安夜的祝福，为你围绕。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5d786d9265a8ab5afd6756a5644c52e4.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5ef2de07881f42bf9f36f650953ec04a.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
