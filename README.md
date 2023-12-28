@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-It is not in the still calm of life, or in the repose of a pacific station, that great characters are formed.
-伟大的人格特质，不是在平静的生活，或无风的太平洋港里形成。
+What I’ve really learned over time is that optimism is a very, very important part of leadership.
+我在过去真正学到的是，乐观是领导非常、非常重要的一环。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f2f54a47b6952f7c06f21107cbc79386.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d94da24cd59af49ee0f15d0d6d66a259.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
