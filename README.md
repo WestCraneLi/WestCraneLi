@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-What I’ve really learned over time is that optimism is a very, very important part of leadership.
-我在过去真正学到的是，乐观是领导非常、非常重要的一环。
+The loving person makes other people feel good, and he is usually a happy person himself.
+有爱心的人让人感到舒服，而他自己通常也是个快乐的人。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d94da24cd59af49ee0f15d0d6d66a259.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/94b19e65ca9aed680b3d4b278a9796ce.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
