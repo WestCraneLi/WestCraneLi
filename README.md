@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The loving person makes other people feel good, and he is usually a happy person himself.
-有爱心的人让人感到舒服，而他自己通常也是个快乐的人。
+ Satisfaction lies in the effort, not in the attainment. 
+满足感的源头在于不断努力，而不是现有的成就。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/94b19e65ca9aed680b3d4b278a9796ce.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6050344edfd2490aeb505e3011edd794.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
