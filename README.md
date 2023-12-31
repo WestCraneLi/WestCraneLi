@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- Satisfaction lies in the effort, not in the attainment. 
-满足感的源头在于不断努力，而不是现有的成就。
+It's time to turn the page and look to the future.
+是时候翻开新的一页，去展望未来了。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6050344edfd2490aeb505e3011edd794.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0dfd35fcad9190747d8bd3cd2c91c758.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
