@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-To make each day count.
-要让每一天都值得。
+There is no need to forgive, but it should not be forgotten.
+可以不需要原谅,但不应该被遗忘。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/cd76763eae593021bc84d2fa51f64a9d.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0e07c7a1c33d03bb1d0cf334a63d5b02.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
