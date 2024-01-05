@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Nothing is impossible to a willing heart.
-心之所愿，无所不成。
+Do or do not. There is no try.
+要么做，要么不做。没有试试看这一说。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/596afbbd67fa0de3ea7c72ea08cf4a31.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d501a17ccb7a13b0eea54c98640a6999.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
