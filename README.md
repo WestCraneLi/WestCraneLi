@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Choose what you like and love what you choose.
-选择你所喜欢的，爱你所选择的。
+The establishment of civilization is not a machine but a thought.
+文明的建立的不是机器而是思想。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d486eb38c2ccb2a54de3d155a66eb31f.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/97cd8f0106dcfd19988878bcf04bcb7f.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
