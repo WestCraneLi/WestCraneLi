@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The establishment of civilization is not a machine but a thought.
-文明的建立的不是机器而是思想。
+Small deeds done are better than great deeds planned.
+已经完成的小事胜过计划完成的大事。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/97cd8f0106dcfd19988878bcf04bcb7f.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6286d34c787320416bc8d7083e6f6553.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
