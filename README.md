@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Man is created for thinking.
-人是为了思考才被创造出来的。
+I would rather be lonely all my life than drift with the tide.
+宁愿一生孤独，不愿随波逐流。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4554d94172a2a7c696338d3744e31bc0.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/355cae6938c5917aaf90f3116c383367.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
