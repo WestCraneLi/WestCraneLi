@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I would rather be lonely all my life than drift with the tide.
-宁愿一生孤独，不愿随波逐流。
+We can do more good by being good, than in any other way.
+若想要做好事，成为好的人胜过所有方法。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/355cae6938c5917aaf90f3116c383367.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/60579abb2ef8eab929cbf832dc1c476f.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
