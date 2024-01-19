@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Beautiful things don't ask for attention.
-草木有本心，何求美人折。
+All life is a game of luck.
+生活本来就全靠运气。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/2d6c2f0270c4a0d2950a401f57b4840d.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0e07c7a1c33d03bb1d0cf334a63d5b02.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
