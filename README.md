@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Happiness is about having each tiny wish come true.
-幸福是每一个微小愿望的达成。
+The heavier with great power comes great responsibility.
+能力越大，责任越重。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/dc1b49d2d9359741bb49f0a936ef6ec7.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6d165fd799704d83bd897da859ee34cb.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
