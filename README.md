@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Don't try, or miss the event.
-千万不要假戏真做，误了大事。——《十面埋伏》
+A soul preoccupied with great ideas best performs small duties.
+心系伟大想法的人，把小事做到最好。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5ef2de07881f42bf9f36f650953ec04a.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/360e1d9aa105dd2b61ad808bcbb06c87.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
