@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Reading is to the mind what exercise is to the body.
-阅读之于心灵，犹如运动之于身体。
+The way to get started is to quit talking and begin doing. 
+一切的起头就是不要只会说而是开始做。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8fcbb628d2d0a7db7526a71e3be1a5fa.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b42419f347ac7f02d5c8a8fa27a0b4b0.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
