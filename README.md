@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The only person you are destined to become is the person you decide to be. 
-你注定成为你决定成为的人。
+There is more to come.
+未来可期。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/dc1b49d2d9359741bb49f0a936ef6ec7.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/60c4b0b16daa6141b4dc1b9c9dc1b652.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
