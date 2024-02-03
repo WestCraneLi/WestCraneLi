@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Winning isn't everything, but wanting to win is. 
-获胜的结果不是一切，重要的是想获胜的心。
+Farewell to the cold winter snow, and welcome the warm spring breeze.
+寒辞去冬雪，暖带入春风。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/94b19e65ca9aed680b3d4b278a9796ce.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6050344edfd2490aeb505e3011edd794.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
