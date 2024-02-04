@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Farewell to the cold winter snow, and welcome the warm spring breeze.
-寒辞去冬雪，暖带入春风。
+Regardless of your past, take account of your present and future.
+不管过去怎样，考虑现在和未来。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6050344edfd2490aeb505e3011edd794.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d501a17ccb7a13b0eea54c98640a6999.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
