@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The shortest answer is doing the thing.
-行动是最直接的回应。
+ An unexamined life is not worth living.
+未经审视的生活不值得过。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/56c97a833e642283c5252bb049132045.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/94b19e65ca9aed680b3d4b278a9796ce.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
