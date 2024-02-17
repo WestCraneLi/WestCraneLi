@@ -2,8 +2,8 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Forget your troubles and just get happy.
-忘掉烦恼，高兴起来吧。
+You can go as far as you want to go.
+心有多远，你就能走多远。
 </blockquote>
 <img src=https://staticedu-wps.cache.iciba.com/image/60c4b0b16daa6141b4dc1b9c9dc1b652.jpg alt="img" />
 
