@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-When the moon was on the willow's top,We'd met after dusk.
-月上柳梢头，人约黄昏后。
+Wisdom is not wisdom when it is derived from books alone.
+只是从书中获得的智慧不算是智慧。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d25483d75a1e273417e499f1b63dff94.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4c8ea38265f5eaac6f49936fd14d29f6.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
