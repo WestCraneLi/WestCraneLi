@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Wisdom is not wisdom when it is derived from books alone.
-只是从书中获得的智慧不算是智慧。
+Patience is a bitter plant that produces sweet fruit.
+耐心是苦涩的树，但它会长出甜美的果实。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4c8ea38265f5eaac6f49936fd14d29f6.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/8fcbb628d2d0a7db7526a71e3be1a5fa.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
