@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Patience is a bitter plant that produces sweet fruit.
-耐心是苦涩的树，但它会长出甜美的果实。
+Whatever you do, do not let go!
+不管你做什么，都不要放弃！
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8fcbb628d2d0a7db7526a71e3be1a5fa.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/dfd21bd8e8da5f6de3a18a57671ca567.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
