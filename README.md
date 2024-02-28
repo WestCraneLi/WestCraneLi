@@ -2,8 +2,8 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Take your time, good or bad.
-慢慢来吧，好与不好都随缘而遇。
+The time for action is now. It's never too late to do something.
+现在就行动，采取行动永远不嫌太晚。
 </blockquote>
 <img src=https://staticedu-wps.cache.iciba.com/image/6d165fd799704d83bd897da859ee34cb.jpg alt="img" />
 
