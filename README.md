@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The time for action is now. It's never too late to do something.
-现在就行动，采取行动永远不嫌太晚。
+A merry heart goes all the way. 
+心旷神怡，事事顺利。 
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6d165fd799704d83bd897da859ee34cb.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/7eec7cadfcc61cbebc851e1d4ef748ad.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
