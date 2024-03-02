@@ -2,8 +2,8 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-when life gets you down, just keep moving.
-当生活遇到瓶颈，继续向前就对了。——《料理鼠王》
+Fearless is having fears but jumping anyway.
+无畏是心有所惧，但仍勇往直前。 ——泰勒·斯威夫特
 </blockquote>
 <img src=https://staticedu-wps.cache.iciba.com/image/5d786d9265a8ab5afd6756a5644c52e4.jpg alt="img" />
 
