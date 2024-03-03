@@ -2,8 +2,8 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Fearless is having fears but jumping anyway.
-无畏是心有所惧，但仍勇往直前。 ——泰勒·斯威夫特
+You reap what you sow.
+种瓜得瓜，种豆得豆。 
 </blockquote>
 <img src=https://staticedu-wps.cache.iciba.com/image/5d786d9265a8ab5afd6756a5644c52e4.jpg alt="img" />
 
