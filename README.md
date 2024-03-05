@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The best thing to hold noto in life is each other.
-生命中最值得珍惜的便是彼此。——奥黛丽·赫本
+Quick at meal, quick at work.
+吃得快，做得快。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5ef2de07881f42bf9f36f650953ec04a.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/60c4b0b16daa6141b4dc1b9c9dc1b652.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
