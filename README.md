@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Sometimes things have to fall apart to make way for better things.
-有时候要到达谷底，才会慢慢变好。
+You are beautiful just as you are.
+你本来就很美。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8fcbb628d2d0a7db7526a71e3be1a5fa.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b42419f347ac7f02d5c8a8fa27a0b4b0.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
