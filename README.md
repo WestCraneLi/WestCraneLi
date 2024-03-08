@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You are beautiful just as you are.
-你本来就很美。
+Don't be afraid to be yourself. Follow your own path.
+不要害怕做与众不同的自己，走自己的路。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b42419f347ac7f02d5c8a8fa27a0b4b0.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/94b19e65ca9aed680b3d4b278a9796ce.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
