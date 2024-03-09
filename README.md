@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Don't be afraid to be yourself. Follow your own path.
-不要害怕做与众不同的自己，走自己的路。
+There's nothing you can do that can't be done.
+没有什么是你能做却做不到的。——披头士乐队
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/94b19e65ca9aed680b3d4b278a9796ce.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d94da24cd59af49ee0f15d0d6d66a259.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
