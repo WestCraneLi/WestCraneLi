@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Never doubt that you are valuable and powerful.
-永远都不要质疑你自己的价值和能力。——艾玛·沃特森
+Be slow to promise and be quick to perform.
+勿轻诺，诺必果。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/7eec7cadfcc61cbebc851e1d4ef748ad.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0dfd35fcad9190747d8bd3cd2c91c758.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
