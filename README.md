@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Care and diligence bring luck.
-谨慎和勤奋，带来好运气。
+A wise head makes a close mouth. 
+真人不露相，露相非真人。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0e07c7a1c33d03bb1d0cf334a63d5b02.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/596afbbd67fa0de3ea7c72ea08cf4a31.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
