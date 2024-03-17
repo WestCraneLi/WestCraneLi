@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A wise head makes a close mouth. 
-真人不露相，露相非真人。
+The only person standing on your way is you.
+唯一能阻碍你的人，是你自己。 ——《黑天鹅》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/596afbbd67fa0de3ea7c72ea08cf4a31.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4554d94172a2a7c696338d3744e31bc0.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
