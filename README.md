@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-If you obey all the rules, you'll miss all the fun.
-凡事都墨守成规，就毫无乐趣了。
+Don't let yesterday take up too much of today.
+别让昨日之事占据今日太多时间。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/931eb280f7da7fa5031b58583dcb3d7d.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4c8ea38265f5eaac6f49936fd14d29f6.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
