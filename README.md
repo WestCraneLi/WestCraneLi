@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Elegance is the only beauty that never fades.
-优雅是唯一不会褪色的美。
+Travel imparts new vigor to the mind.
+旅行给思想带来新的活力。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6050344edfd2490aeb505e3011edd794.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/56c97a833e642283c5252bb049132045.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
