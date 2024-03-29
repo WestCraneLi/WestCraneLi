@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A miss is as good as a mile. 
-失之毫厘，差之千里。 
+Happy life lies in a peaceful mind.
+幸福的生活存在于心绪的宁静之中。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d486eb38c2ccb2a54de3d155a66eb31f.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c13c845a3f6533ff44bdf1c3bf7c72c3.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
