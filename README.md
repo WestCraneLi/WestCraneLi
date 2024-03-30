@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Happy life lies in a peaceful mind.
-幸福的生活存在于心绪的宁静之中。
+We will not go quietly into the night!
+我们不会就此无声无息的步入黑暗。——美国电影《独立日》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c13c845a3f6533ff44bdf1c3bf7c72c3.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/60c4b0b16daa6141b4dc1b9c9dc1b652.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
