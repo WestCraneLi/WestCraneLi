@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-It's April Fools' Day. If I believe you, I'm a noodle.
-今天是愚人节，如果我相信你，我就是个傻瓜。
+A friend is easier lost than found.
+得朋友难，失朋友易。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/eeefd496f3b566fc926d129fcc4a74fd.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/7be935b377c9efdd3aeba9c50042d4ba.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
