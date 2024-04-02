@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A friend is easier lost than found.
-得朋友难，失朋友易。
+Patience is the best remedy.
+忍耐是最好的药物。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/7be935b377c9efdd3aeba9c50042d4ba.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/8abdbaea8efd127d07caba224d60a7ac.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
