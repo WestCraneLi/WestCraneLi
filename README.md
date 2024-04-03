@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Patience is the best remedy.
-忍耐是最好的药物。
+A drizzling rain falls like tears on the Mourning Day.
+清明时节雨纷纷
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8abdbaea8efd127d07caba224d60a7ac.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6dcaa447873f4867d5354301235658e2.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
