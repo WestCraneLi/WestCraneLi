@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A drizzling rain falls like tears on the Mourning Day.
-清明时节雨纷纷
+The best way to achieve a goal is to devote 100% of your time and energy to it.
+达到目标的最好办法就是投入百分之百的时间和精力！
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6dcaa447873f4867d5354301235658e2.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d964f04be94f9b9784bb399a557fdff5.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
