@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The best way to achieve a goal is to devote 100% of your time and energy to it.
-达到目标的最好办法就是投入百分之百的时间和精力！
+A good beginning makes a good ending.
+善始者善终。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d964f04be94f9b9784bb399a557fdff5.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/025bbd10c5df14cd7d240288a916163f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
