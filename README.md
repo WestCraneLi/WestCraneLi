@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A good beginning makes a good ending.
-善始者善终。
+Don’t lose hope.You never know what tomorrow brings.
+别灰心，谁又知道明天会有怎样的惊喜。 --《摩登家庭》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/025bbd10c5df14cd7d240288a916163f.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/866e634ee766b27d8c7be1d382099d56.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
