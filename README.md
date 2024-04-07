@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Don’t lose hope.You never know what tomorrow brings.
-别灰心，谁又知道明天会有怎样的惊喜。 --《摩登家庭》
+Think less of gain and loss as long as you go all out and have a clear mind.
+得失成败置之度外，只求竭尽所能，无愧于心。 --傅雷
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/866e634ee766b27d8c7be1d382099d56.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d401e13c9b3d8fe33437541a73eb7cd4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
