@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The task will be hard. There may be dark days ahead.
-任务将会困难重重，前路可能乌云密布 。
+You can't obtain something for nothing.
+没有付出就没有收获。 --《小美人鱼》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b450d5540e3d3aa01eb7244558c02eda.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/8a04a2741268f79cb42394a632829fce.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
