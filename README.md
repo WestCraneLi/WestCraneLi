@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You can't obtain something for nothing.
-没有付出就没有收获。 --《小美人鱼》
+All good things come to those who wait.
+所有美好的事物都值得等待。 --《浪人》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8a04a2741268f79cb42394a632829fce.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/db3d2fa1bb74fa074fd7ae2a5d593c36.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
