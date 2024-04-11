@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-All good things come to those who wait.
-所有美好的事物都值得等待。 --《浪人》
+No man is born wise or learned.
+人非生而知之。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/db3d2fa1bb74fa074fd7ae2a5d593c36.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0c6773967db454263443e4c6ae42f551.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
