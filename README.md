@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-No man is born wise or learned.
-人非生而知之。
+Beauty lies in the love's eyes.
+情人眼里出西施。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0c6773967db454263443e4c6ae42f551.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/a34de3e70c80ac5700c8dc8fcdc0c0e0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
