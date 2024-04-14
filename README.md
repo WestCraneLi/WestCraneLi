@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Ever tried. Ever failed. No matter. Try again.
-屡战屡败，屡败屡战。 --《权利的游戏》
+Sometimes I'm still not sure which side of the wall I'm on.
+有时候我不确定自己是在墙的哪一边。 --《钢琴家》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6f90ca5834a93ea1e18a0d992f8e17bb.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/14f6a9db7f21a918ebb60143153f4d9a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
