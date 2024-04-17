@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You have nothing but still cheer for my dreams.
-你什么都没有，却还为我的梦想加油。 --周杰伦《说好不哭》
+Jack of all trades，master of none.
+门门精通，样样稀松。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b0eeb7fc4bb8221a6cfac6539002683a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4119211223e898d0ac04447b74123bff.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
