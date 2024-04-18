@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Jack of all trades，master of none.
-门门精通，样样稀松。
+Youth means limitless possilities.
+年轻就有无限的可能。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4119211223e898d0ac04447b74123bff.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d04f0590c75ba0824b9574a8923431b5.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
