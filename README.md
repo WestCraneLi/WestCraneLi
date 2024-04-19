@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Youth means limitless possilities.
-年轻就有无限的可能。
+You get in life what you have the courage to ask for.
+勇敢去争取想要的生活，你终能得偿所愿。-–欧普拉‧温芙蕾
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d04f0590c75ba0824b9574a8923431b5.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/491f9e690e617e227efecaecf0208d63.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
