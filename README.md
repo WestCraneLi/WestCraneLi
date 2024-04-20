@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You get in life what you have the courage to ask for.
-勇敢去争取想要的生活，你终能得偿所愿。-–欧普拉‧温芙蕾
+Gratitude is the sign of noble souls.
+感恩是精神高尚的标志。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/491f9e690e617e227efecaecf0208d63.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/65cf19f276c22ad2e39c4add4ff64d49.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
