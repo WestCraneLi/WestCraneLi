@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Fortune knocks once at least at every man's gate.
-风水轮流转。
+All the splendor in the world is not worth a good friend.
+人世间所有的荣华富贵不如一个好朋友。——法国思想家伏尔泰
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ddc0c0f0764fa4ef2b76d14c426b09d1.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d90b5d7facbe4aa7274160588bba49be.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
