@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-All the splendor in the world is not worth a good friend.
-人世间所有的荣华富贵不如一个好朋友。——法国思想家伏尔泰
+Actions speak louder than words.
+事实胜于雄辩。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d90b5d7facbe4aa7274160588bba49be.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5a9b7fa9fe33683e9552d6079a596a58.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
