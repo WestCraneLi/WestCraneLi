@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Actions speak louder than words.
-事实胜于雄辩。
+A friend without faults will never be found.
+没有十全十美的朋友。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5a9b7fa9fe33683e9552d6079a596a58.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4c533cc30877437822aec46f52307676.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
