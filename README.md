@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A friend without faults will never be found.
-没有十全十美的朋友。
+Never judge a book by its cover.
+不要以貌取人。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4c533cc30877437822aec46f52307676.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f2caf658788c93841dc2c90208c90339.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
