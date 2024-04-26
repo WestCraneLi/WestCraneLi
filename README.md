@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Never judge a book by its cover.
-不要以貌取人。
+Children are what the mothers are.
+耳濡目染，言传身教。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f2caf658788c93841dc2c90208c90339.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4e0ee571d7589bfd1d27ec4674a7af9d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
