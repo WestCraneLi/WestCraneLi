@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Children are what the mothers are.
-耳濡目染，言传身教。
+The honest man takes pains, and then enjoys pleasure.
+正直的人先经历痛苦，然后享受欢乐。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4e0ee571d7589bfd1d27ec4674a7af9d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4e3f37133b0293471974de53a0c00ec9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
