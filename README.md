@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The honest man takes pains, and then enjoys pleasure.
-正直的人先经历痛苦，然后享受欢乐。
+Speech is the image of actions.
+语言是行动的反映。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4e3f37133b0293471974de53a0c00ec9.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0c52ebebb6c9c041c6c5c2a9dc56f1b4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
