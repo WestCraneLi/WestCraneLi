@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Speech is the image of actions.
-语言是行动的反映。
+A cat may look at a king.
+人人平等。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0c52ebebb6c9c041c6c5c2a9dc56f1b4.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d8b89c32dd2b38dedf63109e1ea25d9a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
