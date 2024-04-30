@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A cat may look at a king.
-人人平等。
+Labor is the most reliable wealth.
+劳动是最可靠的财富。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d8b89c32dd2b38dedf63109e1ea25d9a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/bd3cfed2c44b537e1481c94735c94ab1.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
