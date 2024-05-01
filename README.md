@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Labor is the most reliable wealth.
-劳动是最可靠的财富。
+Sweat is the lubricant of success.
+汗水是成功的润滑剂。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/bd3cfed2c44b537e1481c94735c94ab1.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1bdc02c51e37bac160fd07e1f428723d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
