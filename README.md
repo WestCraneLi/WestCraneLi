@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Sweat is the lubricant of success.
-汗水是成功的润滑剂。
+The apple doesn't fall far from the tree.
+树上掉下的苹果离树能有多远。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1bdc02c51e37bac160fd07e1f428723d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/cfad6a9b976fa32a209939ebcb56b7a6.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
