@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The apple doesn't fall far from the tree.
-树上掉下的苹果离树能有多远。
+Just hold to your dream and never give up. 
+坚持你的梦想，永不放弃。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/cfad6a9b976fa32a209939ebcb56b7a6.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1297d302d565622e72d202d341344363.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
