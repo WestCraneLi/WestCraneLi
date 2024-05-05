@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Great hopes make great men.
-伟大的理想造就伟大的人。
+Speech is the image of actions.
+语言是行动的反映。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f23d64c177fe400222d3f8293dbfbbb5.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/2304e7eed5077a813c358380094fffc1.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
