@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Don't wait to be lonely to recognize the value of a friend.
-不要等到孤独了，才明白朋友的价值。
+I wish I could be more like you.
+我要像你一样就好了。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8fe4765c3f9f078a2eb22152b9f7744c.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/98f727fbcf6a734fa4f768efd245ad1a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
