@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I wish I could be more like you.
-我要像你一样就好了。
+Whatever comes, I'll love you, just as I do now. Until I die.
+无论发生什么事，我都会像现在一样爱你，直到永远。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/98f727fbcf6a734fa4f768efd245ad1a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ca708e6829dd1583153340291b1359f6.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
