@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-There is always a better way.
-总有更好的办法。
+Life is too short for us to wake up in the morning with regrets.
+人生苦短，所以每天不要带着遗憾醒来。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/7575e870a3939140817c7293cf5950c1.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/76da8578cb9d0ac864ed3205fa2d97ec.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
