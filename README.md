@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is too short for us to wake up in the morning with regrets.
-人生苦短，所以每天不要带着遗憾醒来。
+A mother's arms are more comforting than anyone else's.
+妈妈的怀抱是最舒服的。——黛安娜王妃
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/76da8578cb9d0ac864ed3205fa2d97ec.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/3dbe757f01928ef6c1ddd02dbb35e859.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
