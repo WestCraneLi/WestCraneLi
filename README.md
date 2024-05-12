@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A mother's arms are more comforting than anyone else's.
-妈妈的怀抱是最舒服的。——黛安娜王妃
+Inside of every problem lies an opportunity.
+每个问题里都藏着一个机会。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/3dbe757f01928ef6c1ddd02dbb35e859.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/105a6420adce05850afdf7bd582d6ffb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
