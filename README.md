@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Inside of every problem lies an opportunity.
-每个问题里都藏着一个机会。
+Mankind was born on Earth. It was never meant to die here.
+人类生在地球， 但绝不应该在这里灭亡。——《星际穿越》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/105a6420adce05850afdf7bd582d6ffb.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6f66e5da39ba4ef2ec6ca39fc6903627.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
