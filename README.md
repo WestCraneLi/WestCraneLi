@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Mankind was born on Earth. It was never meant to die here.
-人类生在地球， 但绝不应该在这里灭亡。——《星际穿越》
+If you are ever in trouble, don't try to be brave, just run, just run away.
+你若遇上麻烦，不要逞强，你就跑，远远跑开。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6f66e5da39ba4ef2ec6ca39fc6903627.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ab29c20a4a40496d4080963a2c2bef02.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
