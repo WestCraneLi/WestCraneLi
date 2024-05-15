@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-If you are ever in trouble, don't try to be brave, just run, just run away.
-你若遇上麻烦，不要逞强，你就跑，远远跑开。
+Love is the one thing that transcends time and space.
+只有爱可以穿越时空。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ab29c20a4a40496d4080963a2c2bef02.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b66b28b209bf3664d9429d1a1651701c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
