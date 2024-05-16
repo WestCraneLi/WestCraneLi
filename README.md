@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Love is the one thing that transcends time and space.
-只有爱可以穿越时空。
+Death is just a part of life, something we’re all destined to do.
+死亡是生命的一部分，是我们注定要面对的一件事。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b66b28b209bf3664d9429d1a1651701c.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6a2f8306b9312a5d24888a1ba232b469.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
