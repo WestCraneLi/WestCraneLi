@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-There are only the pursued, the pursuing, the busy and the tired.
-世界上只有被追求者和追求者，忙碌者和疲惫者。　　
+Life is expensive. You know, you have to be responsible.
+生活很昂贵，你需要负责。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ae040bee5b644dcba2da0f5604a7a61f.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5bf1da760fa25930d5155fd0fe327686.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
