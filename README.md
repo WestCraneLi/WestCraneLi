@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is expensive. You know, you have to be responsible.
-生活很昂贵，你需要负责。
+Above all, don't lie to yourself.
+最重要的是不要欺骗自己。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5bf1da760fa25930d5155fd0fe327686.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ba26d44bb5b99378a125cd644efe1ab0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
