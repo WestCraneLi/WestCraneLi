@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Above all, don't lie to yourself.
-最重要的是不要欺骗自己。
+People who truly loved once are far more likely to love again.
+真爱过的人很难再恋爱。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ba26d44bb5b99378a125cd644efe1ab0.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b7e0061937f3d2b8f807352333387970.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
