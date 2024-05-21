@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-People who truly loved once are far more likely to love again.
-真爱过的人很难再恋爱。
+It is easier to get than to keep it.
+创业容易守成难。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b7e0061937f3d2b8f807352333387970.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f6b40c7f6b8e6fe187346c2815ccd82a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
