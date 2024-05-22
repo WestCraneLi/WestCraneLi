@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-It is easier to get than to keep it.
-创业容易守成难。
+If I could, I surely would.
+如果可以，我绝对愿意！
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f6b40c7f6b8e6fe187346c2815ccd82a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/13ad153cc50dfda69b1d195f4ebf4173.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
