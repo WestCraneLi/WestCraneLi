@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-To be, or not to be - that is the question.
-生存还是毁灭，这是一个问题。——《哈姆雷特》
+If you don't try, you'll never know.
+如果不尝试，你永远不会知道结果。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5f0c59ed2bda45ebaa716e3db8d28028.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4350354f7b48272e4a2c7a7c11137eca.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
