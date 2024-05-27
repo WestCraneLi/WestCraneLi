@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-If you don't try, you'll never know.
-如果不尝试，你永远不会知道结果。
+Love is a game that two can play and both win.
+爱是两个人玩的双赢游戏。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4350354f7b48272e4a2c7a7c11137eca.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d1959ae4ba1d83fb10ee169298973b05.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
