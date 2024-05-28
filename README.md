@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Love is a game that two can play and both win.
-爱是两个人玩的双赢游戏。
+No fear of words, no fear of years.
+不惧人言，不畏岁月。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d1959ae4ba1d83fb10ee169298973b05.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/9d235fede7bd7c7d8c26923763e8a349.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
