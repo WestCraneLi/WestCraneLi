@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-No fear of words, no fear of years.
-不惧人言，不畏岁月。
+You can't be perfect, but you can be unique.
+你不能十全十美，但你能独一无二。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/9d235fede7bd7c7d8c26923763e8a349.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5f85c4c179ce3f006ec61e2732270872.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
