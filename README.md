@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You can't be perfect, but you can be unique.
-你不能十全十美，但你能独一无二。
+Only you can control your future.
+只有你自己可以掌控你的未来。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5f85c4c179ce3f006ec61e2732270872.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0738891770159d8af068004f57e7cec8.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
