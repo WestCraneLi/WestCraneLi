@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Only you can control your future.
-只有你自己可以掌控你的未来。
+Children see magic because they look for it.
+孩子之所以能看到魔法，是因为他们在寻找。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0738891770159d8af068004f57e7cec8.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4267acb6fae2599b4421d132e0d9aeed.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
