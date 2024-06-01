@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Children see magic because they look for it.
-孩子之所以能看到魔法，是因为他们在寻找。
+Time cures all things.
+时间可抚平一切创伤。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4267acb6fae2599b4421d132e0d9aeed.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/26bd66deb2a407d0040d0d6426a71cc2.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
