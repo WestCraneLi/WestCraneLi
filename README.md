@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Time cures all things.
-时间可抚平一切创伤。
+You miss 100% of the shots you don't take.
+你不尝试，就不可能成功。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/26bd66deb2a407d0040d0d6426a71cc2.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/26720ca733858103974adf7d86dab6c1.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
