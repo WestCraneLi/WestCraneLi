@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You miss 100% of the shots you don't take.
-你不尝试，就不可能成功。
+Joy shared with others are more enjoyed.
+与人同乐，其乐无穷。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/26720ca733858103974adf7d86dab6c1.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/a2d8bf5cd6d0e89128c234e9404a6419.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
