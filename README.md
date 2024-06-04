@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Joy shared with others are more enjoyed.
-与人同乐，其乐无穷。
+It takes all sorts to make a world.
+世界之大，无奇不有。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a2d8bf5cd6d0e89128c234e9404a6419.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/54cc7f36081cd74d1e1dd11fdacd3341.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
