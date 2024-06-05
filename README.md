@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-It takes all sorts to make a world.
-世界之大，无奇不有。
+Be bold. You don't have so many audiences.
+大胆点生活，其实你没有那么多观众。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/54cc7f36081cd74d1e1dd11fdacd3341.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/530fb81e9bdd6a37ae9fd9b9366b3eb5.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
