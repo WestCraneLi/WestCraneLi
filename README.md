@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Be bold. You don't have so many audiences.
-大胆点生活，其实你没有那么多观众。
+Succcessful, faster runs my horse in vernal breeze;I've seen within one day all flowers on the trees.
+春风得意马蹄疾，一日看尽长安花。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/530fb81e9bdd6a37ae9fd9b9366b3eb5.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c71128f41d5cc1ee602d0de2bb47d0bd.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
