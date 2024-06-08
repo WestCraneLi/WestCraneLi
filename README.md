@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-It is never too late to fall in love.
-爱永远不会嫌晚。
+Remember to bring a little smile every day in this messy life.
+记得在这杂乱的生活里每天带点笑意。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b40de4751f4c4bb6efaa60463ba05539.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0d626f0a066716bb5f6f3e33b970f70e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
