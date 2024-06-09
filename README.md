@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Remember to bring a little smile every day in this messy life.
-记得在这杂乱的生活里每天带点笑意。
+When the Cang-lang's waters are clear,I can wash my hat-strings in them.
+沧浪之水清兮，可以濯吾缨。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0d626f0a066716bb5f6f3e33b970f70e.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/92e42000a75b724b55a06a145ad925b4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
