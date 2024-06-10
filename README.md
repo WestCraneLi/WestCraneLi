@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-When the Cang-lang's waters are clear,I can wash my hat-strings in them.
-沧浪之水清兮，可以濯吾缨。
+It is worthwhile to travel all over the world.
+遍历山河，人间值得。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/92e42000a75b724b55a06a145ad925b4.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/a8dea6ddefcd3e121c326c0cf200b9fa.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
