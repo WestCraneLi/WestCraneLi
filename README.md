@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-It is worthwhile to travel all over the world.
-遍历山河，人间值得。
+Image a new story for your life and start living it. 
+为你的生命想一个全新剧本，并去倾情出演吧！
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a8dea6ddefcd3e121c326c0cf200b9fa.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/68133700dfc4fb589d65e8ce5643335a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
