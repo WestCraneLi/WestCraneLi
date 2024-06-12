@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Image a new story for your life and start living it. 
-为你的生命想一个全新剧本，并去倾情出演吧！
+It's better to burn out than to fade away.
+与其凋零不如燃烧。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/68133700dfc4fb589d65e8ce5643335a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ef792693c474a50bb266a50bc71dd302.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
