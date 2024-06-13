@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-It's better to burn out than to fade away.
-与其凋零不如燃烧。
+No man is rich enough to buy back his own past.
+没有人富有到可以赎回自己的过去。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ef792693c474a50bb266a50bc71dd302.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/263a93a6396869afcbc437bd05bcf01a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
