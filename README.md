@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Follow your heart, but take your brain with you.
-跟随自己的心，但要保持清醒的头脑。
+All my love to the dearest father in the world.
+将我全部的爱，献给最亲爱的爸爸。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1b459cd40d10f2d422a6c0495b03ff21.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4268010391d28004f1ee4950ad53690a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
