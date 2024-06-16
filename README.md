@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-All my love to the dearest father in the world.
-将我全部的爱，献给最亲爱的爸爸。
+The warmest heart from the best loved ones. 
+最暖心的温情来自最爱的人。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4268010391d28004f1ee4950ad53690a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5a2f8064708f8bfa08258a0ca3f8f5dc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
