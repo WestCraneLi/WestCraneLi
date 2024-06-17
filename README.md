@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The warmest heart from the best loved ones. 
-最暖心的温情来自最爱的人。
+Friendship is a sheltering tree.
+友情犹如大树，为你遮风挡雨。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5a2f8064708f8bfa08258a0ca3f8f5dc.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/3c31e9685751359bef60a106c4dc0fb6.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
