@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Happiness depends upon ourselves.
-幸福与否我们自己说了算。
+I hope we can all be as brave as each other.
+希望我们都能像对方一样勇敢。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a20596938a809764532933d3090cf248.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/840688eba192be319348a36d2c652212.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
