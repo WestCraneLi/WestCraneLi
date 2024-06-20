@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I hope we can all be as brave as each other.
-希望我们都能像对方一样勇敢。
+Shall I compare you to a summer's day?
+我能否将你比作夏天？——莎士比亚
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/840688eba192be319348a36d2c652212.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f92dd9d3bfbcd8d53352abe46eecc3b8.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
