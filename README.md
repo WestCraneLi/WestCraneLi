@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Shall I compare you to a summer's day?
-我能否将你比作夏天？——莎士比亚
+There are always people with intentions and romance.
+总有人用心，总有人浪漫。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f92dd9d3bfbcd8d53352abe46eecc3b8.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/40a6bd88ae3b2654a94e88a2ce0f5506.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
