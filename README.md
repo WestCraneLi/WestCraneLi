@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-There are always people with intentions and romance.
-总有人用心，总有人浪漫。
+The course of true love never did run smooth.
+通向真爱的路从无坦途。——《仲夏夜之梦》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/40a6bd88ae3b2654a94e88a2ce0f5506.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/282b2e70286e817eba7a641587033fdc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
