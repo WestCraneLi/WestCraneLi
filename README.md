@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The course of true love never did run smooth.
-通向真爱的路从无坦途。——《仲夏夜之梦》
+Grasp all, lose all.
+贪得无厌，终将一无所获。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/282b2e70286e817eba7a641587033fdc.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/191374f881548be6fa17522743e3fcdc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
