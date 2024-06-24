@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Grasp all, lose all.
-贪得无厌，终将一无所获。
+A little learning is a dangerous thing.
+一知半解，危险至极。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/191374f881548be6fa17522743e3fcdc.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/acd7484888695de1071727762a2d6889.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
