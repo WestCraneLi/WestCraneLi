@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A little learning is a dangerous thing.
-一知半解，危险至极。
+Happiness is a journey,not a destination.
+幸福是一段旅程，而不是终点。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/acd7484888695de1071727762a2d6889.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/957d86aff7962917169b2182955a0761.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
