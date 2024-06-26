@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Happiness is a journey,not a destination.
-幸福是一段旅程，而不是终点。
+A loyal friend is a rare treasure.
+挚友难寻。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/957d86aff7962917169b2182955a0761.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0c18a38878c90a7b89644e1a25965ae3.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
