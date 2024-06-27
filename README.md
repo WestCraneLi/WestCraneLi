@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A loyal friend is a rare treasure.
-挚友难寻。
+Live a good life and meet slowly.
+好好生活，慢慢相遇。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0c18a38878c90a7b89644e1a25965ae3.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/2291746402dfc3f18866e13dbc1fd403.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
