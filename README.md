@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Live a good life and meet slowly.
-好好生活，慢慢相遇。
+Cross the stars over the moon to meet your better self.
+跨过星河迈过月亮去迎接更好的自己。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/2291746402dfc3f18866e13dbc1fd403.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f96e1e1f25f89bfe3d80fffa3b9c3853.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
