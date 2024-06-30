@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-If it happens, it happens.
-既来之，则安之。
+Whoever saves one life, saves the world entire.
+当你挽救了一条生命，就等于挽救了全世界。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ea71386b64add012b4e3ab6f75db5030.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/9b1d8fd378b1565563b5e9c01e888e93.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
