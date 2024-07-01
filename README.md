@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Whoever saves one life, saves the world entire.
-当你挽救了一条生命，就等于挽救了全世界。
+There's nothing easy about grown-up life.
+成年人的生活里没有容易二字。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/9b1d8fd378b1565563b5e9c01e888e93.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ae040bee5b644dcba2da0f5604a7a61f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
