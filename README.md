@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-There's nothing easy about grown-up life.
-成年人的生活里没有容易二字。
+You are braver than you believe.— Winnie the Pooh
+你比你相信的更勇敢。 —《小熊维尼》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ae040bee5b644dcba2da0f5604a7a61f.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/91cd335f9d872000593677bc9200e790.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
