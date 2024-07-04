@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-There will be generations because of what you did.
-因为你的善行，生命才得以传承下去。
+Life is the flower for which love is the honey.
+生命如花，爱情是蜜。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/9ce212c3c3fef7e56def7244d0147b00.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ee0b5c3f60486a0db691ec93eb860907.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
