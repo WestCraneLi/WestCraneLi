@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is the flower for which love is the honey.
-生命如花，爱情是蜜。
+Every man is a poet when he is in love.
+每个恋爱中的人都是诗人。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ee0b5c3f60486a0db691ec93eb860907.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/afce8a0323cf35e873107e2f44a07610.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
