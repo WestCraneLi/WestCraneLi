@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A boy's best friend is his mother.
-男孩最好的朋友是他的母亲。
+To laugh at yourself is to love yourself.
+学会自嘲也是爱自己的一种表现。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d46bde7140bc55c931026e79f2d0f2bb.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6ac0ff8b0eb4fd84124830366e7a1e5b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
