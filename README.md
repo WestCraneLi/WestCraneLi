@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-To laugh at yourself is to love yourself.
-学会自嘲也是爱自己的一种表现。
+The only limit is your soul.— Ratatouille
+唯一的限制就是你的灵魂。 —《料理鼠王》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6ac0ff8b0eb4fd84124830366e7a1e5b.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/05091b8ad9e3e1b0038dcdf45fda1a78.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
