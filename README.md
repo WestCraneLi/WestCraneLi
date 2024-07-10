@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The very things that hold you down are going to lift you up. — Dumbo
-让你跌到谷底的事情，往往也是你重新站起的原因。 —《小飞象》
+Who says my dreams have to stay dreams? — The Little Mermaid
+谁说梦想只能是梦想呢？ —小美人鱼
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/7a7f32ec25813659c4d19687855d60ea.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6e90bb7bd49ac8fd0e6e061f4c45208e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
