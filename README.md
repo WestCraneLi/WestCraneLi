@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Who says my dreams have to stay dreams? — The Little Mermaid
-谁说梦想只能是梦想呢？ —小美人鱼
+Talent without working hard is nothing.
+没有努力，天份不代表什么。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6e90bb7bd49ac8fd0e6e061f4c45208e.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/130eb94dd2df8c06a92ec4d6a86e52fc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
