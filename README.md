@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-May the Force be with you.
-愿原力与你同在。——《星球大战》
+You can't handle the truth!
+你不能操纵事实!——《义海雄风》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/9b32ea79706a8b90b148add3556f87c3.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c8f83449daf24856b9ef140e5987d21b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
