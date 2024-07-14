@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You can't handle the truth!
-你不能操纵事实!——《义海雄风》
+As God is my witness，I'll never be hungry again.
+上帝为我作证，我不会再让自己挨饿了。——《乱世佳人》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c8f83449daf24856b9ef140e5987d21b.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b8c2cd397066d4020e69271b52c08e0c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
