@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-As God is my witness，I'll never be hungry again.
-上帝为我作证，我不会再让自己挨饿了。——《乱世佳人》
+I have always depended on the kindness of strangers.
+我总是非常依赖陌生人的仁慈。——《欲望号街车》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b8c2cd397066d4020e69271b52c08e0c.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/73fcd9954b264770286b7789d8d75184.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
