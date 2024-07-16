@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I have always depended on the kindness of strangers.
-我总是非常依赖陌生人的仁慈。——《欲望号街车》
+Just keep swimming.
+一直向前游。—《海底总动员》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/73fcd9954b264770286b7789d8d75184.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/80b3a9307877c0f2db45ba5539c473fb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
