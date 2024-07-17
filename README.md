@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Just keep swimming.
-一直向前游。—《海底总动员》
+There is no royal road to learning. 
+学习没有捷径。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/80b3a9307877c0f2db45ba5539c473fb.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c4339c0e2570cbfe4db7bae77486047b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
