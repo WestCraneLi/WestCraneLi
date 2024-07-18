@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-There is no royal road to learning. 
-学习没有捷径。
+Time and tide wait for no man. 
+时光如逝水，岁月不待人。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c4339c0e2570cbfe4db7bae77486047b.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/bb8e6e991337e747cd7662e354a75f3c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
