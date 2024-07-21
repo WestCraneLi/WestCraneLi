@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I laugh in the face of danger.
-越危险就越合我心意。
+It made me look like a duck in water.
+它让我如鱼得水。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f144102be9926770e357990e9d603e25.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6a9f4fe41c45d880b024452cbf48338a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
