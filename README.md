@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-It made me look like a duck in water.
-它让我如鱼得水。
+You just couldn't see an end to that city.
+这个城市似乎没有尽头。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6a9f4fe41c45d880b024452cbf48338a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/49820c44c437045f082da71f0d577627.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
