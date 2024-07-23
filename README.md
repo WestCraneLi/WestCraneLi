@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You just couldn't see an end to that city.
-这个城市似乎没有尽头。
+I was born on this ship, and the world passed me by.
+我生于船，长与船，世界千变万化。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/49820c44c437045f082da71f0d577627.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6118836a2154ca745834904c662721b3.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
