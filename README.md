@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I was born on this ship, and the world passed me by.
-我生于船，长与船，世界千变万化。
+I don't want to survive. I want to live.
+我不要只是生存，我要活得有意义。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6118836a2154ca745834904c662721b3.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/044fad37911e49ef6a0383ae06040b81.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
