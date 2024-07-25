@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I don't want to survive. I want to live.
-我不要只是生存，我要活得有意义。
+I'm the king of the world!
+我是世界之王！
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/044fad37911e49ef6a0383ae06040b81.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/76a0794b4e3fd7dffe8396d226ff4e45.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
