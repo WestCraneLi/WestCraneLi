@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I'm the king of the world!
-我是世界之王！
+I feel the need — the need for speed!
+我感觉到一种需要——速度的需要!
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/76a0794b4e3fd7dffe8396d226ff4e45.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/3085aaabe2e7772dc78514fe6e30efd8.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
