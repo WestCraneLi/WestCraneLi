@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I can look at the menu. Doesn't mean I'm gonna eat.
-我看着菜单，并不代表我想吃! ——《越狱》
+Life is short and you deserve to be happy.
+生命短暂，你应该享受快乐 。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e239cdca8efbed8cce441d2ca61fb4d6.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0cc193823209bedd51be996837ec0398.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
