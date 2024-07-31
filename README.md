@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is short and you deserve to be happy.
-生命短暂，你应该享受快乐 。
+The journey of a thousand miles begins with one step. — Lao Tzu
+千里之行，始于足下。 — 老子
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0cc193823209bedd51be996837ec0398.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/a4bce2f1ebb829cb1dd96007af606c11.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
