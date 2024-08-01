@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The journey of a thousand miles begins with one step. — Lao Tzu
-千里之行，始于足下。 — 老子
+You had me at hello; it was love at first sight. — Friends
+你一开口我就沦陷了；那是爱情的初见。—《老友记》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a4bce2f1ebb829cb1dd96007af606c11.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/2a3749bae3e26d4133104c9d7bb48686.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
