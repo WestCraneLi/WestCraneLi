@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The truth is out there, and it's waiting. — The X-Files 
-真相在外面，它在等待。 —《X档案》
+A goal without a plan is just a wish. — Antoine de Saint-Exupéry
+没有计划的目标只是一个愿望。 — 安托万·德·圣-埃克苏佩里
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a2419e35e0dc5c74622e5ef46509464a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/a387091e18b1805cab6e59dfc5e7d9d9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
