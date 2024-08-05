@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Why so serious? Let's put a smile on.— The Dark Knight 
-为什么这么严肃？让我们笑起来。 —《黑暗骑士》
+Love for all, hatred for none. — Khalifatul Masih III
+爱众人，不恨人。 — 第三任哈里发
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8fc2daa956b90e13f373f3a9b60e687a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/57347008603d6f73d77b40c330210a60.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
