@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Love for all, hatred for none. — Khalifatul Masih III
-爱众人，不恨人。 — 第三任哈里发
+Autumn is a second spring when every leaf is a flower. — Albert Camus
+秋天是第二个春天，每一片叶子都是一朵花。— 阿尔贝·加缪
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/57347008603d6f73d77b40c330210a60.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/2536194f4a55edd179837f4c987a0ffd.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
