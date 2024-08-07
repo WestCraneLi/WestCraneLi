@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Autumn is a second spring when every leaf is a flower. — Albert Camus
-秋天是第二个春天，每一片叶子都是一朵花。— 阿尔贝·加缪
+In the end, we only regret the chances we didn't take. — Lewis Carroll
+最终，我们只会后悔没有抓住的机会。 — 刘易斯·卡罗尔
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/2536194f4a55edd179837f4c987a0ffd.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/363fbba4f9eb10a53c4d64f75c9034ba.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
