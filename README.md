@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Everything has beauty, but not everyone sees it. — Confucius
-万物皆有美，只是并非所有人都能看到。 — 孔子
+ Love is the only reality.— James M. Barrie, Peter Pan
+爱是唯一的现实。— 詹姆斯·马修·巴里，《彼得潘》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/29332137a6c4e3f3f5fa93aa4d714c46.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/35e0c139f03826f697be3f45bf007279.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
