@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- Love is the only reality.— James M. Barrie, Peter Pan
-爱是唯一的现实。— 詹姆斯·马修·巴里，《彼得潘》
+ Do what you can, with what you have, where you are. — Theodore Roosevelt
+尽力而为，随遇而安。 — 西奥多·罗斯福
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/35e0c139f03826f697be3f45bf007279.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/96605ce18fce7742175c4d10944917ac.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
