@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- Do what you can, with what you have, where you are. — Theodore Roosevelt
-尽力而为，随遇而安。 — 西奥多·罗斯福
+You have to be a little crazy to stay sane.— Friends
+你必须稍微疯狂一点才能保持理智。 —《老友记》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/96605ce18fce7742175c4d10944917ac.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/fab9482a2175358db13db6c94ac06c9b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
