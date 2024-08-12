@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You have to be a little crazy to stay sane.— Friends
-你必须稍微疯狂一点才能保持理智。 —《老友记》
+I think this is the beginning of a beautiful friendship.— Casablanca
+我认为这是美好友谊的开始。 —《卡萨布兰卡》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/fab9482a2175358db13db6c94ac06c9b.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/282c8baafcf935eb3def2f5b6e52283b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
