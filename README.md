@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Success is not the key to happiness. Happiness is the key to success. — Albert Schweitzer
-成功不是幸福的钥匙。幸福是成功的钥匙。 — 阿尔伯特·施韦泽
+Love is passion, obsession, someone you can't live without.— Meet Joe Black
+爱是激情，痴迷，是你无法离开的人。—《遇见乔·布莱克》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8f24348a30f0cc1eee7b8dc9ca20d695.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/2a3efb461a9bf9d54f1c367019a8631d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
