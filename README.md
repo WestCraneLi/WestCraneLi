@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-To love and be loved is to feel the sun from both sides. — David Viscott
-爱与被爱是感受到两边的阳光。 — 大卫·维斯科特
+They call it a Royale with cheese.— Pulp Fiction 
+他们称之为奶酪皇堡。—《低俗小说》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4ec085cbf37b3cb494d1bb201c116310.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/42197325bcbbceee2797465461c12173.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
