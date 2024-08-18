@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Change the world by being yourself. — Amy Poehler
-做自己，改变世界。 — 艾米·波勒
+Difficult roads often lead to beautiful destinations.
+艰难的道路常常通向美丽的目的地。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/24d50722c152906020c9e4e3520a7fec.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/3fd62f8cda373ba494c67cc3863c6915.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
