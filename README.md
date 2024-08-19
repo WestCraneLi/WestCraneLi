@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Difficult roads often lead to beautiful destinations.
-艰难的道路常常通向美丽的目的地。
+The best revenge is massive success. — Frank Sinatra
+最好的报复是巨大的成功。 — 弗兰克·辛纳特拉
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/3fd62f8cda373ba494c67cc3863c6915.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f131dbd165ede73baed708b2e7261e17.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
