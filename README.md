@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The best revenge is massive success. — Frank Sinatra
-最好的报复是巨大的成功。 — 弗兰克·辛纳特拉
+You complete me, and I will always cherish that.— Jerry Maguire
+你使我完整，我将永远珍惜。 —《甜心先生》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f131dbd165ede73baed708b2e7261e17.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0f74c27f0a73d671070c6a24e200e630.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
