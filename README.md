@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You complete me, and I will always cherish that.— Jerry Maguire
-你使我完整，我将永远珍惜。 —《甜心先生》
+You're the only one who can save us now. — The 100 
+你是唯一能拯救我们的人。 —《100%生存》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0f74c27f0a73d671070c6a24e200e630.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ac7d4f2ef38caaf31d44202be7e7997e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
