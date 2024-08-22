@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You're the only one who can save us now. — The 100 
-你是唯一能拯救我们的人。 —《100%生存》
+I am the one who knocks, not you.— Breaking Bad 
+我才是那个敲门的人，不是你。 —《绝命毒师》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ac7d4f2ef38caaf31d44202be7e7997e.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0520a8819050417df1d29fa6e398194f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
