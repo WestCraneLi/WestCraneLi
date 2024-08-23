@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I am the one who knocks, not you.— Breaking Bad 
-我才是那个敲门的人，不是你。 —《绝命毒师》
+Winter is coming, and we must be prepared.— Game of Thrones
+寒冬将至，我们必须做好准备。—《权力的游戏》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0520a8819050417df1d29fa6e398194f.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b0c80bd714abe7cf21b62cefcf4c0316.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
