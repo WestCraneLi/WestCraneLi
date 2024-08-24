@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Winter is coming, and we must be prepared.— Game of Thrones
-寒冬将至，我们必须做好准备。—《权力的游戏》
+I want to believe in something greater than myself.— The X-Files
+我想相信比我自己更伟大的东西。 —《X档案》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b0c80bd714abe7cf21b62cefcf4c0316.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/aec9f083f4996ca6d109c77e642fca79.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
