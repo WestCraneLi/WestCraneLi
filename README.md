@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I want to believe in something greater than myself.— The X-Files
-我想相信比我自己更伟大的东西。 —《X档案》
+This is the way we must follow, no turning back. — The Mandalorian
+这就是我们必须遵循的道路，不可回头。—《曼达洛人》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/aec9f083f4996ca6d109c77e642fca79.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/43670c23a9f09424782cc9dbf9e03174.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
