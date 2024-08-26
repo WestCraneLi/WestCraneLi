@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-This is the way we must follow, no turning back. — The Mandalorian
-这就是我们必须遵循的道路，不可回头。—《曼达洛人》
+Success usually comes to those who are too busy to be looking for it. — Henry David Thoreau
+成功通常降临在那些忙得没时间找它的人身上。 — 亨利·戴维·梭罗
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/43670c23a9f09424782cc9dbf9e03174.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6e559744f354c5536fa3a751fb733552.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
