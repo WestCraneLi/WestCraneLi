@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Success usually comes to those who are too busy to be looking for it. — Henry David Thoreau
-成功通常降临在那些忙得没时间找它的人身上。 — 亨利·戴维·梭罗
+Don't wait. The time will never be just right. — Napoleon Hill
+不要等待。时机永远不会完全合适。 — 拿破仑·希尔
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6e559744f354c5536fa3a751fb733552.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f4c5f3dfa56b3f053ac28fdf0d64dccb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
