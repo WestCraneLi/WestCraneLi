@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Don't wait. The time will never be just right. — Napoleon Hill
-不要等待。时机永远不会完全合适。 — 拿破仑·希尔
+You only live once, but if you do it right, once is enough. — Mae West
+你只活一次，但如果你做得好，一次足够。 — 梅·韦斯特
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f4c5f3dfa56b3f053ac28fdf0d64dccb.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f18f9352cf12a59ede35a324a62375c1.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
