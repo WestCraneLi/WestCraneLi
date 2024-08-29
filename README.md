@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You only live once, but if you do it right, once is enough. — Mae West
-你只活一次，但如果你做得好，一次足够。 — 梅·韦斯特
+The only limit to our realization of tomorrow is our doubts today. — The West Wing
+对明天实现的唯一限制是我们今天的怀疑。 —《白宫风云》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f18f9352cf12a59ede35a324a62375c1.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5c1816d12c3765498623804aab20c844.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
