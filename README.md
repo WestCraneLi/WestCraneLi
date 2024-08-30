@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The only limit to our realization of tomorrow is our doubts today. — The West Wing
-对明天实现的唯一限制是我们今天的怀疑。 —《白宫风云》
+Turn your wounds into wisdom. — Oprah Winfrey
+把伤口变成智慧。 — 奥普拉·温弗瑞
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5c1816d12c3765498623804aab20c844.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/8f15b01ec9fbaa2f5546de9823edc98a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
