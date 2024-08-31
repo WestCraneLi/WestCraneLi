@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Turn your wounds into wisdom. — Oprah Winfrey
-把伤口变成智慧。 — 奥普拉·温弗瑞
+ Do not dwell in the past, do not dream of the future.
+不要沉湎于过去，不要幻想未来。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8f15b01ec9fbaa2f5546de9823edc98a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4e9d3de70642e77dcfe6bb3f87f436d9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
