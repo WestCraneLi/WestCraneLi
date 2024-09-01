@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- Do not dwell in the past, do not dream of the future.
-不要沉湎于过去，不要幻想未来。
+All we have is now.
+我们拥有的只有现在。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4e9d3de70642e77dcfe6bb3f87f436d9.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/2a4ba1aa5160c0a9f2048ddd8eecea21.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
