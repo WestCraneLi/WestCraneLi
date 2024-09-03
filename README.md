@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-In the end, we will remember not the words of our enemies, but the silence of our friends.
-最终，我们记住的不是敌人的话语，而是朋友的沉默。
+Good artists copy, great artists steal.
+好艺术家复制，伟大艺术家偷窃。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/827e16029390f9f9b94a6effa2d3334b.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/9f8320b98b562f4b1eff632aeef85c2a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
