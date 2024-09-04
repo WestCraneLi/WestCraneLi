@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Good artists copy, great artists steal.
-好艺术家复制，伟大艺术家偷窃。
+Injustice anywhere is a threat to justice everywhere.
+任何地方的不公正都是对所有地方公正的威胁。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/9f8320b98b562f4b1eff632aeef85c2a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/cba8197651c54f72cd25f1e97571baf8.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
