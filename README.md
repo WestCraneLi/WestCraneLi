@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Injustice anywhere is a threat to justice everywhere.
-任何地方的不公正都是对所有地方公正的威胁。
+Life is a beautiful struggle.
+生活是一场美丽的挣扎。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/cba8197651c54f72cd25f1e97571baf8.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/8af8f8b0de1e802993865969fda071a2.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
