@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Happiness is a warm gun.
-幸福是一把温暖的枪。
+The night is dark and full of terrors.
+黑夜幽暗，充满恐惧。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/82224f2038e0245bcda0d7b1bbcd1f66.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e797a774c2a6b1fef36418e4f09375a3.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
