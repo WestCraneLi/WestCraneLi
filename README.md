@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The night is dark and full of terrors.
-黑夜幽暗，充满恐惧。
+Teaching is the one profession that creates all other professions.
+教育是一切职业之母。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e797a774c2a6b1fef36418e4f09375a3.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/92de9f0ad1cfd2cbcb6e5ebd5a13d74a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
