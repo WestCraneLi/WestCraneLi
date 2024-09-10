@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Teaching is the one profession that creates all other professions.
-教育是一切职业之母。
+Fasten your seatbelts, it's going to be a bumpy night.
+系好安全带，这将是一个颠簸的夜晚。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/92de9f0ad1cfd2cbcb6e5ebd5a13d74a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0d13c7a7d2982d41412a8dcab03966b9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
