@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Fasten your seatbelts, it's going to be a bumpy night.
-系好安全带，这将是一个颠簸的夜晚。
+Fall seven times and stand up eight.
+跌倒七次，站起来八次。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0d13c7a7d2982d41412a8dcab03966b9.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/83f4d40a790ff4b2a8b997caa8ee7b47.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
