@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Fall seven times and stand up eight.
-跌倒七次，站起来八次。
+I could have been a contender.
+我本可以成为强者。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/83f4d40a790ff4b2a8b997caa8ee7b47.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1b8ec5dc258035281f3d9ad865d12e70.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
