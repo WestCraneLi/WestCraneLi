@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-What lies behind us and what lies before us are tiny matters.
-我们背后和面前的事情都是小事。
+ I'm not a smart man, but I know what love is.
+我不是个聪明人，但我知道什么是爱。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b5061faf8621bbeeb35e65e9f48f279c.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b313d687f81f56ff632c3326381b5741.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
