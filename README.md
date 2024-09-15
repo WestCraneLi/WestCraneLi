@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- I'm not a smart man, but I know what love is.
-我不是个聪明人，但我知道什么是爱。
+The stuff that dreams are made of.
+梦想的原料。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b313d687f81f56ff632c3326381b5741.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/30da2295d33813d9d35eb696bcf0d986.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
