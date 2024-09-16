@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The stuff that dreams are made of.
-梦想的原料。
+The moon is a friend for the lonesome to talk to.
+月亮是孤独者的朋友，愿倾听他们的心声。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/30da2295d33813d9d35eb696bcf0d986.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f2734a99e82d09b6af73603aa485fced.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
