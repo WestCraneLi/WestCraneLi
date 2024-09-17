@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The moon is a friend for the lonesome to talk to.
-月亮是孤独者的朋友，愿倾听他们的心声。
+I can accept failure, everyone fails at something.
+我可以接受失败，每个人都会在某些事情上失败。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f2734a99e82d09b6af73603aa485fced.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/3832ed7c155edae1491a7c164446f757.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
