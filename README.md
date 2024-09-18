@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I can accept failure, everyone fails at something.
-我可以接受失败，每个人都会在某些事情上失败。
+Life is what happens when you're busy making other plans.
+生活是在你忙着制定其他计划时发生的。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/3832ed7c155edae1491a7c164446f757.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5675393d7ecd353d23b42dff74b480ec.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
