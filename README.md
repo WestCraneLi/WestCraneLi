@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-All animals are equal, but some are more equal.
-所有动物生而平等，但有些更平等。
+I will not be silent.
+我不会保持沉默。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/630726c17d5118460d95d57aa6ae57df.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b7788bbd618d5b4737e7d5f855ce1e42.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
