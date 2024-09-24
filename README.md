@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I'm just one stomach flu away from my goal weight.
-我只需得一次肠胃炎就能达到目标体重。—《穿普拉达的女王》
+All the world's a stage, and all the men and women merely players.
+世界是个大舞台，男人女人皆为演员。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a05eba988c982b99f9c311652fc25c81.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ea54a6fd8d9fa7224190f927ef926d00.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
