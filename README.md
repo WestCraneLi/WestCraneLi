@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-All the world's a stage, and all the men and women merely players.
-世界是个大舞台，男人女人皆为演员。
+Keep calm and carry on.
+保持冷静，继续前行。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ea54a6fd8d9fa7224190f927ef926d00.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f8595e93669242a03024f948b0f259e1.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
