@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Keep calm and carry on.
-保持冷静，继续前行。
+There's no crying in baseball!
+棒球里不许哭泣！
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f8595e93669242a03024f948b0f259e1.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1144f0597887b495183bd9e15432421e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
