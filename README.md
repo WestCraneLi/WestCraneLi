@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Failure is simply the opportunity to begin again, this time more intelligently.
-失败只是重新开始的机会，这次更加聪明。
+It's kind of a funny story.
+这有点像个有趣的故事。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1afd87ff542f8eb5c1fa07a0475844e9.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/9b3708c25ee361ae0b49eb6fff5f9585.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
