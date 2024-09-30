@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The only real mistake is the one from which we learn nothing.
-唯一真正的错误是我们没有从中学到任何东西。
+We are all part of one great nation.
+我们都是伟大国家的一部分。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/90669a49b8a40b98478d3d65fb4f4f94.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0c90e0a695ba7c757ee7a66fdc520961.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
