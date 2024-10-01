@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-We are all part of one great nation.
-我们都是伟大国家的一部分。
+The autumn leaves remind us of the beauty of aging.
+秋叶提醒我们衰老的美丽。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0c90e0a695ba7c757ee7a66fdc520961.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4535cad25c0ea9ffac32de4a40bede20.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
