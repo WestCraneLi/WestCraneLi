@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The autumn leaves remind us of the beauty of aging.
-秋叶提醒我们衰老的美丽。
+Act as if what you do makes a difference. It does.
+行动吧，就好像你的所作所为会带来改变。确实如此。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4535cad25c0ea9ffac32de4a40bede20.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/a84675c2748fb22b9d1ef57710411f9e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
