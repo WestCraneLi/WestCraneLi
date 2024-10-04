@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Don't watch the clock; do what it does. Keep going.
-不要看时间，做自己该做的事。继续前进。
+Success is how high you bounce when you hit bottom.
+成功是你跌到谷底时反弹的高度。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/83d750a11eb5bd48bdaeebec9192e072.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/3665a5a370910518290a73f6c861bc0d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
