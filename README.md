@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Success is how high you bounce when you hit bottom.
-成功是你跌到谷底时反弹的高度。
+The best way to predict the future is to invent it.
+预测未来的最好方法是去创造它。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/3665a5a370910518290a73f6c861bc0d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e6b87b1f4761bdcfa8afe01d9ec771cd.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
