@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The best way to predict the future is to invent it.
-预测未来的最好方法是去创造它。
+Do one thing every day that scares you.
+每天做一件让你害怕的事。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e6b87b1f4761bdcfa8afe01d9ec771cd.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e91ebfa5e88bfaf694e9223325bd0b7c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
