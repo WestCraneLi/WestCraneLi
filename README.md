@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Do one thing every day that scares you.
-每天做一件让你害怕的事。
+The only source of knowledge is experience.
+知识的唯一来源是经验。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e91ebfa5e88bfaf694e9223325bd0b7c.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/46f3ea70a10b779c6e7f1990adb414eb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
