@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The only source of knowledge is experience.
-知识的唯一来源是经验。
+What we think, we become.
+我们想什么，就成为什么。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/46f3ea70a10b779c6e7f1990adb414eb.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5236f0bc8951a2dfa6767aac8b12c8f5.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
