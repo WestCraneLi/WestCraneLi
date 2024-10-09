@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-What we think, we become.
-我们想什么，就成为什么。
+Happiness is not something ready-made. It comes from your own actions.
+幸福不是现成的东西，它来自你自己的行动。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5236f0bc8951a2dfa6767aac8b12c8f5.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5a8dd4afe3eb0394672e808f631f20e9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
