@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Freedom is never given; it is won.
-自由从未被赋予；它是赢得的。
+The only way to have a friend is to be one.
+拥有朋友的唯一方式就是成为朋友。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e4a837d503b37fb4c224469b27f2337c.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c5b6e917312e500dc986159840269d28.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
