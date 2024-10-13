@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The only way to have a friend is to be one.
-拥有朋友的唯一方式就是成为朋友。
+Every moment is a fresh beginning.
+每一刻都是新的开始。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c5b6e917312e500dc986159840269d28.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1443c9d1000248101594db0146f6a2ca.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
