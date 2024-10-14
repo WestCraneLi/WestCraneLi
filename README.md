@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Every moment is a fresh beginning.
-每一刻都是新的开始。
+If you want to live a happy life, tie it to a goal.
+如果你想过上幸福的生活，把它与目标联系起来。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1443c9d1000248101594db0146f6a2ca.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/934ab3baf71525db39487a8bb699551a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
