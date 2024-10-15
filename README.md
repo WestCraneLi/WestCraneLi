@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-If you want to live a happy life, tie it to a goal.
-如果你想过上幸福的生活，把它与目标联系起来。
+We are what we repeatedly do.
+我们就是我们反复做的事情。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/934ab3baf71525db39487a8bb699551a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/47ec21933d37418482cac1b2c6f2428f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
