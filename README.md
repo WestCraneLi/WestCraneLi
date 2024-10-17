@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The only impossible journey is the one you never begin.
-唯一不可能的旅程是你从未开始的旅程。
+A person who never made a mistake never tried anything new.
+从未犯错的人从未尝试过任何新事物。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/3b1ec3d257cebcd70ae4dda596a87c1e.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/22015368efcbea06f3eee7e1a8c25e5c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
