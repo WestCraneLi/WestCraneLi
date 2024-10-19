@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-In every hardship lies opportunity.
-每个困难中都蕴藏着机会。
+Success is the sum of small efforts, repeated day in and day out.
+成功是日复一日重复的微小努力的总和。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/17b1c8f39c76718bf1b381e685877627.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d9315d0eebfd9fc7e60710d3317b6943.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
