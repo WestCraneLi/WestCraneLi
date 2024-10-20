@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Success is the sum of small efforts, repeated day in and day out.
-成功是日复一日重复的微小努力的总和。
+Life is either a daring adventure or nothing at all.
+生活要么是一场大胆的冒险，要么毫无意义。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d9315d0eebfd9fc7e60710d3317b6943.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/8a61c1bc05091bee3313a3599d23904c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
