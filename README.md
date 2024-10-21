@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is either a daring adventure or nothing at all.
-生活要么是一场大胆的冒险，要么毫无意义。
+Success is not in what you have, but who you are.
+成功不在于你拥有什么，而在于你是谁。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8a61c1bc05091bee3313a3599d23904c.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c57fb4b4dfbc49ef8ded3fd772bc6e4e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
