@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Success is not in what you have, but who you are.
-成功不在于你拥有什么，而在于你是谁。
+If you can dream it, you can do it.
+只要有梦想，就一定能实现。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c57fb4b4dfbc49ef8ded3fd772bc6e4e.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/428455e91c731303e5222ed551af40c9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
