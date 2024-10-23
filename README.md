@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-If you can dream it, you can do it.
-只要有梦想，就一定能实现。
+Life is short, and it is here to be lived.
+生命是短暂的，是用来生活的。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/428455e91c731303e5222ed551af40c9.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b7767f046d043ce5846633ea459a8dec.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
