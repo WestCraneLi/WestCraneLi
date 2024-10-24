@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is short, and it is here to be lived.
-生命是短暂的，是用来生活的。
+The mind is everything.
+思想决定一切。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b7767f046d043ce5846633ea459a8dec.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c5bd3d405a8f18567e1f7a453181d6aa.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
