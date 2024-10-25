@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The mind is everything.
-思想决定一切。
+Use the losses and failures of the past as a reason for action, not inaction.
+过去的损失和失败经验，应是你采取行动，而非不采取行动的理由。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c5bd3d405a8f18567e1f7a453181d6aa.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6286d34c787320416bc8d7083e6f6553.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
