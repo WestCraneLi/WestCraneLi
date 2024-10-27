@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Idealism increases in direct proportion to one’s distance from the problem.
-一个人离问题愈远就愈理想主义。
+Don't count the days, make the days count.
+不要数日子，让日子有意义。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/7eec7cadfcc61cbebc851e1d4ef748ad.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/790c3f4d6c7cb490a698de2b96317ac8.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
