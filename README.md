@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Don't count the days, make the days count.
-不要数日子，让日子有意义。
+If life were predictable, it would cease to be life.
+如果生活是可预测的，它就不再是生活。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/790c3f4d6c7cb490a698de2b96317ac8.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1bd5ab982d1cc75d27d8ecbadc8bb558.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
