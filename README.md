@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-If life were predictable, it would cease to be life.
-如果生活是可预测的，它就不再是生活。
+The only true wisdom is in knowing you know nothing.
+唯一真正的智慧在于知道你一无所知。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1bd5ab982d1cc75d27d8ecbadc8bb558.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/9808e871376ce676da0c49319748f19b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
