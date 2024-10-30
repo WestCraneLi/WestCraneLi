@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The only true wisdom is in knowing you know nothing.
-唯一真正的智慧在于知道你一无所知。
+It's Halloween; the one night a year when we can be anything we want.
+这是万圣节；一年中我们可以成为任何人的夜晚。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/9808e871376ce676da0c49319748f19b.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f855f09aece2184896d2f271758a6f41.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
