@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-It's Halloween; the one night a year when we can be anything we want.
-这是万圣节；一年中我们可以成为任何人的夜晚。
+More dreams are lost to self-doubt than to failure.
+因自我怀疑而失去的梦想比因失败而失去的更多。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f855f09aece2184896d2f271758a6f41.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/126dab3374955337b0025ac5eb740199.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
