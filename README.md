@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Happiness depends on your mindset.
-幸福取决于你的心态。
+Every accomplishment starts with the decision to try.
+每一项成就都始于尝试的决定。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ca3997dfdc1902f281e38a6ef1a1ed4f.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/098140e6cdfb57267577dbaabcc4eba0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
