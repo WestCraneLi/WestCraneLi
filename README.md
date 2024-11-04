@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Every accomplishment starts with the decision to try.
-每一项成就都始于尝试的决定。
+Take in courage and let fear fade away.
+吸入勇气，呼出恐惧。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/098140e6cdfb57267577dbaabcc4eba0.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0064861a14c386a1f15d6bc080dcc062.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
