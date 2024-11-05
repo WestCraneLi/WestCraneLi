@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Take in courage and let fear fade away.
-吸入勇气，呼出恐惧。
+The future depends on what you do today.
+未来取决于你今天的所作所为。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0064861a14c386a1f15d6bc080dcc062.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/288a7fbae4d8488cbc360d4e0e89cb11.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
