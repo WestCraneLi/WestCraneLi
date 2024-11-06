@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The future depends on what you do today.
-未来取决于你今天的所作所为。
+Winter is not a season, but a celebration.
+冬天不是一个季节，而是一个庆典。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/288a7fbae4d8488cbc360d4e0e89cb11.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/20d65e98d9d93be85c4a8be54f681dd9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
