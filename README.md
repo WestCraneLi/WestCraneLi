@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Winter is not a season, but a celebration.
-冬天不是一个季节，而是一个庆典。
+You must do the things you think you cannot do.
+你必须做你认为自己做不到的事情。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/20d65e98d9d93be85c4a8be54f681dd9.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f61b77f744ef85e5c31d126f7dfc0a7e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
