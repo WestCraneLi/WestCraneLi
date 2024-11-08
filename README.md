@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You must do the things you think you cannot do.
-你必须做你认为自己做不到的事情。
+The greatest risk is not taking one.
+最大的风险是不冒风险。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f61b77f744ef85e5c31d126f7dfc0a7e.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/42ce4faae6be7e2052ea752b75a92220.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
