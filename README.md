@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The greatest risk is not taking one.
-最大的风险是不冒风险。
+Happiness is not by chance, but by choice.
+幸福不是偶然，而是选择。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/42ce4faae6be7e2052ea752b75a92220.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/76a042e8729ec4cdde8fb7ec00e993ac.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
