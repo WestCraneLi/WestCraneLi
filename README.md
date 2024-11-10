@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Happiness is not by chance, but by choice.
-幸福不是偶然，而是选择。
+Your life is your message.
+你的生活就是你的信息。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/76a042e8729ec4cdde8fb7ec00e993ac.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/36b346626b18e8ecbe5f206afa499c8c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
