@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Your life is your message.
-你的生活就是你的信息。
+Time flies over us, but leaves its shadow behind.
+时间飞逝，但它的影子留下了。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/36b346626b18e8ecbe5f206afa499c8c.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/a93a66d1006823787af8ca3ce32b0bbc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
