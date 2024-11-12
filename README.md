@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Time flies over us, but leaves its shadow behind.
-时间飞逝，但它的影子留下了。
+Keep going. Be all in.
+继续前行，全力以赴。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a93a66d1006823787af8ca3ce32b0bbc.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/45c332e019b3f80dfd565dd7a8ece77f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
