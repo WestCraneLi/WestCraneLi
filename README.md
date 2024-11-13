@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Keep going. Be all in.
-继续前行，全力以赴。
+Silence is an answer too.
+沉默也是一种回答。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/45c332e019b3f80dfd565dd7a8ece77f.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/88cd5c594d67450cbcb8ac0cbf1aa27c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
