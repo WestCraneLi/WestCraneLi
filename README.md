@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Everything you can imagine is real.
-你能想象的一切都是真实的。
+Be the hero of your own story.
+做你自己故事里的英雄。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6998b117ed1d9aceef559f0fad4fd1ab.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d496ca2cbecaab0615bfd49b7122d196.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
