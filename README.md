@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Be the hero of your own story.
-做你自己故事里的英雄。
+Be yourself, but always your better self.
+做你自己，但永远要成为更好的自己。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d496ca2cbecaab0615bfd49b7122d196.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/59876193c2df30fb0937ae4cdbb43b77.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
