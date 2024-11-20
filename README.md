@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Be yourself, but always your better self.
-做你自己，但永远要成为更好的自己。
+A smooth sea never made a skilled sailor.
+一帆风顺的大海造就不了熟练的水手。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/59876193c2df30fb0937ae4cdbb43b77.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/00b902112477f7fcef6676b1aeb22083.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
