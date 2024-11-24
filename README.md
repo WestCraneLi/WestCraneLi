@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You don't have to be great to start, but you have to start to be great.
-你不需要伟大才能开始，但你必须开始才能伟大。
+Do small things with great love.
+以爱去做小事。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/70d239828e81c29c59b319e0f190fb5a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/29fcbbeb85a6b8da6975f36e401b6be8.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
