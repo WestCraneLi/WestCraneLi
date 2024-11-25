@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Do small things with great love.
-以爱去做小事。
+Courage is knowing what not to fear.
+勇气是知道什么不该害怕。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/29fcbbeb85a6b8da6975f36e401b6be8.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/530c16b5dbac10d6ea299060023592bb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
