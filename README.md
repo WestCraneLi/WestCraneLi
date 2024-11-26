@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Courage is knowing what not to fear.
-勇气是知道什么不该害怕。
+We may encounter many defeats but we must not be defeated.
+我们可能会遇到许多失败，但我们不能被打败。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/530c16b5dbac10d6ea299060023592bb.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5e3a7bfbc4424d5bb5328a1dc5f4decf.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
