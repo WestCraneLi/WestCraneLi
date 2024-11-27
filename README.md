@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-We may encounter many defeats but we must not be defeated.
-我们可能会遇到许多失败，但我们不能被打败。
+Thanksgiving is a time of togetherness and gratitude.
+感恩节是团聚与感恩的时刻。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5e3a7bfbc4424d5bb5328a1dc5f4decf.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1dc2f6465135838b39eed23a9aeaf53e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
