@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Thanksgiving is a time of togetherness and gratitude.
-感恩节是团聚与感恩的时刻。
+What you do today can improve all your tomorrows.
+你今天所做的一切，可以改善你所有的明天。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1dc2f6465135838b39eed23a9aeaf53e.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/35ae83ea52087b6bc66a97f519b42bfb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
