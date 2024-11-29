@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-What you do today can improve all your tomorrows.
-你今天所做的一切，可以改善你所有的明天。
+No one can make you feel inferior without your consent.
+没有人能在取得你的同意前让你自己感到自卑。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/35ae83ea52087b6bc66a97f519b42bfb.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d25483d75a1e273417e499f1b63dff94.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
