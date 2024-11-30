@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-No one can make you feel inferior without your consent.
-没有人能在取得你的同意前让你自己感到自卑。
+To be yourself is all that you can do.
+做自己就是你所能做的一切。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d25483d75a1e273417e499f1b63dff94.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ddf88183cd7c724d1aaa749414af6be6.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
