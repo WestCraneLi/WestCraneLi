@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-To be yourself is all that you can do.
-做自己就是你所能做的一切。
+The heart has its reasons.
+心有它的理由。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ddf88183cd7c724d1aaa749414af6be6.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/179525c1d4798b7da47f32c75646c3d6.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
