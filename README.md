@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The heart has its reasons.
-心有它的理由。
+The best way to cheer yourself is to try to cheer someone else up.
+让自己快乐的最好方式就是去让别人快乐。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/179525c1d4798b7da47f32c75646c3d6.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1ac246569002a2b1070657eb88e761bc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
