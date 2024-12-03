@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The best way to cheer yourself is to try to cheer someone else up.
-让自己快乐的最好方式就是去让别人快乐。
+The only way to do great work is to love what you do.
+做出伟大工作的唯一方式是热爱你所做的事。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1ac246569002a2b1070657eb88e761bc.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d678ddfd14e4ebc82dce6809a02695b1.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
