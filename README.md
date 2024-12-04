@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The only way to do great work is to love what you do.
-做出伟大工作的唯一方式是热爱你所做的事。
+Joy is the simplest form of gratitude.
+快乐是最简单的感恩形式。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d678ddfd14e4ebc82dce6809a02695b1.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e139d8dee1323f3c29360aeb81cc8bdc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
