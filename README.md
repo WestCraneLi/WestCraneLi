@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Joy is the simplest form of gratitude.
-快乐是最简单的感恩形式。
+Opportunities don't happen. You create them.
+机会不会发生，是你创造了它们。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e139d8dee1323f3c29360aeb81cc8bdc.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0d3c1fe06812a91a3d61034f24998093.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
