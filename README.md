@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Opportunities don't happen. You create them.
-机会不会发生，是你创造了它们。
+Perseverance is not a long race; it is many short races one after the other.
+坚持不是一场长跑，而是一次次短跑。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0d3c1fe06812a91a3d61034f24998093.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/cf33731b9570539410a2d5945fd4bd08.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
