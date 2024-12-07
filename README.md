@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Perseverance is not a long race; it is many short races one after the other.
-坚持不是一场长跑，而是一次次短跑。
+Simplicity is the ultimate sophistication.
+简单是终极的智慧。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/cf33731b9570539410a2d5945fd4bd08.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/97447fe38a6fe94a3b62bcd071893ecc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
