@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Simplicity is the ultimate sophistication.
-简单是终极的智慧。
+No act of kindness, no matter how small, is ever wasted.
+任何一份善意，无论多么微小，都不会被浪费。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/97447fe38a6fe94a3b62bcd071893ecc.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/31ecc007f119f7cc26f0eab21d2be49c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
