@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Wisdom begins in wonder.
-智慧始于好奇。
+It is not the years in your life but the life in your years.
+不是生命中的岁月，而是岁月中的生命。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/95a8600298182f43459715105874a901.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/dfd40da65afee13f1bcc2a15d379ecae.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
