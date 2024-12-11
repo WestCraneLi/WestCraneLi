@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-It is not the years in your life but the life in your years.
-不是生命中的岁月，而是岁月中的生命。
+Every flower must grow through dirt.
+每朵花都必须从泥土中成长。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/dfd40da65afee13f1bcc2a15d379ecae.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/583635ef1d188d2c4f32d65c992ec4e0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
