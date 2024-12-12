@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Every flower must grow through dirt.
-每朵花都必须从泥土中成长。
+Small deeds can make a big difference.
+小小的善举可以带来巨大的改变。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/583635ef1d188d2c4f32d65c992ec4e0.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0442e02c079c1098dedc20223c3ef1c1.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
