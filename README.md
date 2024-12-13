@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Small deeds can make a big difference.
-小小的善举可以带来巨大的改变。
+You only fail when you stop trying.
+只有停止尝试时，你才会失败。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0442e02c079c1098dedc20223c3ef1c1.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/98d84dab7e1d7cf2f71db3d015cbb6e6.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
