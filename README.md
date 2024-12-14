@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You only fail when you stop trying.
-只有停止尝试时，你才会失败。
+The harder the conflict, the greater the triumph.
+冲突越难，胜利越大。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/98d84dab7e1d7cf2f71db3d015cbb6e6.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/28aefe50f068c9d33997d72f2d61037f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
