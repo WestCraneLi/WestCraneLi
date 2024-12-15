@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The harder the conflict, the greater the triumph.
-冲突越难，胜利越大。
+Stars can't shine without darkness.
+没有黑暗，星星无法闪耀。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/28aefe50f068c9d33997d72f2d61037f.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/80fbd082401934ed9b17d84ac4240492.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
