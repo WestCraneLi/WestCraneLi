@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Stars can't shine without darkness.
-没有黑暗，星星无法闪耀。
+ Mistakes are proof that you are trying.
+犯错是你正在努力的证明。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/80fbd082401934ed9b17d84ac4240492.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f69f6122662d2735f2b66986576bc853.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
