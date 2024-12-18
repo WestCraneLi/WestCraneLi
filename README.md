@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Hardships often prepare ordinary people for extraordinary destiny.
-艰难常常为普通人准备非凡的命运。
+Hope is the heartbeat of the soul.
+希望是灵魂的心跳。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/433f61d6a3453454ec3925003426f2c4.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ae240585210b6e7faeae1dc268d52e2f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
