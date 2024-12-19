@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Hope is the heartbeat of the soul.
-希望是灵魂的心跳。
+Let your faith be bigger than your fear.
+让你的信念比恐惧更强大。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ae240585210b6e7faeae1dc268d52e2f.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/895cf8c6317f420ef142e8f4871cf636.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
