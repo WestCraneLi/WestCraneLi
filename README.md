@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-To appreciate the beauty of a snowflake, it is necessary to stand out in the cold.
-要欣赏雪花的美丽，就必须站在寒冷中。
+Happiness is a warm puppy.
+幸福是一只温暖的小狗。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ccce95b32b30d092db381c0774344f7d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c7872724fcf69fdceda330f4ec28fdc0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
