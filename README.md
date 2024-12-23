@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Keep looking up; that's the secret of life.
-抬头看天，这是生活的秘诀。
+All is calm, all is bright.
+一切安详，一切明亮。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/9cb71be235bed1c5411ccb79058743be.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/36cff6bab3b9fd8b44a58d92d72b576b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
