@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Christmas is not a date. It is a state of mind.
-圣诞节不是一个日期，而是一种心境。
+Life is tough, but so are you.
+生活很艰难，但你也很坚强。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b4b02f6e8e44c3bb9f0fb6c38c3d4848.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1d74daf3d9f303ac6cc830e7d433d39c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
