@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is tough, but so are you.
-生活很艰难，但你也很坚强。
+Live in the sunshine, swim in the sea, and drink the wild air.
+沐浴阳光，畅游海洋，呼吸自由的空气。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1d74daf3d9f303ac6cc830e7d433d39c.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/160e9580331068e5bceed155c2e632e8.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
