@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Live in the sunshine, swim in the sea, and drink the wild air.
-沐浴阳光，畅游海洋，呼吸自由的空气。
+The best time for new beginnings is now.
+新的开始的最佳时机就是现在。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/160e9580331068e5bceed155c2e632e8.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ec11a40687c22050dd0ab8087865c08b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
