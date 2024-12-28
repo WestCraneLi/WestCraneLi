@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The best time for new beginnings is now.
-新的开始的最佳时机就是现在。
+Your vibe attracts your tribe.
+你的气场吸引你的圈子。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ec11a40687c22050dd0ab8087865c08b.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b68fadd260c97701a5bb3a2e27f672fe.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
