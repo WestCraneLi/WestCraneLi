@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Your vibe attracts your tribe.
-你的气场吸引你的圈子。
+Do something today that your future self will thank you for.
+做些未来的你会感激的事情。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b68fadd260c97701a5bb3a2e27f672fe.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/568c62d2500e3b0bc969478940431253.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
