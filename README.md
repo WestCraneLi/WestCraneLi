@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Do something today that your future self will thank you for.
-做些未来的你会感激的事情。
+Every sunset is an opportunity to reset.
+每一次日落都是重启的机会。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/568c62d2500e3b0bc969478940431253.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b7b4f7d09513ccecb8b514bf34c4aaf9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
