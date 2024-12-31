@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Every sunset is an opportunity to reset.
-每一次日落都是重启的机会。
+Every new beginning comes from some other beginning's end.
+每一个新的开始都来自某个开始的结束。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b7b4f7d09513ccecb8b514bf34c4aaf9.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/37d59a7c7ddad0fc46719cf22014ff12.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
