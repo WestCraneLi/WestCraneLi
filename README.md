@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Every new beginning comes from some other beginning's end.
-每一个新的开始都来自某个开始的结束。
+A single sunbeam is enough to drive away many shadows.
+一束阳光足以驱散许多阴影。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/37d59a7c7ddad0fc46719cf22014ff12.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/14025c7ae08e7abb512114360521a0c7.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
