@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A single sunbeam is enough to drive away many shadows.
-一束阳光足以驱散许多阴影。
+The only thing constant in life is change.
+生活中唯一不变的就是变化。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/14025c7ae08e7abb512114360521a0c7.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/dfff42bc970c94a4cc25f53e4f8c647d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
