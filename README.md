@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The only thing constant in life is change.
-生活中唯一不变的就是变化。
+You are never too old to set another goal or to dream a new dream.
+无论多大年龄，你都可以重新设定目标或做新的梦。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/dfff42bc970c94a4cc25f53e4f8c647d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/178f45b8bec30ad9cf5ab8c731275c07.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
