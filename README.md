@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You are never too old to set another goal or to dream a new dream.
-无论多大年龄，你都可以重新设定目标或做新的梦。
+Your life does not get better by chance, it gets better by change.
+你的生活不会因偶然变好，而是因改变变好。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/178f45b8bec30ad9cf5ab8c731275c07.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/01a8bcb63cbaad04b8ffc8d8a8041f52.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
