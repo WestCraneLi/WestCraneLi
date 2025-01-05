@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Your life does not get better by chance, it gets better by change.
-你的生活不会因偶然变好，而是因改变变好。
+Doubt kills more dreams than failure ever will.
+怀疑比失败扼杀更多梦想。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/01a8bcb63cbaad04b8ffc8d8a8041f52.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/075e22b322b0fdac0b0ea79070575cce.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
