@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-In the heart of winter, warmth is found in a bowl of porridge.
-寒冬之中，温暖藏在一碗粥里。
+Turn your face to the sun and the shadows fall behind you.
+向阳而立，阴影自会落在身后。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/98830215a370443ccdb83b8fc79d33da.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5100387c6a314906eafeeaadadb196e2.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
