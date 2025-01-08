@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Turn your face to the sun and the shadows fall behind you.
-向阳而立，阴影自会落在身后。
+Happiness is created now, not later.
+幸福在当下，不在未来。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5100387c6a314906eafeeaadadb196e2.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4ba28dfed939172524689693b57664fa.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
