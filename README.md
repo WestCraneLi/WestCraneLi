@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Happiness is created now, not later.
-幸福在当下，不在未来。
+When words fail, music speaks.
+当言语无力时，音乐能表达一切。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4ba28dfed939172524689693b57664fa.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/7679a95c1c130279984d2059aa246f2d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
