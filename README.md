@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-When words fail, music speaks.
-当言语无力时，音乐能表达一切。
+You can't change the past, but you can change the ending.
+你无法改变过去，但你可以改变结局。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/7679a95c1c130279984d2059aa246f2d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f7988b0b37ca15d5ad17d213991f625b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
