@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You can't change the past, but you can change the ending.
-你无法改变过去，但你可以改变结局。
+The biggest adventure you can take is to live the life of your dreams.
+你能经历的最大冒险是活出梦想中的生活。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f7988b0b37ca15d5ad17d213991f625b.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c5bd3d405a8f18567e1f7a453181d6aa.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
