@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The biggest adventure you can take is to live the life of your dreams.
-你能经历的最大冒险是活出梦想中的生活。
+It's not what we have in life but who we have in life that matters.
+生活中重要的不是我们拥有什么，而是我们拥有谁。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c5bd3d405a8f18567e1f7a453181d6aa.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/af5fad04a9238ff020ee28f64625410b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
