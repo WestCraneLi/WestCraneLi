@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-It's not what we have in life but who we have in life that matters.
-生活中重要的不是我们拥有什么，而是我们拥有谁。
+Once you choose hope, anything's possible.
+一旦选择了希望，一切皆有可能。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/af5fad04a9238ff020ee28f64625410b.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f81ee63b6f7de6ba49addc791a2ebcc0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
