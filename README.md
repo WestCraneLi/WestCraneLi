@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Dare to dream big, begin small, and act right away.
-梦想要大，起步要小，行动要快。
+What's within us matters most.
+内心最重要。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4260f271d957c5b5de08407426b86fae.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b5f499a4e5f9e292cc6f640c4e2f6132.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
