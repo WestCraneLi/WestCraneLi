@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-What's within us matters most.
-内心最重要。
+Do what you feel in your heart to be right.
+做你内心认为正确的事。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b5f499a4e5f9e292cc6f640c4e2f6132.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5ea44c9940b3507c9cabf4dc62d1f108.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
