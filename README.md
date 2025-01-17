@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Do what you feel in your heart to be right.
-做你内心认为正确的事。
+We become the most familiar strangers .
+我们变成了世上最熟悉的陌生人。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5ea44c9940b3507c9cabf4dc62d1f108.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c13c845a3f6533ff44bdf1c3bf7c72c3.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
