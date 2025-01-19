@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Success is being content with yourself and how you achieve it.
-成功是对自己和实现方式感到满意。
+Your attitude determines your altitude.
+你的态度决定了你的高度。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/789ec94291bac0468eaf1b339ca62782.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/288364d97e3eb943a8792f4d8654fb16.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
