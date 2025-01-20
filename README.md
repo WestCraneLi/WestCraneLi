@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Your attitude determines your altitude.
-你的态度决定了你的高度。
+Happiness is in sharing, not owning.
+幸福在分享，不在拥有。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/288364d97e3eb943a8792f4d8654fb16.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/40569670647fcd6942e4f6e20cd1a667.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
