@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Happiness is in sharing, not owning.
-幸福在分享，不在拥有。
+Hope is a waking dream.
+希望是清醒的梦。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/40569670647fcd6942e4f6e20cd1a667.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6f274eb82ed06345a8aba31fa464958b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
