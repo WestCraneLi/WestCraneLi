@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Hope is a waking dream.
-希望是清醒的梦。
+Light tomorrow with today.
+用今天点亮明天。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6f274eb82ed06345a8aba31fa464958b.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/bfdefd3c507441b050e53b5b2b053031.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
