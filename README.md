@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Light tomorrow with today.
-用今天点亮明天。
+Don't be pushed by your problems. Be led by your dreams.
+别被问题推着走，要被梦想引导着前进。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/bfdefd3c507441b050e53b5b2b053031.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1663cd20da6c415f5196feb5927f120a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
