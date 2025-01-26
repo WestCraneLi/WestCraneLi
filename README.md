@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You leave, or I go with you.
-你留下，或者我跟你走。——《海角七号》
+Hard work beats talent when talent fails to work hard.
+当天才不努力时，努力可以击倒天才。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1695961f05f79cb6bf630ce9747a189d.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5d786d9265a8ab5afd6756a5644c52e4.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
