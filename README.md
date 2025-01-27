@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Hard work beats talent when talent fails to work hard.
-当天才不努力时，努力可以击倒天才。
+The old year departs with gratitude, and the new one comes with hope.
+旧年怀感恩而去，新年携希望而来。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5d786d9265a8ab5afd6756a5644c52e4.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0223091e565480079cbffc26f5a2cefc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
