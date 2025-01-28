@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The old year departs with gratitude, and the new one comes with hope.
-旧年怀感恩而去，新年携希望而来。
+The joy of reunion makes the Spring Festival the happiest time of the year.
+团聚的喜悦让春节成为一年中最幸福的时光。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0223091e565480079cbffc26f5a2cefc.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b93bd0354c51baedb4d8b8996820bc9a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
