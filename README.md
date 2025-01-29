@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The joy of reunion makes the Spring Festival the happiest time of the year.
-团聚的喜悦让春节成为一年中最幸福的时光。
+Reading is to the mind what exercise is to the body.
+阅读之于心灵，犹如运动之于身体。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b93bd0354c51baedb4d8b8996820bc9a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/8fcbb628d2d0a7db7526a71e3be1a5fa.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
