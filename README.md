@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The way to get started is to quit talking and begin doing. 
-一切的起头就是不要只会说而是开始做。
+Happiness is not having what you want. It is wanting what you have.
+幸福不是拥有你想要的，而是珍惜你拥有的。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b42419f347ac7f02d5c8a8fa27a0b4b0.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ed1a6e6097f62f363d4f414aa8834207.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
