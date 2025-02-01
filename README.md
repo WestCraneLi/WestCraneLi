@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Happiness is not having what you want. It is wanting what you have.
-幸福不是拥有你想要的，而是珍惜你拥有的。
+Time is what we want most, but what we use worst.
+时间是我们最需要却最浪费的东西。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ed1a6e6097f62f363d4f414aa8834207.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/79e2f30b21cf319f53732c925e772474.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
