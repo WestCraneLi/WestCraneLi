@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Time is what we want most, but what we use worst.
-时间是我们最需要却最浪费的东西。
+In spring, every leaf is a flower in the making.
+在春天，每片叶子都是未来的花朵。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/79e2f30b21cf319f53732c925e772474.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/8d42f440d977a7d012eab7bbe676bb80.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
