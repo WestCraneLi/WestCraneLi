@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-In spring, every leaf is a flower in the making.
-在春天，每片叶子都是未来的花朵。
+Small steps every day lead to big results.
+每天迈出小步，终将收获大成果。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8d42f440d977a7d012eab7bbe676bb80.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d3770be5b2a8ab3ba7aa6db12c178e13.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
