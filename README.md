@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Small steps every day lead to big results.
-每天迈出小步，终将收获大成果。
+Great things never come from comfort zones.
+伟大的成就从未源于舒适区。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d3770be5b2a8ab3ba7aa6db12c178e13.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5d76d9dccb451efc1dfa1be4fb5d8e65.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
