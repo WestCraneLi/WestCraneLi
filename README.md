@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Great things never come from comfort zones.
-伟大的成就从未源于舒适区。
+The shortest answer is doing the thing.
+行动是最直接的回应。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5d76d9dccb451efc1dfa1be4fb5d8e65.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/56c97a833e642283c5252bb049132045.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
