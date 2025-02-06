@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The shortest answer is doing the thing.
-行动是最直接的回应。
+Nothing will work unless you do.
+除非你去做，否则什么都不会发生。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/56c97a833e642283c5252bb049132045.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/69155c10cf71bfdd7d1de45d4c75865e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
