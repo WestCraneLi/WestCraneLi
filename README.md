@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Celebrate the new year together, welcoming and bidding farewell within one night.
-共欢新故岁，迎送一宵中。——李世民《守岁》
+Best wishes for the holidays and happiness throughout the New Year.
+恭贺新禧，万事如意。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/596afbbd67fa0de3ea7c72ea08cf4a31.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d501a17ccb7a13b0eea54c98640a6999.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
