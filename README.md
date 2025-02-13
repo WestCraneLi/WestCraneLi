@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Done is better than perfect.
-完成比完美更重要。
+Love is the bridge between you and everything.
+爱是你与一切之间的桥梁。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6286d34c787320416bc8d7083e6f6553.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b1764f97fa79e6e133bc25ef146d976b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
