@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Love is the bridge between you and everything.
-爱是你与一切之间的桥梁。
+I would rather die of passion than of boredom. 
+我宁愿死于激情也不愿死于无聊。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b1764f97fa79e6e133bc25ef146d976b.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c3fbcf027da73cc5094078f03c60d13c.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
