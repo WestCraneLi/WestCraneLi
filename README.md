@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Dreaming, after all, is a form of planning.
-梦想，就是一种计划形式。
+Learn from yesterday, live for today, hope for tomorrow.
+从昨天学习，为今天而活，对明天充满希望。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/931eb280f7da7fa5031b58583dcb3d7d.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/8339695ea76fd8ff9246e3c58dea5500.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
