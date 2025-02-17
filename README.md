@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Learn from yesterday, live for today, hope for tomorrow.
-从昨天学习，为今天而活，对明天充满希望。
+Dreams don't work unless you do.
+梦想不会自己成真，除非你努力去实现。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8339695ea76fd8ff9246e3c58dea5500.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f81bc07a897060ed5e358420a45a8e22.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
