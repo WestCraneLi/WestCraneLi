@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Dreams don't work unless you do.
-梦想不会自己成真，除非你努力去实现。
+The best time to plant a tree was 10 years ago. The second best time is now.
+最好的种树时间是10年前，其次是现在。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f81bc07a897060ed5e358420a45a8e22.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/75963b2f731dfb6ff023acd4a5c105c8.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
