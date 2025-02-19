@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The best time to plant a tree was 10 years ago. The second best time is now.
-最好的种树时间是10年前，其次是现在。
+No pressure, no diamonds.
+没有压力，就没有钻石。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/75963b2f731dfb6ff023acd4a5c105c8.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/7d39fc3be70aa136b82d918672b517cc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
