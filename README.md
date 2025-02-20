@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-No pressure, no diamonds.
-没有压力，就没有钻石。
+Your only limit is your mind.
+唯一的限制是你的心态。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/7d39fc3be70aa136b82d918672b517cc.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/3ea8d847c02e3858e5a94243f9c71de4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
