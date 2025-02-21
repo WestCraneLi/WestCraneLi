@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Your only limit is your mind.
-唯一的限制是你的心态。
+Each day brings a new beginning.
+每天都是一个新开始。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/3ea8d847c02e3858e5a94243f9c71de4.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c13c845a3f6533ff44bdf1c3bf7c72c3.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
