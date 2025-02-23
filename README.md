@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Love is what makes life worth living.
-爱，让生命有了意义。
+Happiness is homemade.
+幸福是自己创造的。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6286d34c787320416bc8d7083e6f6553.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/a2713472212d42a7982bd6615f345f14.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
