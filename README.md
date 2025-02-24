@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Happiness is homemade.
-幸福是自己创造的。
+Success is no accident.
+成功不是偶然的。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a2713472212d42a7982bd6615f345f14.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/13d45ce92148eb0cb47824db32b44889.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
