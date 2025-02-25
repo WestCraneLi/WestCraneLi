@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Success is no accident.
-成功不是偶然的。
+What we achieve inwardly will change outer reality.
+我们内在的成就会改变外在的现实。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/13d45ce92148eb0cb47824db32b44889.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/3e67bcd334707474f32219068c2b5ab2.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
