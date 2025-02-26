@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-What we achieve inwardly will change outer reality.
-我们内在的成就会改变外在的现实。
+Happiness is a direction, not a place.
+幸福是一种方向，而不是一个地方。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/3e67bcd334707474f32219068c2b5ab2.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/bcc2d349636f50c3ce60b66cfdb2eb20.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
