@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Strength grows in the moments when you think you can’t go on but keep going anyway.
-力量来自于你觉得撑不下去却依然坚持的时刻。
+A merry heart goes all the way. 
+心旷神怡，事事顺利。 
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4515d1ee5ce4ebb1da17e690a38cb24c.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/7eec7cadfcc61cbebc851e1d4ef748ad.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
