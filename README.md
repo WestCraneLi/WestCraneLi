@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-When life gets you down, just keep moving.
-当生活遇到瓶颈，继续向前就对了。——《料理鼠王》
+The only way to fail is not to try.
+失败的唯一方式是不去尝试。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5d786d9265a8ab5afd6756a5644c52e4.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ce19f02d6a3f2d93dbd129fdee31a5cd.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
