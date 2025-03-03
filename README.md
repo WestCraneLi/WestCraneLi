@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The only way to fail is not to try.
-失败的唯一方式是不去尝试。
+Success depends on effort, not just desire.
+成功源于努力，而非渴望。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ce19f02d6a3f2d93dbd129fdee31a5cd.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e16358aeb2d488fb422852b9918c7017.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
