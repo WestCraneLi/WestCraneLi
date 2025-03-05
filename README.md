@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The more that you read, the more things you will know.
-你读的书越多，你知道的事就越多。
+Don’t wait for opportunity. Create it.
+不要等待机会，创造机会。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b89204095a5e1e6c03fad6d20e848a40.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ba39817e3bffdaf0bbfc784421552a76.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
