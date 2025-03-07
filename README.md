@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Greatness comes from small, consistent efforts, not impulse.
-伟大源于微小坚持，而非冲动。
+You are beautiful just as you are.
+你本来就很美。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/2b15ca451dbb73acdbb06426a29a1a53.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b42419f347ac7f02d5c8a8fa27a0b4b0.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
