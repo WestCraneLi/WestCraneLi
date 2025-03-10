@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-There's nothing you can do that can't be done.
-没有什么是你能做却做不到的。——披头士乐队
+Hard work magnifies achievement’s joy.
+越努力，成就感越强。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d94da24cd59af49ee0f15d0d6d66a259.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/503e0ffd64fa3f05b195bec331a5423d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
