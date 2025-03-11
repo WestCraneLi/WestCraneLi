@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Hard work magnifies achievement’s joy.
-越努力，成就感越强。
+Don’t wish for it. Work for it.
+不要仅仅希望它，去为它努力。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/503e0ffd64fa3f05b195bec331a5423d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/38d93ef2536476a32c0546732b68e6b4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
