@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Don’t wish for it. Work for it.
-不要仅仅希望它，去为它努力。
+Challenges spark life; conquering them gives purpose.
+挑战点亮生活，征服赋予意义。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/38d93ef2536476a32c0546732b68e6b4.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/266df91645218851875afdb6228c15f3.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
