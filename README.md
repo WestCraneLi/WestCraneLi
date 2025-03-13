@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Challenges spark life; conquering them gives purpose.
-挑战点亮生活，征服赋予意义。
+True success inspires others to act.
+真正的成功是激励他人行动。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/266df91645218851875afdb6228c15f3.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/a8d8f7ed201182df4ff3ad3633cd591d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
