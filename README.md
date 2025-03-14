@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-True success inspires others to act.
-真正的成功是激励他人行动。
+To be a happy man.
+做一个幸福的人。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a8d8f7ed201182df4ff3ad3633cd591d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/cd76763eae593021bc84d2fa51f64a9d.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
