@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Care and diligence bring luck.
-谨慎和勤奋，带来好运气。
+The key to success is to focus on goals, not obstacles.
+成功的关键是专注于目标，而非障碍。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0e07c7a1c33d03bb1d0cf334a63d5b02.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/88e2c54d60b40ff295c59e43a41162bc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
