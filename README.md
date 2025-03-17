@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The key to success is to focus on goals, not obstacles.
-成功的关键是专注于目标，而非障碍。
+Don't limit your challenges. Challenge your limits.
+不要限制你的挑战，挑战你的极限。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/88e2c54d60b40ff295c59e43a41162bc.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/db361897aab013167a632bf18607e23c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
