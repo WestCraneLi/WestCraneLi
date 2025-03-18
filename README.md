@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Don't limit your challenges. Challenge your limits.
-不要限制你的挑战，挑战你的极限。
+The only place where success comes before work is in the dictionary.
+只有在字典里，成功才排在工作之前。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/db361897aab013167a632bf18607e23c.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/71edcfcce608f11bccdf973353b348ed.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
