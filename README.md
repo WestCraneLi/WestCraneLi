@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The only place where success comes before work is in the dictionary.
-只有在字典里，成功才排在工作之前。
+Spring will come and so will happiness.
+春天会到来，幸福也会随之而来。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/71edcfcce608f11bccdf973353b348ed.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6e71c0ba7bbf8ac524260e3999198d54.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
