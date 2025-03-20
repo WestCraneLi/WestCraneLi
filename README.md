@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Spring will come and so will happiness.
-春天会到来，幸福也会随之而来。
+Success is becoming the best version of yourself.
+成功是成为最好的自己。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6e71c0ba7bbf8ac524260e3999198d54.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b582ce1351f51e9d4c5f6fae8c72c424.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
