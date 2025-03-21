@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Success is becoming the best version of yourself.
-成功是成为最好的自己。
+Every cloud has a silver lining.
+天无绝人之路。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b582ce1351f51e9d4c5f6fae8c72c424.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6050344edfd2490aeb505e3011edd794.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
