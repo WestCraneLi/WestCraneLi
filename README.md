@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You can do anything, but not everything.
-你可以做任何事，但不是所有事。
+The only thing we have to fear is fear itself.
+我们唯一需要害怕的是害怕本身。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d506c376a0d3927b8925b28c68cfd094.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/72e28c792d10d6ea1e69c0b2acd2da66.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
