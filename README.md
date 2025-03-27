@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Your greatest triumph is staying true to yourself.
-忠于自我是最高成就。
+Trailblaze where no path exists.
+在无路处开辟新径。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/74a1defdc6c207327ee65f3c13966358.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/88c49427da0a622153bb757aac76020f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
