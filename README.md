@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Trailblaze where no path exists.
-在无路处开辟新径。
+A miss is as good as a mile. 
+失之毫厘，差之千里。 
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/88c49427da0a622153bb757aac76020f.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d486eb38c2ccb2a54de3d155a66eb31f.jpg alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
