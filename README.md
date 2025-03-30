@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Happy life lies in a peaceful mind.
-幸福的生活存在于心绪的宁静之中。
+Cross oceans only by daring to leave shore.
+有离开海岸的勇气，才能横渡海洋。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c13c845a3f6533ff44bdf1c3bf7c72c3.jpg alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/9a2166a414b71373607b509488b62a82.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
