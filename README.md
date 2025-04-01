@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Every playful prank on April Fool's Day reminds us to live with laughter.
-每个愚人节的恶作剧都提醒我们用笑声生活。
+A brave decision today can spark a lifetime of transformation.
+今日的勇敢决断能激发一生的转变。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c858d202dd870768ede39d35d2ec4d50.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e0855cb80d938bcc4f855fa538d9fbf5.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
