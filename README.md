@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A brave decision today can spark a lifetime of transformation.
-今日的勇敢决断能激发一生的转变。
+Progress starts with one brave step forward.
+进步始于一次勇敢的迈步。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e0855cb80d938bcc4f855fa538d9fbf5.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/32cc0813468f45190385b17c3b64843a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
