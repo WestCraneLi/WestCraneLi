@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Progress starts with one brave step forward.
-进步始于一次勇敢的迈步。
+Qingming Festival invites us to honor ancestors with quiet reflection and respect. 
+清明节邀请我们以静思与敬意祭奠祖先。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/32cc0813468f45190385b17c3b64843a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f7cace7bd3217e891af0494e35f10ac1.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
