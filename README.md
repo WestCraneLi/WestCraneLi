@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Qingming Festival invites us to honor ancestors with quiet reflection and respect. 
-清明节邀请我们以静思与敬意祭奠祖先。
+If you want to achieve greatness, stop asking for permission.
+如果你想获得伟大，别再请求许可。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f7cace7bd3217e891af0494e35f10ac1.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/a93c30079f091930ecff5b4f12997775.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
