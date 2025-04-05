@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-If you want to achieve greatness, stop asking for permission.
-如果你想获得伟大，别再请求许可。
+Success is not in never falling, but in rising every time we fall.
+成功不是从不跌倒，而是每次跌倒后都能重新站起来。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a93c30079f091930ecff5b4f12997775.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/cbcb1051f9e084e6cee36f89cb744024.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
