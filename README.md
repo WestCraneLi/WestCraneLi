@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Success is not in never falling, but in rising every time we fall.
-成功不是从不跌倒，而是每次跌倒后都能重新站起来。
+Laughter revives a tired spirit and mends a broken heart.
+笑声能重燃疲惫的心灵，修复破碎的情感。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/cbcb1051f9e084e6cee36f89cb744024.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/8f61bd8a0de8aad1d32563edb90b1d98.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
