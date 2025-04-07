@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Laughter revives a tired spirit and mends a broken heart.
-笑声能重燃疲惫的心灵，修复破碎的情感。
+Think less of gain and loss as long as you go all out and have a clear mind.
+得失成败置之度外，只求竭尽所能，无愧于心。 --傅雷
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8f61bd8a0de8aad1d32563edb90b1d98.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/44581fefe20cf06b3fe8eaaf03993c39.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
