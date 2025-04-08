@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Think less of gain and loss as long as you go all out and have a clear mind.
-得失成败置之度外，只求竭尽所能，无愧于心。 --傅雷
+Knowledge speaks, but wisdom listens.
+知识在言说，智慧在倾听。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/44581fefe20cf06b3fe8eaaf03993c39.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/9c536c57de1922279996a702e6daa04c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
