@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Knowledge speaks, but wisdom listens.
-知识在言说，智慧在倾听。
+Genuine effort turns challenges into stepping stones for real growth.
+真诚的努力，能将阻碍转化为真正进步的垫脚石。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/9c536c57de1922279996a702e6daa04c.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/720872970bb5b6666f7f11c55cd95a03.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
