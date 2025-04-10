@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Genuine effort turns challenges into stepping stones for real growth.
-真诚的努力，能将阻碍转化为真正进步的垫脚石。
+Forward ever, backward never.
+永远向前，绝不后退。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/720872970bb5b6666f7f11c55cd95a03.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/a304c21ea8a1f13bc02e230185f107ef.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
