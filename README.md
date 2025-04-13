@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Beauty lies in the love's eyes.
-情人眼里出西施。
+Family always remains a safe harbor in life's stormy sea.
+家庭始终是风暴中最安全的港湾。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a34de3e70c80ac5700c8dc8fcdc0c0e0.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/10c2d1096d83b8297a6be70aa3ef9113.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
