@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Family always remains a safe harbor in life's stormy sea.
-家庭始终是风暴中最安全的港湾。
+Calm moments reveal hidden beauty in the everyday world around us.
+宁静时刻展现出我们周围日常生活中隐藏的美。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/10c2d1096d83b8297a6be70aa3ef9113.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b0b54de46c2a5e904e082ddaa6f999f9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
