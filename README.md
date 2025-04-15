@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Calm moments reveal hidden beauty in the everyday world around us.
-宁静时刻展现出我们周围日常生活中隐藏的美。
+Action expresses priorities.
+行动展示真正优先。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b0b54de46c2a5e904e082ddaa6f999f9.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6f4d014516700128f38fa16985a1ed63.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
