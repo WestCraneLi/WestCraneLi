@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Action expresses priorities.
-行动展示真正优先。
+Live simply, so others may simply live.
+简单生活，让他人也能简单生活。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6f4d014516700128f38fa16985a1ed63.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/cd23418bc9de1ca56eef533c02d20171.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
