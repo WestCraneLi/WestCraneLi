@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Live simply, so others may simply live.
-简单生活，让他人也能简单生活。
+Every effort, no matter how small, builds a better future.
+每一分努力，不论多小，都构建更美好未来。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/cd23418bc9de1ca56eef533c02d20171.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/3a7d5ceba3fab015d0d219efecf68ea5.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
