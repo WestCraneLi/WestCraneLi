@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You get in life what you have the courage to ask for.
-勇敢去争取想要的生活，你终能得偿所愿。-–欧普拉‧温芙蕾
+Every act of honesty plants seeds for trust to eventually grow.
+每个真诚行为都为信任播下种子。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/491f9e690e617e227efecaecf0208d63.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/990c27494d15e101e66aecad09f6e467.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
