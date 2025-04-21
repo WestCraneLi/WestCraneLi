@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Every act of honesty plants seeds for trust to eventually grow.
-每个真诚行为都为信任播下种子。
+Kindness transforms the world, one compassionate act at a time.
+善良改变世界，每一次充满同情的行动都至关重要。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/990c27494d15e101e66aecad09f6e467.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/bcff667f39a646f0eb330106069db026.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
