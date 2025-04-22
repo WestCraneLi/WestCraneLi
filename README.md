@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Kindness transforms the world, one compassionate act at a time.
-善良改变世界，每一次充满同情的行动都至关重要。
+Love transforms moments into magic that lingers in our memories.
+爱将平凡时刻变为奇迹，长存于我们的记忆中。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/bcff667f39a646f0eb330106069db026.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b4f4695d71a846c2d37328bcf01f135d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
