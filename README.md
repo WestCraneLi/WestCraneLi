@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Love transforms moments into magic that lingers in our memories.
-爱将平凡时刻变为奇迹，长存于我们的记忆中。
+Books indeed open doors to worlds beyond our wildest dreams.
+书籍确实开启了超越想象的世界之门。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b4f4695d71a846c2d37328bcf01f135d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0ab6223d701bf1ddc2f60fa1276d8b6b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
