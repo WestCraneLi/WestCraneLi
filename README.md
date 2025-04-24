@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Books indeed open doors to worlds beyond our wildest dreams.
-书籍确实开启了超越想象的世界之门。
+Hope and love truly make every challenge a little easier.
+希望与爱让每个挑战变得更容易。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0ab6223d701bf1ddc2f60fa1276d8b6b.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/cc78beeff2d6d029266cf0df422e5baa.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
