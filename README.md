@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Hope and love truly make every challenge a little easier.
-希望与爱让每个挑战变得更容易。
+Your smile can warm a heart and light up a dark room.
+你的笑容能温暖一颗心，照亮黑暗的房间。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/cc78beeff2d6d029266cf0df422e5baa.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/757378eee4fe9bff81c5447a17d33cc3.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
