@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Your smile can warm a heart and light up a dark room.
-你的笑容能温暖一颗心，照亮黑暗的房间。
+Courage is the spark that ignites extraordinary achievements in life.
+勇气是点燃非凡成就的火花。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/757378eee4fe9bff81c5447a17d33cc3.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d12a14ded3745aa161c0bc7244789e71.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
