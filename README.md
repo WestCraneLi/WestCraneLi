@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Courage is the spark that ignites extraordinary achievements in life.
-勇气是点燃非凡成就的火花。
+Gratitude turns little moments into abundant blessings each day.
+感恩让平凡时刻化为每日的丰盛祝福。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d12a14ded3745aa161c0bc7244789e71.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/fa581bbc093a4dc0e50207d6aa9f662b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
