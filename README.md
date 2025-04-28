@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Gratitude turns little moments into abundant blessings each day.
-感恩让平凡时刻化为每日的丰盛祝福。
+Simplicity clears clutter and illuminates the path to inner peace.
+简单驱散纷扰，照亮通往内心平静的道路。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/fa581bbc093a4dc0e50207d6aa9f662b.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/530c8b8a83ab30bdd0b7e1107cb38da0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
