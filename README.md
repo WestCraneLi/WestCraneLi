@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Simplicity clears clutter and illuminates the path to inner peace.
-简单驱散纷扰，照亮通往内心平静的道路。
+Your dreams truly matter; pursue them with relentless passion every day.
+你的梦想至关重要，每天都要以不懈热情追求。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/530c8b8a83ab30bdd0b7e1107cb38da0.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/3af193239cf94b24d4f42303e303dc68.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
