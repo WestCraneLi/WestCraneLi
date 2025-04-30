@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Your dreams truly matter; pursue them with relentless passion every day.
-你的梦想至关重要，每天都要以不懈热情追求。
+Labor is the most reliable wealth.
+劳动是最可靠的财富。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/3af193239cf94b24d4f42303e303dc68.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/bd3cfed2c44b537e1481c94735c94ab1.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
