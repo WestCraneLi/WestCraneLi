@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Sweat is the lubricant of success.
-汗水是成功的润滑剂。
+Do your thing and don't care if they like it.
+做你的事，别在意别人是否喜欢。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1bdc02c51e37bac160fd07e1f428723d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f12b116eb27f1b21a15e1ce46ec90e6e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
