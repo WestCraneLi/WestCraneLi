@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Do your thing and don't care if they like it.
-做你的事，别在意别人是否喜欢。
+Just hold to your dream and never give up. 
+坚持你的梦想，永不放弃。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f12b116eb27f1b21a15e1ce46ec90e6e.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1297d302d565622e72d202d341344363.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
