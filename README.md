@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Just hold to your dream and never give up. 
-坚持你的梦想，永不放弃。
+Plan something big by starting with small steps.
+从小处着手，规划大事。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1297d302d565622e72d202d341344363.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c699dc9688bda9adfb1bbd0784a75a6f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
