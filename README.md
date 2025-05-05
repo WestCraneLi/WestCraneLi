@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Plan something big by starting with small steps.
-从小处着手，规划大事。
+Creating light for others naturally lights our own way.
+为他人创造光明自然照亮我们之路。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c699dc9688bda9adfb1bbd0784a75a6f.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/51eaf20875fbe189bb0b337064b9c7fc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
