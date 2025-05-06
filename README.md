@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Creating light for others naturally lights our own way.
-为他人创造光明自然照亮我们之路。
+A dead end is just a good place to turn around.
+死胡同只是一个很好的转弯之处。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/51eaf20875fbe189bb0b337064b9c7fc.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/773c095d340514e53dd71052f38b5503.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
