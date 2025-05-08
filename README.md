@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I’ve nothing to do today but smile.
-你今天唯一能做的事就是微笑。
+You can, you should, and if you’re brave, you will.
+你可以，你应该，若你勇敢，你会做到。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5c5c34a4b790cf2b1431a491ab5b8497.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e415656b26cc011322fde27191f4845b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
