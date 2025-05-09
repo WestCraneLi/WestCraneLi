@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You can, you should, and if you’re brave, you will.
-你可以，你应该，若你勇敢，你会做到。
+There is always a better way.
+总有更好的办法。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e415656b26cc011322fde27191f4845b.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/7575e870a3939140817c7293cf5950c1.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
