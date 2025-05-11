@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is too short for us to wake up in the morning with regrets.
-人生苦短，所以每天不要带着遗憾醒来。
+Life is like riding a bicycle, you must keep moving.
+生活像骑自行车，必须不断前进。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/76da8578cb9d0ac864ed3205fa2d97ec.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e0892995cf4773117186cbc43bd16349.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
