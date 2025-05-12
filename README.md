@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is like riding a bicycle, you must keep moving.
-生活像骑自行车，必须不断前进。
+Destination is never a place, but a new perspective.
+目的地不是地方，而是一种新视角。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e0892995cf4773117186cbc43bd16349.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/a4a466930bd4fd1f7fd9ece0e143c83f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
