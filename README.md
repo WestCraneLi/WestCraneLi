@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Destination is never a place, but a new perspective.
-目的地不是地方，而是一种新视角。
+Some look for a beautiful place, others make it beautiful.
+有人寻找美丽之地，有人创造美丽之地。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a4a466930bd4fd1f7fd9ece0e143c83f.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e177ba76723558eb40f2b014466f0f8b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
