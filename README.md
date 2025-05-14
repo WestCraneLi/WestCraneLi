@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Some look for a beautiful place, others make it beautiful.
-有人寻找美丽之地，有人创造美丽之地。
+How you deal with failure determines your success.
+你如何处理失败决定你的成功。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e177ba76723558eb40f2b014466f0f8b.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/077dbe45d5daa47be3341afb6682d3a3.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
