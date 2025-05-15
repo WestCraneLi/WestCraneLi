@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-How you deal with failure determines your success.
-你如何处理失败决定你的成功。
+I’ve found 10,000 ways that won’t work.
+我找到了10,000种行不通的方法。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/077dbe45d5daa47be3341afb6682d3a3.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/3d34053cfdec1d9a91bf9b957395e0b0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
