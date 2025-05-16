@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I’ve found 10,000 ways that won’t work.
-我找到了10,000种行不通的方法。
+Death is just a part of life, something we’re all destined to do.
+死亡是生命的一部分，是我们注定要面对的一件事。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/3d34053cfdec1d9a91bf9b957395e0b0.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6a2f8306b9312a5d24888a1ba232b469.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
