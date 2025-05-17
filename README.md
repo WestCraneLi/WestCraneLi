@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Death is just a part of life, something we’re all destined to do.
-死亡是生命的一部分，是我们注定要面对的一件事。
+There are only the pursued, the pursuing, the busy and the tired.
+世界上只有被追求者和追求者，忙碌者和疲惫者。　　
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6a2f8306b9312a5d24888a1ba232b469.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ae040bee5b644dcba2da0f5604a7a61f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
