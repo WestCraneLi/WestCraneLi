@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is expensive. You know, you have to be responsible.
-生活很昂贵，你需要负责。
+You make a life out of what you have.
+你用拥有的东西创造生活。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5bf1da760fa25930d5155fd0fe327686.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e40b24f0f8750bec065a6097bc05e510.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
