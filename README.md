@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You make a life out of what you have.
-你用拥有的东西创造生活。
+There are years that ask questions and years that answer.
+有提问的年份，也有回答的年份。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e40b24f0f8750bec065a6097bc05e510.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/a94cf001c7bc6217faf7f1f015d351ba.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
