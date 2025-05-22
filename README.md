@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Decide what to do with the time given to us.
-决定如何使用给予我们的时间。
+Each of us is more than our worst mistake.
+我们每个人都超越了自己最糟的错误。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a4e0d6dabb8cd2c2283b13a944a1143d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/66abbe039c86e5e7f149eaa5a292265c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
