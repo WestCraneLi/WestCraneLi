@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Look before you leap.
-三思而后行。
+Rome was not built in a day.
+罗马不是一天造成的。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/08f8ba9630b334fbb785766662cc0652.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d8cb2d785b6595f3afda2fcbdff87944.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
