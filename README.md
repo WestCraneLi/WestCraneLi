@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Rome was not built in a day.
-罗马不是一天造成的。
+Wishing takes as much energy as planning does.
+许愿和计划需要同样的能量。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d8cb2d785b6595f3afda2fcbdff87944.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/44d6f1f833a964c7a85f698c75d1aa5a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
