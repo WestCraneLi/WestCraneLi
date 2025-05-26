@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Wishing takes as much energy as planning does.
-许愿和计划需要同样的能量。
+You cannot change what you are, only what you do.
+你无法改变本质，只能改变行为。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/44d6f1f833a964c7a85f698c75d1aa5a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1220bba7bba2b7d69402d170dbcc854f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
