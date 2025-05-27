@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You cannot change what you are, only what you do.
-你无法改变本质，只能改变行为。
+A good mind is not enough; use it well.
+好头脑不够，必须善加利用。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1220bba7bba2b7d69402d170dbcc854f.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/3128632d79ac6a36c3f530897bafd13f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
