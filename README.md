@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Success begins the minute you decide to be successful.
-成功的起点是你决定成功的那一刻。
+No one is useless who lightens another’s burden.
+减轻他人负担的人绝非无用。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1946d0988fdfc4d10788e06e9ce944ad.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/524b39923afcfd79686a9d3a9416a478.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
