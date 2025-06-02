@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Time cures all things.
-时间可抚平一切创伤。
+Anything is possible with sunshine and a little pink.
+只要有一缕阳光和一抹淡粉，万事皆有可能。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/26bd66deb2a407d0040d0d6426a71cc2.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e93df30ed8c03310529d73f46a7066bf.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
