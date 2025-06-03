@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Anything is possible with sunshine and a little pink.
-只要有一缕阳光和一抹淡粉，万事皆有可能。
+Cherish victories, use them, but don’t settle for them.
+珍惜胜利，利用它们，但别满足。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e93df30ed8c03310529d73f46a7066bf.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ecb83e1a6122ca8ff6b40b3c1b9f4fc4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
