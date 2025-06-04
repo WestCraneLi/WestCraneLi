@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Cherish victories, use them, but don’t settle for them.
-珍惜胜利，利用它们，但别满足。
+You are wired for struggle, but worthy of love.
+你天生适合奋斗，但值得被爱。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ecb83e1a6122ca8ff6b40b3c1b9f4fc4.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/7ef92512d1ae1111730de36bb3e1bbdb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
