@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You are wired for struggle, but worthy of love.
-你天生适合奋斗，但值得被爱。
+Whatever the mind can conceive and believe, it can achieve.
+心智能想到并相信的，就能实现。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/7ef92512d1ae1111730de36bb3e1bbdb.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ea2e8ea0ad649095a757aa2b6b3e09dc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
