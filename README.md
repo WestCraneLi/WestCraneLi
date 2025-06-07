@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Successful, faster runs my horse in vernal breeze;I've seen within one day all flowers on the trees.
-春风得意马蹄疾，一日看尽长安花。
+It is never too late to fall in love.
+爱永远不会嫌晚。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c71128f41d5cc1ee602d0de2bb47d0bd.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b40de4751f4c4bb6efaa60463ba05539.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
