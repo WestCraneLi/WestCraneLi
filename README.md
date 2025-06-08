@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-It is never too late to fall in love.
-爱永远不会嫌晚。
+Life is about making an impact, not making an income.
+生活是关于产生影响，而不是赚钱。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b40de4751f4c4bb6efaa60463ba05539.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/3ad311556bf38ac18429336ee3c1a1b9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
