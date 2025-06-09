@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is about making an impact, not making an income.
-生活是关于产生影响，而不是赚钱。
+You get in life what you courageously ask for.
+你有勇气要求，生活就会给予。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/3ad311556bf38ac18429336ee3c1a1b9.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/765c906a011c842f0ff9445fdd7e7527.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
