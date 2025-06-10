@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You get in life what you courageously ask for.
-你有勇气要求，生活就会给予。
+Strive not to be a success, but rather to be of value.
+不要追求成功，而要追求有价值。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/765c906a011c842f0ff9445fdd7e7527.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/155551ea86d2f7c9f11f38753fec113d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
