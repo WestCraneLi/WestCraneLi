@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Strive not to be a success, but rather to be of value.
-不要追求成功，而要追求有价值。
+Real wealth is when your kids hug you even when you have nothing.
+真正的富有，是孩子在你一无所有时依然拥抱你。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/155551ea86d2f7c9f11f38753fec113d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/482a0944814be8e51f6860d5c265c488.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
