@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Real wealth is when your kids hug you even when you have nothing.
-真正的富有，是孩子在你一无所有时依然拥抱你。
+You miss 100% of the shots you don’t take.
+你不射门，就永远得不了分。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/482a0944814be8e51f6860d5c265c488.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/141942163d922a88954dc0a2427d43c4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
