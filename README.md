@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-No man is rich enough to buy back his own past.
-没有人富有到可以赎回自己的过去。
+Follow your heart, but take your brain with you.
+跟随自己的心，但要保持清醒的头脑。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/263a93a6396869afcbc437bd05bcf01a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1b459cd40d10f2d422a6c0495b03ff21.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
