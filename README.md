@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is more about giving than taking.
-人生重在给予，而非索取。
+Education costs money. But then so does ignorance.
+教育需要花钱，但无知也需要。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/7d182a72bf5a1cb352a49bdd3e3a0748.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/aa48dcd90caebb16f93cec3705930196.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
