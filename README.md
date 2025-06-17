@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Education costs money. But then so does ignorance.
-教育需要花钱，但无知也需要。
+When I let go of what I am, I become what I might be.
+我放下现在的自己，我才能成为可能的自己。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/aa48dcd90caebb16f93cec3705930196.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4946c2f8577d01a8bd5ae243d59cd5de.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
