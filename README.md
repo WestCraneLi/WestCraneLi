@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-When I let go of what I am, I become what I might be.
-我放下现在的自己，我才能成为可能的自己。
+Happiness is not something readymade. It comes from your own actions.
+幸福不是现成的。它来自你的行动。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4946c2f8577d01a8bd5ae243d59cd5de.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d268bfc932cef3301b57968bf8a82921.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
