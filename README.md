@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life gets exciting when we face and beat challenges.
-迎接并战胜挑战，让生活充满意义。
+Same actions bring same results.
+重复旧行为，只会得到旧结果。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/93de56e186d5ebfcfc95c7b73bb19a69.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d382d2b89e39509cf73b4d0b1006482f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
