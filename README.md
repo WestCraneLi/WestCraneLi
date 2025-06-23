@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Same actions bring same results.
-重复旧行为，只会得到旧结果。
+Sometimes not getting what you want is good luck.
+得不到想要的，有时反而是幸运。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d382d2b89e39509cf73b4d0b1006482f.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4635f2d20e2ddb72df3219fc741f8861.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
