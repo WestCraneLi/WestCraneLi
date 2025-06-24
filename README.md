@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Sometimes not getting what you want is good luck.
-得不到想要的，有时反而是幸运。
+The only way to avoid criticism is to do nothing at all.
+避免批评的唯一方法就是什么都不做。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4635f2d20e2ddb72df3219fc741f8861.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/005b8ea47f4f4d6fdb6cecd3e8e4d223.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
