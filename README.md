@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I didn’t fail the test. I just found 100 ways to do it wrong.
-我没有考试失败。我只是找到了100种做错的方法。
+Great people do things before they are ready.
+伟大的人在准备好前就行动。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/faff663fc262e038853587ec9a91fc52.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/7618409dae53f1e04f486798817f1537.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
