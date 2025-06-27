@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Great people do things before they are ready.
-伟大的人在准备好前就行动。
+Live a good life and meet slowly.
+好好生活，慢慢相遇。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/7618409dae53f1e04f486798817f1537.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/2291746402dfc3f18866e13dbc1fd403.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
