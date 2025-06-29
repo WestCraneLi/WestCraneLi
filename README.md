@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Cross the stars over the moon to meet your better self.
-跨过星河迈过月亮去迎接更好的自己。
+If it happens, it happens.
+既来之，则安之。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f96e1e1f25f89bfe3d80fffa3b9c3853.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ea71386b64add012b4e3ab6f75db5030.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
