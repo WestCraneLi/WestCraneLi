@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-If it happens, it happens.
-既来之，则安之。
+Focus on the present, not the past or future.
+不念过往，不畏将来，专注当下。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ea71386b64add012b4e3ab6f75db5030.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/2c9d0604127e56a4ddb52a41a4ed6ea0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
