@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Focus on the present, not the past or future.
-不念过往，不畏将来，专注当下。
+Move forward to keep life balanced.
+人生如骑行，前进即平衡。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/2c9d0604127e56a4ddb52a41a4ed6ea0.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/82daca33502e9679384084440c525e3f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
