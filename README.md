@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Move forward to keep life balanced.
-人生如骑行，前进即平衡。
+The only true wisdom is in knowing you know nothing.
+唯一真正的智慧，是知道自己一无所知。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/82daca33502e9679384084440c525e3f.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/33087aead65074d00ce7876fb98384db.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
