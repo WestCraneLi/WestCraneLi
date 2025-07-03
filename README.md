@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The only true wisdom is in knowing you know nothing.
-唯一真正的智慧，是知道自己一无所知。
+Silence is the most perfect expression of scorn.
+沉默是轻蔑最完美的表达。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/33087aead65074d00ce7876fb98384db.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/8f51ac5d3260bf5eeb829a7144bf9b97.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
