@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Silence is the most perfect expression of scorn.
-沉默是轻蔑最完美的表达。
+Life is the flower for which love is the honey.
+生命如花，爱情是蜜。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8f51ac5d3260bf5eeb829a7144bf9b97.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ee0b5c3f60486a0db691ec93eb860907.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
