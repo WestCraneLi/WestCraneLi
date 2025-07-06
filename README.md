@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Every man is a poet when he is in love.
-每个恋爱中的人都是诗人。
+A boy's best friend is his mother.
+男孩最好的朋友是他的母亲。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/afce8a0323cf35e873107e2f44a07610.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d46bde7140bc55c931026e79f2d0f2bb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
