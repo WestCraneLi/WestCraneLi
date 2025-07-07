@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A boy's best friend is his mother.
-男孩最好的朋友是他的母亲。
+All advantages aren't in running quickly, but in getting a head start.​
+优势不在于跑得快，而在于起身早。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d46bde7140bc55c931026e79f2d0f2bb.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/687a6d079850e1ca37b9dad9e7ec05d0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
