@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-All advantages aren't in running quickly, but in getting a head start.​
-优势不在于跑得快，而在于起身早。
+Don't focus on why it can't work. Trust the reason why it can.​
+忘掉所有"不可能"的借口，坚持那一个"可能"的理由。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/687a6d079850e1ca37b9dad9e7ec05d0.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4df183f72adc3568030ee16dfc5a0b69.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
