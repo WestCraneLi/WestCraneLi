@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Don't focus on why it can't work. Trust the reason why it can.​
-忘掉所有"不可能"的借口，坚持那一个"可能"的理由。
+Face the sunshine, leave shadows behind.
+面向阳光，阴影自褪。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4df183f72adc3568030ee16dfc5a0b69.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/59292a2a69bbaf7473b9967fec44faf8.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
