@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Face the sunshine, leave shadows behind.
-面向阳光，阴影自褪。
+You're someone's whole world.
+一人即某人的全世界。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/59292a2a69bbaf7473b9967fec44faf8.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/dd2a35af0fc5669cf9360ee2e20b1f59.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
