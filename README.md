@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-May the Force be with you.
-愿原力与你同在。——《星球大战》
+Loving helps grow; liking just takes.
+爱助生长，喜欢只懂索取。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/9b32ea79706a8b90b148add3556f87c3.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f7b847351f14411fa2a19725d615979d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
