@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Loving helps grow; liking just takes.
-爱助生长，喜欢只懂索取。
+Time heals hearts and wounds.
+时间愈心伤，亦平身创。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f7b847351f14411fa2a19725d615979d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/609fc9de33ccbb1d854379e8b2a8008d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
