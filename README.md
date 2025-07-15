@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Time heals hearts and wounds.
-时间愈心伤，亦平身创。
+Success is built on failed years.
+成功皆筑于经年败绩。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/609fc9de33ccbb1d854379e8b2a8008d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4f08f2f8d0721010ce9c8547a90b05fb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
