@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Success is built on failed years.
-成功皆筑于经年败绩。
+Judge not from appearances.
+人不可貌相，海不可斗量。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4f08f2f8d0721010ce9c8547a90b05fb.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/cb8c991b4cd01bea5984b55817c80665.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
