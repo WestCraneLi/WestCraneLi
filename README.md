@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Judge not from appearances.
-人不可貌相，海不可斗量。
+Custom makes all things easy.
+习惯成自然。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/cb8c991b4cd01bea5984b55817c80665.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/dec2e060dc61b8716a8abb4ae680f553.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
