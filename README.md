@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Time and tide wait for no man. 
-时光如逝水，岁月不待人。
+Mama says, 'Stupid is as stupid does.'-Forrest Gump, 1994
+妈妈说，‘做傻事的才是傻瓜。'——《阿甘正传，1994》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/bb8e6e991337e747cd7662e354a75f3c.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/73934bec3cbe779887eafbaf2ca236eb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
