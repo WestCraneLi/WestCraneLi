@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Strength knows conflict; weakness is born vanquished.
-强者才懂斗争，弱者生来被征服。
+The secret of success is constancy to purpose.
+成功的秘诀在于忠于目标。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/47ac8c6130189c75856824f787342bf8.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e9d4ee926a43977a9e033bf591c9fc56.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
