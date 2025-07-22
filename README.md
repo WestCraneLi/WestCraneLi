@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The secret of success is constancy to purpose.
-成功的秘诀在于忠于目标。
+There are no shortcuts to any place worth going.
+通往值得去的地方，从无捷径。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e9d4ee926a43977a9e033bf591c9fc56.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/7b8a959d2228f5e14cc5e6f68a22cf29.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
