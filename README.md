@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Perfection is not attainable, but chasing it leads to excellence.
-完美虽不可达，追求它却能成就卓越。
+Pains make stronger, tears make braver,and heartbreaks make wiser.
+伤痛铸坚强，眼泪淬勇敢，心碎炼智慧。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/38a540ddbb8d1035b8681f03ffa044fa.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5adf7476a4e81ef1cc35b448e1ae1044.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
