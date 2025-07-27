@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I feel the need — the need for speed!
-我感觉到一种需要——速度的需要!
+It's my best friend. Always happy. No questions.
+它是我最好的朋友，总是很快乐，从不问问题。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/3085aaabe2e7772dc78514fe6e30efd8.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1d7b4064b7138396fc097264a9df53dd.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
