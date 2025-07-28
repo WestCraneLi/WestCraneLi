@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-It's my best friend. Always happy. No questions.
-它是我最好的朋友，总是很快乐，从不问问题。
+Through the darkness, we can see the light.
+捱过黑暗，才能看见光明。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1d7b4064b7138396fc097264a9df53dd.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/a5ec6b514525464ad09b57b2a2532446.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
