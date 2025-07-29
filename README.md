@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Through the darkness, we can see the light.
-捱过黑暗，才能看见光明。
+Strive for tomorrow, not regret yesterday.
+奋斗未来，莫悔往昔。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a5ec6b514525464ad09b57b2a2532446.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4c8d4c752af1d69347c78312bcb04033.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
