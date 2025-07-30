@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Strive for tomorrow, not regret yesterday.
-奋斗未来，莫悔往昔。
+You are unique; nothing can replace you.
+你举世无双，无人可以替代。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4c8d4c752af1d69347c78312bcb04033.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4c292a5bf2fa00d48b24d33ed896420a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
