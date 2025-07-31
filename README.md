@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You are unique; nothing can replace you.
-你举世无双，无人可以替代。
+Your silent march through storms writes peace upon our land.
+你穿越风暴的无声行进，在大地写下和平。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4c292a5bf2fa00d48b24d33ed896420a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/fc7f6af757558e3dddb4aab41ac867d4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
