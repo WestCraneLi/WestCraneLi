@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A goal without a plan is just a wish. — Antoine de Saint-Exupéry
-没有计划的目标只是一个愿望。 — 安托万·德·圣-埃克苏佩里
+Nurture passes nature.
+教养胜过天性。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a387091e18b1805cab6e59dfc5e7d9d9.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f1323df8f1a7a11c4f8db68f484236c5.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
