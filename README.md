@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Nurture passes nature.
-教养胜过天性。
+One swallow does not make a summer.
+一燕不成夏（一花独放不是春）。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f1323df8f1a7a11c4f8db68f484236c5.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f79276c1c2f1a673d4cd0419e61fcb8a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
