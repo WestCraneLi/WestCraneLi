@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Courage is not the absence of fear, but the will to guard what we cherish.
-勇气非无畏，而是守护所爱的意志。
+Poverty is stranger to industry.
+勤劳之人不受穷。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/559d07b3da72513c47de640065dfb3fa.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/a21ab0ed164003ec8d649ea173a054a2.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
