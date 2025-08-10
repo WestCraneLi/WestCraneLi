@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
- Love is the only reality.— James M. Barrie, Peter Pan
-爱是唯一的现实。— 詹姆斯·马修·巴里，《彼得潘》
+Hope is a good thing, maybe the best of things.
+希望是美好的，也许是人间至善。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/35e0c139f03826f697be3f45bf007279.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ccead7f27ecb7261b783bccb3bc86610.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
