@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Hope is a good thing, maybe the best of things.
-希望是美好的，也许是人间至善。
+The heart is seen in wine.
+酒后吐真言。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ccead7f27ecb7261b783bccb3bc86610.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/92d1319472b138ac3f79be99cf73a6e1.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
