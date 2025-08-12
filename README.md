@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The heart is seen in wine.
-酒后吐真言。
+The worse luck now, the better another time.
+风水轮流转。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/92d1319472b138ac3f79be99cf73a6e1.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6a37fa3256ab2a8e1d427206830c2f93.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
