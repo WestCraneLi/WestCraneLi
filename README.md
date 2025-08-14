@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Use legs and have legs.
-经常用腿，健步如飞。
+Virtue never grows old.
+美德常青。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a597a82cb25a7eb626777fb8c6878204.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f4dcccbacd2725ff92902d063128dea5.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
