@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Virtue never grows old.
-美德常青。
+To love and be loved is to feel the sun from both sides. — David Viscott
+爱与被爱是感受到两边的阳光。 — 大卫·维斯科特
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f4dcccbacd2725ff92902d063128dea5.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4ec085cbf37b3cb494d1bb201c116310.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
