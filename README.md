@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-They call it a Royale with cheese.— Pulp Fiction 
-他们称之为奶酪皇堡。—《低俗小说》
+Change the world by being yourself. — Amy Poehler
+做自己，改变世界。 — 艾米·波勒
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/42197325bcbbceee2797465461c12173.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/24d50722c152906020c9e4e3520a7fec.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
