@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Change the world by being yourself. — Amy Poehler
-做自己，改变世界。 — 艾米·波勒
+Students outshine teachers, like blue beyond indigo.​
+学生超过老师，后人胜过前人。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/24d50722c152906020c9e4e3520a7fec.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/afbf842388f52475a0638165577e8f1f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
