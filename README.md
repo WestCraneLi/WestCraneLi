@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Students outshine teachers, like blue beyond indigo.​
-学生超过老师，后人胜过前人。
+Wasting time is robbing oneself.
+浪费时间就是掠夺自己。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/afbf842388f52475a0638165577e8f1f.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5536b34583f0dd7c4d1bce8006a6b888.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
