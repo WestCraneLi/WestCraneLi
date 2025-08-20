@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Wasting time is robbing oneself.
-浪费时间就是掠夺自己。
+The rough road often leads to the top.
+艰难的道路经常通往高处。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5536b34583f0dd7c4d1bce8006a6b888.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b30226cc79f39d40ec1db5cb6adce0e2.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
