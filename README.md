@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The rough road often leads to the top.
-艰难的道路经常通往高处。
+I’m talking about a lifetime. One second less makes it less!
+说的是一辈子！差一年，一个月，一天，一个时辰...都不算一辈子！
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b30226cc79f39d40ec1db5cb6adce0e2.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b60a0be5639f4798280a48d4290ca521.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
