@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I want to believe in something greater than myself.— The X-Files
-我想相信比我自己更伟大的东西。 —《X档案》
+​​Heights scaled demand mastery of descent.​
+攀高者，必精于俯身。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/aec9f083f4996ca6d109c77e642fca79.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/0aa4cec0d4e60851f996bf2c3ffacbfb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
