@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-​​Heights scaled demand mastery of descent.​
-攀高者，必精于俯身。
+Today is important. If it matters, do it today!
+活在当下，重要的事今天就做！
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/0aa4cec0d4e60851f996bf2c3ffacbfb.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ea618e6eb8baaa185655e6dbc1dac513.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
