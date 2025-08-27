@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Today is important. If it matters, do it today!
-活在当下，重要的事今天就做！
+Behind the guise lies conviction, impervious to mortal arms.
+假面之下藏信念，凡兵利器不可侵。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ea618e6eb8baaa185655e6dbc1dac513.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d655367660540d6d49553705a2f1bfa6.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
