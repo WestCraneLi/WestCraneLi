@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Behind the guise lies conviction, impervious to mortal arms.
-假面之下藏信念，凡兵利器不可侵。
+Meet me where the magpies bridge the sky, just once a year yet forever.
+鹊桥相会，一年一度，却是一生一世。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d655367660540d6d49553705a2f1bfa6.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b861fc3d1aa10a489a5e2feae400b585.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
