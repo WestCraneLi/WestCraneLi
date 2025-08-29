@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Meet me where the magpies bridge the sky, just once a year yet forever.
-鹊桥相会，一年一度，却是一生一世。
+The only limit to our realization of tomorrow is our doubts today. — The West Wing
+对明天实现的唯一限制是我们今天的怀疑。 —《白宫风云》
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b861fc3d1aa10a489a5e2feae400b585.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5c1816d12c3765498623804aab20c844.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
