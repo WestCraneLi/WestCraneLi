@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Turn your wounds into wisdom. — Oprah Winfrey
-把伤口变成智慧。 — 奥普拉·温弗瑞
+Books are passports you never need to renew.
+书籍是永不过期的护照。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8f15b01ec9fbaa2f5546de9823edc98a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/277dae6b32493f324e75c7f7708331c0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
