@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Books are passports you never need to renew.
-书籍是永不过期的护照。
+Hope is the quiet voice that says, try one more time.
+希望是那个轻声说“再试一次”的声音。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/277dae6b32493f324e75c7f7708331c0.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e8df25de19576bedb7db3e0501a96a50.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
