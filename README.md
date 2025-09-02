@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Hope is the quiet voice that says, try one more time.
-希望是那个轻声说“再试一次”的声音。
+On the parade ground, every step echoes a nation's heartbeat.
+阅兵场上，每一步都回响着国家的心跳。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e8df25de19576bedb7db3e0501a96a50.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/41124fee1622b64d2226fa7efeb19633.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
