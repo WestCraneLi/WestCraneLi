@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-On the parade ground, every step echoes a nation's heartbeat.
-阅兵场上，每一步都回响着国家的心跳。
+Compliment yourself daily.
+每天夸自己一句。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/41124fee1622b64d2226fa7efeb19633.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f5cf4fe45d787500ee4360b364735cb3.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
