@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is a beautiful struggle.
-生活是一场美丽的挣扎。
+Success is not how high you have climbed, but how you make a positive difference.
+成功不是你攀登的高度，而是你做出的积极差异。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8af8f8b0de1e802993865969fda071a2.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6a705989adf7ad6f0ad64194e3548db0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
