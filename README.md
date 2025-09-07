@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Success is not how high you have climbed, but how you make a positive difference.
-成功不是你攀登的高度，而是你做出的积极差异。
+Patience is quiet strength.
+耐心是无声的力量。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6a705989adf7ad6f0ad64194e3548db0.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f7c5b149fe946dea102214a56cf30206.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
