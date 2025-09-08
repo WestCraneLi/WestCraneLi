@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Patience is quiet strength.
-耐心是无声的力量。
+In the middle of adversity lies opportunity.
+困难的中心蕴藏着机遇
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f7c5b149fe946dea102214a56cf30206.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/8750e7eb5542114315e4c6f613c9dfcd.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
