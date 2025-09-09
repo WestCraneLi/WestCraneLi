@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-In the middle of adversity lies opportunity.
-困难的中心蕴藏着机遇
+A teacher plants seeds of curiosity that bloom forever.
+教师播下的好奇之种，会永远盛开。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/8750e7eb5542114315e4c6f613c9dfcd.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/58a1cfd4e3e066e9f72c3aa378645ebb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
