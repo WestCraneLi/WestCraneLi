@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A teacher plants seeds of curiosity that bloom forever.
-教师播下的好奇之种，会永远盛开。
+Prejudice is the child of ignorance.
+偏见是无知的产物。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/58a1cfd4e3e066e9f72c3aa378645ebb.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ed0d6e4d8b838ef34fd94caf30eb1cde.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
