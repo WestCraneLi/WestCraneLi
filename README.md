@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Prejudice is the child of ignorance.
-偏见是无知的产物。
+Stress is a compass, not a cage.
+压力是罗盘，而非牢笼。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ed0d6e4d8b838ef34fd94caf30eb1cde.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/7a2fa6b3a221c6752ffdf7cfb81ae80a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
