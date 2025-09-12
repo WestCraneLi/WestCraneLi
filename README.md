@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Stress is a compass, not a cage.
-压力是罗盘，而非牢笼。
+I could have been a contender.
+我本可以成为强者。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/7a2fa6b3a221c6752ffdf7cfb81ae80a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1b8ec5dc258035281f3d9ad865d12e70.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
