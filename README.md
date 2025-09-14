@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-What lies behind us and what lies before us are tiny matters.
-我们背后和面前的事情都是小事。
+爱总会赢。  
+Love wins always.  
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b5061faf8621bbeeb35e65e9f48f279c.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/3e960389fc0fa6be355ad6435ed34850.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
