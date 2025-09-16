@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Persist through every storm you face.
-面对任何风暴都要坚持。
+Choose joy every single new day.
+每天重新选择快乐。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/79a520d1de09365a2cfe8e8f6f5f18a8.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c65b4249627be405e8777281ff2a0277.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
