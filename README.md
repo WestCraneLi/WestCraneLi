@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Choose joy every single new day.
-每天重新选择快乐。
+Time answers all questions.  
+时间会回答所有问题。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c65b4249627be405e8777281ff2a0277.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/768cddaba4f678ffe9cd44651b2d9aa0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
