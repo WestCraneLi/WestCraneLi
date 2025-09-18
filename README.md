@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Time answers all questions.  
-时间会回答所有问题。
+Life is what happens when you're busy making other plans.
+生活是在你忙着制定其他计划时发生的。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/768cddaba4f678ffe9cd44651b2d9aa0.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5675393d7ecd353d23b42dff74b480ec.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
