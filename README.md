@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Not all those who wander are lost.
-不是所有徘徊的人都迷失了。
+You must be the change you wish to see in the world.
+你必须成为你希望在世界上看到的改变。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/37d476708f0bf4a1bdfc26593bbf366d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f18ea9efe1e14d7b09cde802ffc3d90b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
