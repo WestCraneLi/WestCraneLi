@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You must be the change you wish to see in the world.
-你必须成为你希望在世界上看到的改变。
+All animals are equal, but some are more equal.
+所有动物生而平等，但有些更平等。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/f18ea9efe1e14d7b09cde802ffc3d90b.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/630726c17d5118460d95d57aa6ae57df.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
