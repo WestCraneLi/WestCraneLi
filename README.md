@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-All animals are equal, but some are more equal.
-所有动物生而平等，但有些更平等。
+Remembering keeps hearts together.  
+思念让心不分离。 
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/630726c17d5118460d95d57aa6ae57df.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e98cb187fe73ee1179baf5c1739f1f3a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
