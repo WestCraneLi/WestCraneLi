@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Remembering keeps hearts together.  
-思念让心不分离。 
+Own your narrative daily.
+日日为自己执笔。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e98cb187fe73ee1179baf5c1739f1f3a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c23c46acca052e9aca0a0c2a6232df1e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
