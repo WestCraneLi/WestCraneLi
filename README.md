@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Own your narrative daily.
-日日为自己执笔。
+True friends reflect your soul.
+真正的朋友映照你的灵魂。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c23c46acca052e9aca0a0c2a6232df1e.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/4efd9205940cee53cbc099347303ab54.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
