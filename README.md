@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-True friends reflect your soul.
-真正的朋友映照你的灵魂。
+Seeds grow in quiet soil.  
+种子在寂静的泥土里生长。  
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4efd9205940cee53cbc099347303ab54.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e99ba414d21f86e67b043e0155874c94.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
