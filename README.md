@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Seeds grow in quiet soil.  
-种子在寂静的泥土里生长。  
+There's no crying in baseball!
+棒球里不许哭泣！
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e99ba414d21f86e67b043e0155874c94.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1144f0597887b495183bd9e15432421e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
