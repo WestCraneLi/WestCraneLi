@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-It's kind of a funny story.
-这有点像个有趣的故事。
+Do small things greatly.  
+把小事做到伟大。  
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/9b3708c25ee361ae0b49eb6fff5f9585.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/dcc08a3beb5e8b03319faee15df02376.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
