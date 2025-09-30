@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Do small things greatly.  
-把小事做到伟大。  
+Red flags wave, hearts unite. 
+红旗飘扬，万众一心。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/dcc08a3beb5e8b03319faee15df02376.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c7e324474b03af2cabdc41e0dae37b0d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
