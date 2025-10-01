@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Red flags wave, hearts unite. 
-红旗飘扬，万众一心。
+Firmly hold mission in mind.
+我们牢记使命。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c7e324474b03af2cabdc41e0dae37b0d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/68bde2cbfe88b07a4a1db0e013378351.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
