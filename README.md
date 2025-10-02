@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Firmly hold mission in mind.
-我们牢记使命。
+A hug is worth a thousand words.
+一个拥抱胜过千言万语。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/68bde2cbfe88b07a4a1db0e013378351.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/bae9567cdfd177bd59510c1a4d1a692a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
