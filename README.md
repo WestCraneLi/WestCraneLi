@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A hug is worth a thousand words.
-一个拥抱胜过千言万语。
+Success starts with self-discipline. 
+成功始于自律。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/bae9567cdfd177bd59510c1a4d1a692a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5cfc7db76881d1ea177d2d0ec7f7f000.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
