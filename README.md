@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The full moon unites hearts across miles.
-满月让千里心相连。
+Love grows when it is shared. 
+爱被分享时才会成长。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/cd0100507045385761964f58f45a011e.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/aaa26100cdc7771f9f7f05c9400a4038.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
