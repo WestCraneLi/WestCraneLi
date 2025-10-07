@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Love grows when it is shared. 
-爱被分享时才会成长。
+Autumn kisses the earth with cold dew. 
+秋以寒露亲吻大地。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/aaa26100cdc7771f9f7f05c9400a4038.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6e6f68a4f0048e159b1e67c858c30699.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
