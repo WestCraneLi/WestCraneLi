@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Perspective changes everything.
-视角改变一切。
+Change begins from within.
+改变始于内在。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1893ad7c95670ff066bdb056739f2a41.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/9b35cd19c8285a9b9ccb4caa9501c6c0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
