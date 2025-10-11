@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Cherish the moments with family, for they are fleeting.
-珍惜与家人在一起的时光，因为它们稍纵即逝。
+Freedom is never given; it is won.
+自由从未被赋予；它是赢得的。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e906b94c5a617c89574342731f600e83.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/e4a837d503b37fb4c224469b27f2337c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
