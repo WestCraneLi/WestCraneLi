@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Freedom is never given; it is won.
-自由从未被赋予；它是赢得的。
+Small habits create big changes. 
+小习惯带来大改变。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/e4a837d503b37fb4c224469b27f2337c.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/2fa45188bc54600952c85cac9400ac9f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
