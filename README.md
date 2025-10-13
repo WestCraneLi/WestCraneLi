@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Small habits create big changes. 
-小习惯带来大改变。
+Learning never exhausts the mind.
+学习永远不会使头脑疲惫。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/2fa45188bc54600952c85cac9400ac9f.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b434ecaf0b339e04bc6bc3b869fa7b7e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
