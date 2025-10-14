@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Learning never exhausts the mind.
-学习永远不会使头脑疲惫。
+Think before you share. 
+分享前先思考。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b434ecaf0b339e04bc6bc3b869fa7b7e.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/2b432f2e3b6cf839010a869376a41d75.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
