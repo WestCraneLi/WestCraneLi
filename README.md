@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Small steps still move you forward. 
-小步也是向前。
+Make today count for tomorrow. 
+让今天为明天增值。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5d2626ab5d8742d5d414172d9d3b00c8.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/22bc9c0b7316ca0e6d787c0ae8f619b1.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
