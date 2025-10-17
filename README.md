@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Make today count for tomorrow. 
-让今天为明天增值。
+A person who never made a mistake never tried anything new.
+从未犯错的人从未尝试过任何新事物。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/22bc9c0b7316ca0e6d787c0ae8f619b1.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/22015368efcbea06f3eee7e1a8c25e5c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
