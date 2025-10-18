@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A person who never made a mistake never tried anything new.
-从未犯错的人从未尝试过任何新事物。
+In every hardship lies opportunity.
+每个困难中都蕴藏着机会。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/22015368efcbea06f3eee7e1a8c25e5c.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/17b1c8f39c76718bf1b381e685877627.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
