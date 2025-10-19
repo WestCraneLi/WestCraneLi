@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-In every hardship lies opportunity.
-每个困难中都蕴藏着机会。
+Biodiversity is Earth's safety net. 
+生物多样性是地球的安全网。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/17b1c8f39c76718bf1b381e685877627.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5ecc6185e18bed0c682854cb61f93cbc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
