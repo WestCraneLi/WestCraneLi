@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Biodiversity is Earth's safety net. 
-生物多样性是地球的安全网。
+A tidy space clears the mind. 
+整洁的空间让头脑清晰。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5ecc6185e18bed0c682854cb61f93cbc.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/a82dfc99345142ae4e85599f5be2dfcd.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
