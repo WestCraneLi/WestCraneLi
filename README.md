@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A tidy space clears the mind. 
-整洁的空间让头脑清晰。
+Our future is built together. 
+未来由我们一起建造。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a82dfc99345142ae4e85599f5be2dfcd.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c935d332811f9e64699c2ceebaab12fc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
