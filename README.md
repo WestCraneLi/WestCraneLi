@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Our future is built together. 
-未来由我们一起建造。
+Frost opens the curtain on winter.
+霜降拉开冬天的序幕
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c935d332811f9e64699c2ceebaab12fc.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/12519d0401c86a5568af0870f01d02cf.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
