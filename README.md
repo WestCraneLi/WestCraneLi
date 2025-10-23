@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Frost opens the curtain on winter.
-霜降拉开冬天的序幕
+Grow through what you go through. 
+穿越困境，得以成长。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/12519d0401c86a5568af0870f01d02cf.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5510d1a560616c5c884f2c30b7580c30.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
