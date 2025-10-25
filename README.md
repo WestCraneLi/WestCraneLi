@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The mind is everything.
-思想决定一切。
+Change your thoughts and you change your world.
+改变你的想法，你就改变了你的世界。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c5bd3d405a8f18567e1f7a453181d6aa.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5224d76c4cc082225234f89712366c8c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
