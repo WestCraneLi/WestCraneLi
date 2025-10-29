@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Climb high, see far, and feel young. 
-登高望远，心也年轻。
+Change begins at the edge of comfort. 
+改变始于舒适边缘。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4f532facc4467bff4cef30db2c65dfba.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/853947fbe2cd588845167dedd33c676d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
