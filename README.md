@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-October ends with magic and candy. 
- 十月以魔法和糖果收尾。
+More dreams are lost to self-doubt than to failure.
+因自我怀疑而失去的梦想比因失败而失去的更多。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/22293677dbe4860d5841ebb34beb4139.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/126dab3374955337b0025ac5eb740199.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
