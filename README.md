@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is short; Live it!
-人生苦短，活出精彩。
+Happiness depends on your mindset.
+幸福取决于你的心态。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4e3f37133b0293471974de53a0c00ec9.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ca3997dfdc1902f281e38a6ef1a1ed4f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
