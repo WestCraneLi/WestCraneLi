@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Happiness depends on your mindset.
-幸福取决于你的心态。
+Pride in your steps to dreams.
+为追梦的每一步而自豪。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ca3997dfdc1902f281e38a6ef1a1ed4f.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/63927b45e266d32689d3a551a2103bae.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
