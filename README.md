@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Pride in your steps to dreams.
-为追梦的每一步而自豪。
+Life's best gifts come from hard work.
+生命最珍贵的馈赠源于辛勤耕耘。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/63927b45e266d32689d3a551a2103bae.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/5216dee41ab3b4bdb2eaa1087cc97719.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
