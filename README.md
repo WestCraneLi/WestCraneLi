@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life's best gifts come from hard work.
-生命最珍贵的馈赠源于辛勤耕耘。
+Trust your choices. Follow your heart to your destiny.
+相信你的选择。追随你的心意走向你的命运。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/5216dee41ab3b4bdb2eaa1087cc97719.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/fe81cfe3a269cd009f9fc5fa7aca388a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
