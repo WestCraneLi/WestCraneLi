@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Trust your choices. Follow your heart to your destiny.
-相信你的选择。追随你的心意走向你的命运。
+Winter warms body, and enriches soul for spring.
+冬日暖身养心，静候春来。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/fe81cfe3a269cd009f9fc5fa7aca388a.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/298293b7027043b4f81cc96cc2a05c13.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
