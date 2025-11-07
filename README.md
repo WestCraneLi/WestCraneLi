@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Winter warms body, and enriches soul for spring.
-冬日暖身养心，静候春来。
+You must do the things you think you cannot do.
+你必须做你认为自己做不到的事情。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/298293b7027043b4f81cc96cc2a05c13.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/f61b77f744ef85e5c31d126f7dfc0a7e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
