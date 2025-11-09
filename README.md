@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The greatest risk is not taking one.
-最大的风险是不冒风险。
+Don't judge by looks.
+别以貌取人。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/42ce4faae6be7e2052ea752b75a92220.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/d6a003b4450b8c800df8a38e9897b59d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
