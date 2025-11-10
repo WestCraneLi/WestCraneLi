@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Don't judge by looks.
-别以貌取人。
+Dreams face barriers, but destiny lies beyond.
+梦想遭遇阻碍，但命运就在前方。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/d6a003b4450b8c800df8a38e9897b59d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/1dc530f1ad5efc24ef34ade09485cf25.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
