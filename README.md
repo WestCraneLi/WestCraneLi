@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Dreams face barriers, but destiny lies beyond.
-梦想遭遇阻碍，但命运就在前方。
+Change or stay. Your choice.
+改变或坚守。由你选择。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/1dc530f1ad5efc24ef34ade09485cf25.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/dd519ed43f5ad70be029843527c8f291.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
