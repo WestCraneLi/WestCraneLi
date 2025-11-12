@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Change or stay. Your choice.
-改变或坚守。由你选择。
+Seek purpose. Don't limit dreams.
+追寻目标。别限制梦想。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/dd519ed43f5ad70be029843527c8f291.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/65fa63adf73edd01d9a613c6dad94ec1.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
