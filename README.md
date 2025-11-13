@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Seek purpose. Don't limit dreams.
-追寻目标。别限制梦想。
+From sadness comes joy, as dead flowers bring blooms.
+悲伤生喜悦，如枯花绽新蕾。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/65fa63adf73edd01d9a613c6dad94ec1.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/bff941bff2af14588e2851186692d28d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
