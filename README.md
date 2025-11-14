@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-From sadness comes joy, as dead flowers bring blooms.
-悲伤生喜悦，如枯花绽新蕾。
+Time is the most valuable thing a man can spend.
+时间是一个人最宝贵的财富。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/bff941bff2af14588e2851186692d28d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6236f7c7285317fcdbfb49af786bd17c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
