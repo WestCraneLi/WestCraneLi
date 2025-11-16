@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Dreams are the touchstones of our character.
-梦想是我们性格的基石。
+Each breath forms a tiny cloud in the cool air.
+在清凉的空气中，每一次呼吸都呵出一小朵云。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/85f7ea3059ff8ae2ac3f7ea8be87ec74.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/654d07d1fd8ffc75dd47b26a02858481.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
