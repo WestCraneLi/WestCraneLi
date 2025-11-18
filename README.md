@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-An extra blanket on the bed feels like a great luxury.
-床上多加一条毯子，感觉就像一种巨大的享受。
+It's the perfect time for a good book by the window.
+这是在窗边读一本好书的完美时节。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a1583bd1f669bb56c32ab85e2b957f17.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/ac7bcd9cdf60676979ad2f3c70abe1b9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
