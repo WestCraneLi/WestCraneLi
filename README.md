@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-It's the perfect time for a good book by the window.
-这是在窗边读一本好书的完美时节。
+Let us be thankful for the simple joys.
+让我们为生活中简单的快乐而感恩。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/ac7bcd9cdf60676979ad2f3c70abe1b9.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/74f8e02fefc10452ee8f716df3704e70.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
