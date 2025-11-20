@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Let us be thankful for the simple joys.
-让我们为生活中简单的快乐而感恩。
+All are unique.
+人人皆独特。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/74f8e02fefc10452ee8f716df3704e70.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/007256c6a8420fdf7f06e12f519387ba.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
