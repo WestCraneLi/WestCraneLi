@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-All are unique.
-人人皆独特。
+No snowflake ever falls in the wrong place.
+没有一片雪花会落在错误的地方。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/007256c6a8420fdf7f06e12f519387ba.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/c3f8addfe84646e26d569be4f25b897e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
