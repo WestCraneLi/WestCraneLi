@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-No snowflake ever falls in the wrong place.
-没有一片雪花会落在错误的地方。
+Don't dream your life, but live your dream.
+不要梦想你的生活，而要实现你的梦想。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/c3f8addfe84646e26d569be4f25b897e.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/2ea438119d0090172a10bf7ae1bf89ec.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
