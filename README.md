@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Don't dream your life, but live your dream.
-不要梦想你的生活，而要实现你的梦想。
+Each day is a new page in the story of autumn.
+每一天都是秋天故事里崭新的一页。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/2ea438119d0090172a10bf7ae1bf89ec.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/a95ba98a530288d5faadefd1552f5dcf.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
