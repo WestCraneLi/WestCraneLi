@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Each day is a new page in the story of autumn.
-每一天都是秋天故事里崭新的一页。
+Let's seek joy in the simple, quiet moments.
+让我们在简单宁静的时刻中寻找快乐。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/a95ba98a530288d5faadefd1552f5dcf.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/6bd37b3256a78f320b94b08b176031a4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
