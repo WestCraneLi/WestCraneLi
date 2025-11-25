@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Let's seek joy in the simple, quiet moments.
-让我们在简单宁静的时刻中寻找快乐。
+Remember to be kind to yourself today.
+记得在今天对自己好一点。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/6bd37b3256a78f320b94b08b176031a4.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/14dadb2f9ac6a4eb3bacd0b069c9bd6c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
