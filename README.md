@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Remember to be kind to yourself today.
-记得在今天对自己好一点。
+The world is quieting down for its winter rest.
+世界正安静下来，准备它的冬日休眠。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/14dadb2f9ac6a4eb3bacd0b069c9bd6c.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/3eb84a81254d004af75d17dbbe5e4dfa.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
