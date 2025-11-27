@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The world is quieting down for its winter rest.
-世界正安静下来，准备它的冬日休眠。
+There is beauty in letting go.
+在放下之中亦有美感。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/3eb84a81254d004af75d17dbbe5e4dfa.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/b50a3a7ef14a08d27eefde165c4ce7f8.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
