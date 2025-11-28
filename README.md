@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-There is beauty in letting go.
-在放下之中亦有美感。
+What you do today can improve all your tomorrows.
+你今天所做的一切，可以改善你所有的明天。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/b50a3a7ef14a08d27eefde165c4ce7f8.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/35ae83ea52087b6bc66a97f519b42bfb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
