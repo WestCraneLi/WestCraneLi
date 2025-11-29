@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-What you do today can improve all your tomorrows.
-你今天所做的一切，可以改善你所有的明天。
+A wise man makes his own decisions.
+智者做自己的决定。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/35ae83ea52087b6bc66a97f519b42bfb.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/69155c10cf71bfdd7d1de45d4c75865e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
