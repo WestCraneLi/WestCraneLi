@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-December is a month to cherish, to give thanks, and to embrace a brighter future.
-十二月，宜珍惜，宜感恩，宜奔赴更美好的未来。
+Today's gentle breeze is perfect for a stroll.
+今日微风，正好散步。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/4b8fadcb69955e93eff27eb90e32cdaa.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/92d4657e6e74fd63a489b9d67392b82d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
