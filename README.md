@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Today's gentle breeze is perfect for a stroll.
-今日微风，正好散步。
+Each step leaves its mark, creating a landscape all its own.
+一步一印，自成风景。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/92d4657e6e74fd63a489b9d67392b82d.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/915d2843e4d2a662cce07aa5fa61a44b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
