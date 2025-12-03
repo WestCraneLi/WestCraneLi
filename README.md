@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Each step leaves its mark, creating a landscape all its own.
-一步一印，自成风景。
+Winter has its light, and dreams dwell within the heart.
+冬日有光，心中有梦。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/915d2843e4d2a662cce07aa5fa61a44b.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/969f4ef3c78da7c9decfabc489ee003e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
