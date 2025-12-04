@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Winter has its light, and dreams dwell within the heart.
-冬日有光，心中有梦。
+Winter always arrives quietly, yet the chill comes suddenly.
+冬天总是悄然来临，而寒意却骤然而至。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/969f4ef3c78da7c9decfabc489ee003e.png alt="img" />
+<img src=https://staticedu-wps.cache.iciba.com/image/94bff3fd3886b1188c897dc974e8a811.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
