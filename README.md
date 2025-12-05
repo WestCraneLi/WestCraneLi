@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Winter always arrives quietly, yet the chill comes suddenly.
-冬天总是悄然来临，而寒意却骤然而至。
+Those who walk in the cold wind carry within them an unquenchable flame.
+在寒风中行走的人，心中自有一团不灭的火。
 </blockquote>
-<img src=https://staticedu-wps.cache.iciba.com/image/94bff3fd3886b1188c897dc974e8a811.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/27d3458efedb851eb7dce316d4e93f9c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
