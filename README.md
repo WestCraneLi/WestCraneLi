@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Those who walk in the cold wind carry within them an unquenchable flame.
-在寒风中行走的人，心中自有一团不灭的火。
+Simmering snow by the hearth, cooking up a slower pace of life.
+围炉煮雪，烹煮一段慢下来的时光。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/27d3458efedb851eb7dce316d4e93f9c.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/2bed11c66299852a0f0717dd64369d6f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
