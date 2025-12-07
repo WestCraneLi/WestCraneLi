@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Simmering snow by the hearth, cooking up a slower pace of life.
-围炉煮雪，烹煮一段慢下来的时光。
+In the silence, grow your own roots.
+在寂静中，长出自己的根。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/2bed11c66299852a0f0717dd64369d6f.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/1772726d5b8dfd64008de4cb68a6f6f4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
