@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-In the silence, grow your own roots.
-在寂静中，长出自己的根。
+Bright windows and clean desks—that is simple joy.
+窗明几净，便是清欢。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/1772726d5b8dfd64008de4cb68a6f6f4.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/64e599a6d88b5578c3deeb85b85ff8c0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
