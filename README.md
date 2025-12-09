@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Bright windows and clean desks—that is simple joy.
-窗明几净，便是清欢。
+You don't need to chase the light—you already shine on your own.
+不必追光，你本就能发光。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/64e599a6d88b5578c3deeb85b85ff8c0.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/cb76ef4d0326f8095a0026b344d96547.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
