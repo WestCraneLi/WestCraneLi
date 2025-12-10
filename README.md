@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You don't need to chase the light—you already shine on your own.
-不必追光，你本就能发光。
+Even if ordinary and clumsy, not giving up is itself a shining point.
+即使平凡笨拙，不放弃本身就是闪光点。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/cb76ef4d0326f8095a0026b344d96547.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/7a17088dfe4c27a8e781fb8e40e5fd26.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
