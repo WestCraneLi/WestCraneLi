@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Even if ordinary and clumsy, not giving up is itself a shining point.
-即使平凡笨拙，不放弃本身就是闪光点。
+Every road offers its own unique scenery, and every person is a singular existence.
+每一条路都是独特的风景，每一个人都是唯一的存在。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/7a17088dfe4c27a8e781fb8e40e5fd26.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/91cdab5a0c1541247440ae7899a0afc5.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
