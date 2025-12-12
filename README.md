@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Every road offers its own unique scenery, and every person is a singular existence.
-每一条路都是独特的风景，每一个人都是唯一的存在。
+Beyond material possessions, what matters most is a person's spirit and perspective.
+物质之外，更重要的是一个人的精神与见解。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/91cdab5a0c1541247440ae7899a0afc5.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/fc7876ebd074900a9ae8a4d507360793.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
