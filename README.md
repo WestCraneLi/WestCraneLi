@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Beyond material possessions, what matters most is a person's spirit and perspective.
-物质之外，更重要的是一个人的精神与见解。
+May every snowfall this winter lay the groundwork for the world's whiteness.
+愿这个冬天的每一场雪，都是为了铺垫世界的洁白。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/fc7876ebd074900a9ae8a4d507360793.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/1840045b7e01443a40d7b3ab7fece3f6.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
