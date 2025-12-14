@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-May every snowfall this winter lay the groundwork for the world's whiteness.
-愿这个冬天的每一场雪，都是为了铺垫世界的洁白。
+In solitude, I encounter the complete me.
+在孤独中，遇见完整的我。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/1840045b7e01443a40d7b3ab7fece3f6.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/ba98974be47e0050b52c9ab88b476157.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
