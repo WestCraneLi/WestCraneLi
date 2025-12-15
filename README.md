@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-In solitude, I encounter the complete me.
-在孤独中，遇见完整的我。
+Love is seeing, and it is space.
+爱是看见，也是空间。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/ba98974be47e0050b52c9ab88b476157.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/ecb3ac0adae8e11d7aadda60a026d682.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
