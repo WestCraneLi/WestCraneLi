@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Love is seeing, and it is space.
-爱是看见，也是空间。
+Growing up is a gentle act of self-rebellion.
+成长，是一场温柔的自我叛变。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/ecb3ac0adae8e11d7aadda60a026d682.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/cd317f703c92ac2ed48ae1a147d20c91.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
