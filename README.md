@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Growing up is a gentle act of self-rebellion.
-成长，是一场温柔的自我叛变。
+The past has been written, the future unfolds.
+过往已落笔，未来正铺陈。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/cd317f703c92ac2ed48ae1a147d20c91.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/5c61e9304f7c070b67ddf4eea890ff30.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
