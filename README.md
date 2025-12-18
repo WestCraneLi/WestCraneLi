@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The past has been written, the future unfolds.
-过往已落笔，未来正铺陈。
+The warm winter sun is more cherished than in any other season.
+冬日的暖阳，比任何季节都更让人珍惜。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/5c61e9304f7c070b67ddf4eea890ff30.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/2b1ae1b032aa6ae8b93744d5abc4508f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
