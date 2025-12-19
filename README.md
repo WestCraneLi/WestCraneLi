@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The warm winter sun is more cherished than in any other season.
-冬日的暖阳，比任何季节都更让人珍惜。
+Listen to the wind rise, watch the snow fall— All things have their time.
+听风起，看雪落，万物自有其时。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/2b1ae1b032aa6ae8b93744d5abc4508f.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/91c6bea4fa90e807186a5c847970d715.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
