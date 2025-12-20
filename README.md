@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Listen to the wind rise, watch the snow fall— All things have their time.
-听风起，看雪落，万物自有其时。
+The nights grow shorter from this day onward, the days grow longer from this day onward.
+夜从此渐短，光从此渐长。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/91c6bea4fa90e807186a5c847970d715.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/e855c7c41da33aae091897a9d0a28562.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
