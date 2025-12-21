@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The nights grow shorter from this day onward, the days grow longer from this day onward.
-夜从此渐短，光从此渐长。
+In the wilderness, forge your own path.
+于荒原中，踏出自己的路。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/e855c7c41da33aae091897a9d0a28562.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/8df59474b5042f6028fef5d5047793c4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
