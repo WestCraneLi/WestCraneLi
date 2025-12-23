@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-In the mundane everyday, there is still a glimmer of light.
-琐碎日常，亦有微光。
+Those who understand will understand; the rest is just scenery.
+懂的人自会懂，其余皆是风景。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/76b589877cb1889375a0fc9fe54d69ed.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/2f83e5d9dcd5dd4d77c3ca73012f73df.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
