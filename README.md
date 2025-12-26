@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The colder it gets, the more you appreciate the weight of warmth.
-越是寒冷，越能体会温暖的重量。
+Life is about your own genuine feelings; don't get caught up in others' opinions.
+生活是自己的真切感受，不必困于他人眼光。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/cde54199ed321c404dcfae9857726221.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/b9e8e2b43c31db26229cc40558e99790.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
