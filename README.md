@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is about your own genuine feelings; don't get caught up in others' opinions.
-生活是自己的真切感受，不必困于他人眼光。
+The best time for new beginnings is now.
+新的开始的最佳时机就是现在。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/b9e8e2b43c31db26229cc40558e99790.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/ec11a40687c22050dd0ab8087865c08b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
