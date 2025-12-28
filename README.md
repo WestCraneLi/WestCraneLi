@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The best time for new beginnings is now.
-新的开始的最佳时机就是现在。
+Savoring life's moments, quietly observing its transformations.
+慢品人间，静观其变。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/ec11a40687c22050dd0ab8087865c08b.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/0f47d2ee28a4dc095e15d3b3f1bd6ee0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
