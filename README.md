@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Yesterday's shadow elevates today's me.
-昨日之影，垫高今日之我。
+Give this year a gentle embrace and say goodbye.
+给这一年一个温柔的拥抱，说声再见。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/05d65b68b31e2c60017298b2164a841a.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/c4bcb08895db1fbd0abeb8af27d2534e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
