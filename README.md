@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Give this year a gentle embrace and say goodbye.
-给这一年一个温柔的拥抱，说声再见。
+Time is gentle, granting you a promising beginning.
+岁月温柔，许你一个可期的开头。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/c4bcb08895db1fbd0abeb8af27d2534e.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/333512fd69539df77cab861c39c86f52.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
