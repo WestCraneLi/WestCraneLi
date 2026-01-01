@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Time is gentle, granting you a promising beginning.
-岁月温柔，许你一个可期的开头。
+Wherever your footsteps lead, light will follow.
+步履所向，自有光亮。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/333512fd69539df77cab861c39c86f52.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/a4f83a12e1627a8af212c9e0cd2090cb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
