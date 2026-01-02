@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Wherever your footsteps lead, light will follow.
-步履所向，自有光亮。
+Snow falls silently, warmth speaks softly. May the world treat you with tenderness.
+雪落无声，温暖有声，愿你被世界温柔以待。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/a4f83a12e1627a8af212c9e0cd2090cb.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/52ba66c394a08b816a6fa22c39bac011.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
