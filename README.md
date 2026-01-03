@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Snow falls silently, warmth speaks softly. May the world treat you with tenderness.
-雪落无声，温暖有声，愿你被世界温柔以待。
+The road ahead stretches far, yet I won't dwell on momentary hesitation.
+前路漫漫，不萦一时彷徨。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/52ba66c394a08b816a6fa22c39bac011.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/79afdae1e34a12ee891e8d5c2fee8170.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
