@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The road ahead stretches far, yet I won't dwell on momentary hesitation.
-前路漫漫，不萦一时彷徨。
+Deep within the chill, warmth stirs within the soil.
+冷至深处，暖意正在土壤里苏醒。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/79afdae1e34a12ee891e8d5c2fee8170.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/068de3b573401dd0e6048c0eae91ae2b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
