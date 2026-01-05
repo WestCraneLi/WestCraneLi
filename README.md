@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Deep within the chill, warmth stirs within the soil.
-冷至深处，暖意正在土壤里苏醒。
+Life is not about choices, but about passion.
+生活的真谛不在于选择，而在于热爱。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/068de3b573401dd0e6048c0eae91ae2b.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/fcbabcf7b2948a9af010970ab2ba2a73.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
