@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is not about choices, but about passion.
-生活的真谛不在于选择，而在于热爱。
+Gentleness is my strength, sharpness is my boundary.
+温柔是我的力量，锋利是我的边界。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/fcbabcf7b2948a9af010970ab2ba2a73.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/0b7dd2ae44e209b0874e821aa3ee391f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
