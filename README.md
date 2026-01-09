@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Expect less, and you'll be pleasantly surprised.
-期待少一分，惊喜多十分。
+When "best" has no boundaries, effort turns into obligation.
+当“最好”永无止境，努力便沦为负累。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/9c663176430f6f31ffb1bb317bfee343.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/d3f73383db7f6597e1ee40aa4e9969ac.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
