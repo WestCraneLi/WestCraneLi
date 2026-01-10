@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-When "best" has no boundaries, effort turns into obligation.
-当“最好”永无止境，努力便沦为负累。
+Morning light crept through the windowpanes.Today brings warm breezes and clear skies.
+晨光漫上窗棂，今日风暖，天色晴和。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/d3f73383db7f6597e1ee40aa4e9969ac.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/7b394a8b5674a0c475a72a060ac11d81.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
