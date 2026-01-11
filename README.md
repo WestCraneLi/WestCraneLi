@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Morning light crept through the windowpanes.Today brings warm breezes and clear skies.
-晨光漫上窗棂，今日风暖，天色晴和。
+Amidst complexity, guard the simple core.
+于复杂中，守护简单的内核。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/7b394a8b5674a0c475a72a060ac11d81.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/5266af99935c055ecaf0ba9fe352b1fd.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
