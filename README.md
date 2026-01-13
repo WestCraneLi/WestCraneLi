@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A day without troubles is a gift from the universe.
-今日无事，便是宇宙的馈赠。
+Happiness is made up of many little “just because”.
+幸福是许多微小的“不为什么”。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/bc54f14a98c7b218ec59c18082926b57.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/eff4f0a62a3534a437eb3b791e4661fd.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
