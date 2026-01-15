@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Pack yesterday into your baggage.
-将昨日，叠进行囊。
+In the material world, build a spiritual high ground.
+在物质的世界里，构建精神的高地。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/2008921c85c01c99f783ee35388a0097.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/4c94268bac11de2e6791770f9065f578.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
