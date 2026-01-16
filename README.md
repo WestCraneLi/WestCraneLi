@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-In the material world, build a spiritual high ground.
-在物质的世界里，构建精神的高地。
+Become the person you want to be, not the person others see you as.
+成为你想成为的人，而非他人眼中的你。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/4c94268bac11de2e6791770f9065f578.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/07770b530e83a215e53d91d997b38628.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
