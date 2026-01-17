@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Become the person you want to be, not the person others see you as.
-成为你想成为的人，而非他人眼中的你。
+Shake hands with every voice, but sign a contract only with your own heart.
+和所有声音握手，但只与自己的心签约。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/07770b530e83a215e53d91d997b38628.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/cd262f2bf2d6d5a15468234cd24f52e4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
