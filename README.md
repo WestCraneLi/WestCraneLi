@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Shake hands with every voice, but sign a contract only with your own heart.
-和所有声音握手，但只与自己的心签约。
+Build an undisturbed city within.
+于内里筑一座无扰的城。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/cd262f2bf2d6d5a15468234cd24f52e4.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/f413e7919b07e5e5ec0d9a971e993c1d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
