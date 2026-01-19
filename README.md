@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Build an undisturbed city within.
-于内里筑一座无扰的城。
+Winter pours out its last drops, clearing the stage for spring's entrance.
+冬意倾尽所有，为春的登场清场。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/f413e7919b07e5e5ec0d9a971e993c1d.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/f1525d4d536656f318d9451e73939e0b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
