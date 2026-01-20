@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Winter pours out its last drops, clearing the stage for spring's entrance.
-冬意倾尽所有，为春的登场清场。
+Sincerity has its measure. Giving has its limit.
+真诚有尺，付出有度。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/f1525d4d536656f318d9451e73939e0b.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/5c0a7cd1716fe07685383a5c24e88afe.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
