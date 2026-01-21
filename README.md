@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Sincerity has its measure. Giving has its limit.
-真诚有尺，付出有度。
+For a new chapter, pour passion into its foundation once more.
+为新的篇章，再度倾注热爱的底色。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/5c0a7cd1716fe07685383a5c24e88afe.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/3971918f2e3fede1135ac2e95350a84e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
