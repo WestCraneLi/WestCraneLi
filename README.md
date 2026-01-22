@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-For a new chapter, pour passion into its foundation once more.
-为新的篇章，再度倾注热爱的底色。
+Winter sunshine is a limited edition—remember to get outside and soak it up.
+冬日的阳光是限量版，记得多出门晒晒。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/3971918f2e3fede1135ac2e95350a84e.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/439b7ca86728cdb302b2d2e8a71a3abf.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
