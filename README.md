@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Winter sunshine is a limited edition—remember to get outside and soak it up.
-冬日的阳光是限量版，记得多出门晒晒。
+Hope lights the way, gratitude steadies the soul.
+希望是前行的光，感恩是心中的锚。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/439b7ca86728cdb302b2d2e8a71a3abf.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/41433f330006af78e2cbaa9fd96bede9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
