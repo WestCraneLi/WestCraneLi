@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Hope lights the way, gratitude steadies the soul.
-希望是前行的光，感恩是心中的锚。
+True freedom is choosing the weight of your soul.
+真正的自由，是为灵魂选择它的重量。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/41433f330006af78e2cbaa9fd96bede9.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/194631760e235170cf9f74b4646a925f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
