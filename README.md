@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-True freedom is choosing the weight of your soul.
-真正的自由，是为灵魂选择它的重量。
+Settling oneself is the only thing that matters.
+安顿好自己，是唯一的要事。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/194631760e235170cf9f74b4646a925f.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/fb749d9ed6886a59c065ef5afcec22a6.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
