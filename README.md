@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Settling oneself is the only thing that matters.
-安顿好自己，是唯一的要事。
+Delve deeper, and the answers will reveal themselves.
+向深处探寻，答案自现。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/fb749d9ed6886a59c065ef5afcec22a6.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/0aaaffd85f06c930a2129c10bcff88a7.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
