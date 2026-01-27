@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Delve deeper, and the answers will reveal themselves.
-向深处探寻，答案自现。
+Clear water and bright sand, a pure heart and clear affairs.
+水净沙明，心清事晰。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/0aaaffd85f06c930a2129c10bcff88a7.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/b009538e40d63611c43551ba3261f87b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
