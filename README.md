@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Clear water and bright sand, a pure heart and clear affairs.
-水净沙明，心清事晰。
+Show seven parts to others, keep three parts to yourself.
+七分示人，三分藏己。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/b009538e40d63611c43551ba3261f87b.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/7cd31c3ab2153b1574e82462639eb9e9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
