@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Show seven parts to others, keep three parts to yourself.
-七分示人，三分藏己。
+Tuck today's troubles into your pillow, and tomorrow will bring fresh steps.
+把今天的烦恼塞进枕头，明天自会有新的脚步。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/7cd31c3ab2153b1574e82462639eb9e9.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/edf6105ea31881f934d8699085a74f87.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
