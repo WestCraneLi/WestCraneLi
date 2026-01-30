@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Tuck today's troubles into your pillow, and tomorrow will bring fresh steps.
-把今天的烦恼塞进枕头，明天自会有新的脚步。
+Thank yourself for your hard work, and forgive your imperfect past.
+感谢努力的自己，也原谅不完美的过往。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/edf6105ea31881f934d8699085a74f87.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/b4723565c10ea515e30e6554061f05f4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
