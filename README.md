@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Thank yourself for your hard work, and forgive your imperfect past.
-感谢努力的自己，也原谅不完美的过往。
+The year's second chapter opens with a quiet, steady breath.
+一年的第二章，以安静而平稳的呼吸开启。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/b4723565c10ea515e30e6554061f05f4.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/e725124d4d498ee6a582965168e709c0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
