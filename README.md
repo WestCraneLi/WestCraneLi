@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The year's second chapter opens with a quiet, steady breath.
-一年的第二章，以安静而平稳的呼吸开启。
+The cold wind gently pushes forward with determined strides.
+寒风轻推着前进的坚定步伐。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/e725124d4d498ee6a582965168e709c0.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/bf6b8633036e49d2c34e0fa3b15f5e0d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
