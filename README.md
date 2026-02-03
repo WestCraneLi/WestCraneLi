@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The cold wind gently pushes forward with determined strides.
-寒风轻推着前进的坚定步伐。
+Spring tiptoes in, melting the edge of the ice.
+春天踮脚而来，融化了冰的边缘。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/bf6b8633036e49d2c34e0fa3b15f5e0d.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/3f4ae6e20b0e2cdaafd044753f2200d3.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
