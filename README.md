@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Spring tiptoes in, melting the edge of the ice.
-春天踮脚而来，融化了冰的边缘。
+Footprints imprint the snow, leaving paths fleeting yet deep.
+足迹印雪，留下短暂却深的路。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/3f4ae6e20b0e2cdaafd044753f2200d3.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/aeeae32f9935082131c37b247a6b9b3a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
