@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Footprints imprint the snow, leaving paths fleeting yet deep.
-足迹印雪，留下短暂却深的路。
+Warmth slowly awakens from a cup of hot drink.
+暖意从一杯热饮中慢慢苏醒。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/aeeae32f9935082131c37b247a6b9b3a.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/fd3b51aef262c3aa6534afdc63bddacd.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
