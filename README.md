@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The quiet wisdom of winter flows between the pages.
-书页间流淌着冬日安静的智慧。
+Snow makes the world quiet and new.
+雪让世间归于静谧与崭新。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/bf5cf680c8c17c05c32e7bf4f4953c11.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/d274caaced32d78885bf96a67193870d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
