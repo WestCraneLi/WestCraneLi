@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Snow makes the world quiet and new.
-雪让世间归于静谧与崭新。
+The stars whisper as dreams take root in the night.
+星空低语，梦想在夜色里扎根。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/d274caaced32d78885bf96a67193870d.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/5b714b13ef4e97c1e3fd83df57f07cdc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
