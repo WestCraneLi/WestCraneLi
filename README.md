@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The stars whisper as dreams take root in the night.
-星空低语，梦想在夜色里扎根。
+Each ray of morning light bestows itself upon the blank canvas.
+每一缕晨曦都赠予空白的画布。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/5b714b13ef4e97c1e3fd83df57f07cdc.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/d8a34c227ba74cef0e1e34857a6488ee.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
