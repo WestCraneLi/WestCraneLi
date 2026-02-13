@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Distant mountains cloak themselves in snow, awaiting spring's letter.
-远山裹着雪袍，静候一封春的来信。
+Learn one new thing today.
+今天学习一件新事物。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/bce2e2caef9f141ace7e5b5db26c6e74.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/3e5ce595a7e0420f1bb5429875a709ef.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
