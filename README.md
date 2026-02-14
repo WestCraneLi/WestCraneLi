@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Learn one new thing today.
-今天学习一件新事物。
+In stillness, reflection and hope quietly intertwine.
+静谧中，反思与希望悄然交织。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/3e5ce595a7e0420f1bb5429875a709ef.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/6dac8caf2f30be5c355c213b8a8df071.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
