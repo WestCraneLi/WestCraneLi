@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-In stillness, reflection and hope quietly intertwine.
-静谧中，反思与希望悄然交织。
+Kitchen steam blurs the window, painting warmth on the cold glass.
+厨房的蒸汽晕染了窗，在寒冷的玻璃上画下温暖。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/6dac8caf2f30be5c355c213b8a8df071.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/b2e512429af583fa452ae29a55aecdfa.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
