@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Kitchen steam blurs the window, painting warmth on the cold glass.
-厨房的蒸汽晕染了窗，在寒冷的玻璃上画下温暖。
+A new year starts fresh. Fill it with hope.
+新年伊始，万象更新，愿你满怀希望。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/b2e512429af583fa452ae29a55aecdfa.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/19b329da26d579cbb948aa4c7d5f8c69.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
