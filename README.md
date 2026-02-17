@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A new year starts fresh. Fill it with hope.
-新年伊始，万象更新，愿你满怀希望。
+Listen—the roof sings a different, gentler song.
+听——屋顶在唱一首不同的、更温柔的歌。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/19b329da26d579cbb948aa4c7d5f8c69.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/0ef95309fb90f0e12da4cf2d9ecc366d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
