@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Listen—the roof sings a different, gentler song.
-听——屋顶在唱一首不同的、更温柔的歌。
+Sunshine on snow is nature's art.
+阳光照在雪上，是自然的艺术。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/0ef95309fb90f0e12da4cf2d9ecc366d.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/977813d14ae5613de6bebea2d7746f09.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
