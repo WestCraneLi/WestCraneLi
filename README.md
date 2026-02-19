@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Sunshine on snow is nature's art.
-阳光照在雪上，是自然的艺术。
+Snowflakes dance, the sky composing silent verses.
+雪花翩跹，天空写下无声诗行。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/977813d14ae5613de6bebea2d7746f09.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/ed274ee8a4d691aac9316b1da97d88c8.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
