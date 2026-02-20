@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Snowflakes dance, the sky composing silent verses.
-雪花翩跹，天空写下无声诗行。
+A kind word can melt a cold day.
+一句善言足以融化寒冬。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/ed274ee8a4d691aac9316b1da97d88c8.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/c48dd39f8e9881782bf512206d45179b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
