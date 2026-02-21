@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A kind word can melt a cold day.
-一句善言足以融化寒冬。
+Even a short path can be golden.
+即便是短暂的旅程，亦可熠熠生辉。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/c48dd39f8e9881782bf512206d45179b.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/c4aa7367f4006ee8655f731ba62e595f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
