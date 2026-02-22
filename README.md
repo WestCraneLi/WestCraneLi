@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Even a short path can be golden.
-即便是短暂的旅程，亦可熠熠生辉。
+Shine your brightest on the coldest days.
+在最寒冷的日子里，绽放你最耀眼的光芒。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/c4aa7367f4006ee8655f731ba62e595f.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/aea0f400525f91793cf9033c990765a3.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
