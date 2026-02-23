@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Shine your brightest on the coldest days.
-在最寒冷的日子里，绽放你最耀眼的光芒。
+Like a seed under snow, wait with hope.
+如同积雪下的种子，怀着希望静候。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/aea0f400525f91793cf9033c990765a3.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/395f60ae19c08a027dc186b2933a28b2.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
