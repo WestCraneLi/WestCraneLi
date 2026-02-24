@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Like a seed under snow, wait with hope.
-如同积雪下的种子，怀着希望静候。
+Ice will melt and make way for flow.
+冰会融化，为水流让路。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/395f60ae19c08a027dc186b2933a28b2.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/40a4657b9eeaef2516fedcf2f0831c52.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
