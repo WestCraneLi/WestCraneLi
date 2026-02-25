@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Ice will melt and make way for flow.
-冰会融化，为水流让路。
+What we achieve inwardly will change outer reality.
+我们内在的成就会改变外在的现实。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/40a4657b9eeaef2516fedcf2f0831c52.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/3e67bcd334707474f32219068c2b5ab2.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
