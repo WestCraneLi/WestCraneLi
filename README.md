@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Look up and see the clear winter sky.
-抬头望去，只见冬日晴空万里。
+Open the door and let the new light in.
+打开门，让新的光芒进来。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/1af4a8c171296b09d7f3fa5933d3be9a.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/9349f4015b180f3e876bd054aa2197cb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
