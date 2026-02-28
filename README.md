@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Open the door and let the new light in.
-打开门，让新的光芒进来。
+Strong roots prepare for spring blooms.
+深植根基，为春日绽放蓄力。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/9349f4015b180f3e876bd054aa2197cb.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/f9dfa2e590ea49387bfc0b074ae53994.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
