@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Strong roots prepare for spring blooms.
-深植根基，为春日绽放蓄力。
+Bees hum the map to hidden sweetness.
+蜜蜂哼唱着通往隐秘甜美的地图。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/f9dfa2e590ea49387bfc0b074ae53994.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/4e722c5013fe2dfd8e2852c7a14fdfc4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
