@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Bees hum the map to hidden sweetness.
-蜜蜂哼唱着通往隐秘甜美的地图。
+Light a wish and let it rise.
+点亮一个愿望，让它升起。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/4e722c5013fe2dfd8e2852c7a14fdfc4.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/5fbe6cd8156fefd06a05b82ce9f19a32.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
