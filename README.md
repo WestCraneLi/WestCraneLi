@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Light a wish and let it rise.
-点亮一个愿望，让它升起。
+Puddles mirror a bluer, higher sky.
+水洼倒映出更蓝、更高的天空。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/5fbe6cd8156fefd06a05b82ce9f19a32.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/e257f83ade66c60725c682f0d6b6d870.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
