@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Puddles mirror a bluer, higher sky.
-水洼倒映出更蓝、更高的天空。
+Spring's energy begins to hum.
+春天的能量开始嗡鸣。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/e257f83ade66c60725c682f0d6b6d870.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/fcc93de2bce43c6d64274e4841d1ae9b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
