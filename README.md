@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Spring's energy begins to hum.
-春天的能量开始嗡鸣。
+Buds press against brown branches, eager to speak.
+嫩芽顶破褐色的枝桠，急着开口说话。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/fcc93de2bce43c6d64274e4841d1ae9b.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/ae4a42c93dfe57284a0de131d1d17cc3.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
