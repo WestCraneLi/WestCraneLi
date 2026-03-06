@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Buds press against brown branches, eager to speak.
-嫩芽顶破褐色的枝桠，急着开口说话。
+The hearth crackles, keeping the late-night thinker company.
+炉火噼啪，陪伴深夜里独思者。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/ae4a42c93dfe57284a0de131d1d17cc3.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/d964eff5a013837773e49a5cf4074651.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
