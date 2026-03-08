@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Honor her journey, celebrate her light.
-致敬她的旅程，庆祝她的光芒。
+Green appears overnight, shy but sure.
+绿色在一夜之间浮现，羞涩而坚定。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/f6a4131022e508f19282ca5c7b89d8b3.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/eacf4028d87d7959a9d9f457e1dda38f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
