@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Green appears overnight, shy but sure.
-绿色在一夜之间浮现，羞涩而坚定。
+The old tree wears a cloak of new moss.
+老树披上了一层新苔藓的外衣。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/eacf4028d87d7959a9d9f457e1dda38f.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/f440851c455028841ffc8d7a377a0370.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
