@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The old tree wears a cloak of new moss.
-老树披上了一层新苔藓的外衣。
+New leaves whisper where the spade once dug.
+铁锹翻过的地方，新叶正低语。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/f440851c455028841ffc8d7a377a0370.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/cdd74f0bb34bbf0ff60b2384d3c2ffeb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
