@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-New leaves whisper where the spade once dug.
-铁锹翻过的地方，新叶正低语。
+The starry sky hangs lower than usual, leaning toward the sleepless.
+星空比往常更低，垂向未眠人的肩头。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/cdd74f0bb34bbf0ff60b2384d3c2ffeb.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/cd46a9fc4f6fef33fa1d422a6a5d523e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
