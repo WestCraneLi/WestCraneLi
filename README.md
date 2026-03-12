@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The starry sky hangs lower than usual, leaning toward the sleepless.
-星空比往常更低，垂向未眠人的肩头。
+Listen to your innermost self.
+倾听内心深处。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/cd46a9fc4f6fef33fa1d422a6a5d523e.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/3a4ed467a054c3885d39db0a3a83845f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
