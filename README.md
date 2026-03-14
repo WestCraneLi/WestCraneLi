@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The heart, like a still pond, reflects all things without disturbance.
-心如静水，无波不映。
+Your own light shows the way forward.
+你自身的光芒照亮前路。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/5648a2ecba15df6393478ff247b5e125.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/f50f087874b54170b44aa65eb43c1cd5.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
