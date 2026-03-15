@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Your own light shows the way forward.
-你自身的光芒照亮前路。
+Grass grows an inch while no one watches.
+无人注意时，草长高了一寸。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/f50f087874b54170b44aa65eb43c1cd5.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/da4b1ffbb3a95d212dac068ece082f02.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
