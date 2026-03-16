@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Grass grows an inch while no one watches.
-无人注意时，草长高了一寸。
+Warmth shared comes back to you.
+温暖的分享终将回馈于你。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/da4b1ffbb3a95d212dac068ece082f02.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/e693a655c44cf2fd7ff69f9cb43b0a05.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
