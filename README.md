@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Warmth shared comes back to you.
-温暖的分享终将回馈于你。
+Life stirs in every crack and corner.
+生命在每道缝隙和角落醒来。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/e693a655c44cf2fd7ff69f9cb43b0a05.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/5043c4364d464a10f55ffbda188849f7.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
