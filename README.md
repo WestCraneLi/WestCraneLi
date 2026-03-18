@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life stirs in every crack and corner.
-生命在每道缝隙和角落醒来。
+Dandelions write suns on the lawn.
+蒲公英在草坪上写下一个个小太阳。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/5043c4364d464a10f55ffbda188849f7.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/2f56c95a6cf4753e781e48a3c421aca9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
