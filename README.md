@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Dandelions write suns on the lawn.
-蒲公英在草坪上写下一个个小太阳。
+Day and night shake hands in perfect balance.
+白昼与黑夜握手，达成完美的平衡。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/2f56c95a6cf4753e781e48a3c421aca9.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/4c1568581e1ee65d646e09f4f1a2367b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
