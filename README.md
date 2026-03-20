@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Day and night shake hands in perfect balance.
-白昼与黑夜握手，达成完美的平衡。
+Plan your path with care and a smile.
+带着细心和微笑规划你的路途。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/4c1568581e1ee65d646e09f4f1a2367b.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/b3269523048aba29f7fb92d4b74db6e9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
