@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Plan your path with care and a smile.
-带着细心和微笑规划你的路途。
+Cherry blossoms blush before they bloom.
+樱花在盛开前先红了脸颊。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/b3269523048aba29f7fb92d4b74db6e9.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/ed298ce0b39d835223b9a85a5d57f737.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
