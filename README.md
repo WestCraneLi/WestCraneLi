@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Cherry blossoms blush before they bloom.
-樱花在盛开前先红了脸颊。
+Endings make room for new starts.
+结束为新开始腾出空间。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/ed298ce0b39d835223b9a85a5d57f737.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/9ab87cb07adfe8ca56de9841ab68c333.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
