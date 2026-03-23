@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Endings make room for new starts.
-结束为新开始腾出空间。
+Past lessons are gifts for tomorrow.
+过去的经验是给明天的礼物。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/9ab87cb07adfe8ca56de9841ab68c333.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/19ee2d752a477fdb767abc8cf2ec229e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
