@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Past lessons are gifts for tomorrow.
-过去的经验是给明天的礼物。
+Each day adds strength to your story.
+每一天都为你的故事增添力量。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/19ee2d752a477fdb767abc8cf2ec229e.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/9e3d3c1f10bdcd6184f7849ce50fdde8.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
