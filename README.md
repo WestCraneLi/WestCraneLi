@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Each day adds strength to your story.
-每一天都为你的故事增添力量。
+You can draw a new picture each day.
+你每天都可以绘制一幅新画面。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/9e3d3c1f10bdcd6184f7849ce50fdde8.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/ea7b54053570ca473c369420305837a5.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
