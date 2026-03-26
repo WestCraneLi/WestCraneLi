@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You can draw a new picture each day.
-你每天都可以绘制一幅新画面。
+If the future does not come to me, I will walk toward the future.
+未来不来，我便向未来走去。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/ea7b54053570ca473c369420305837a5.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/38672e9889e72beea3a398b5f124912e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
