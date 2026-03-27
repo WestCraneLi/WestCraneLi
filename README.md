@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-If the future does not come to me, I will walk toward the future.
-未来不来，我便向未来走去。
+White petals fall like snow, but softer.
+白色的花瓣飘落如雪，却更温柔。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/38672e9889e72beea3a398b5f124912e.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/aab26f713801c0dbf49f4871a1e446eb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
