@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-White petals fall like snow, but softer.
-白色的花瓣飘落如雪，却更温柔。
+Warm rain writes poems on the window.
+温润的雨在窗上写诗。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/aab26f713801c0dbf49f4871a1e446eb.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/6ccd3e1a27590c03368ed8f2cb1cbc27.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
