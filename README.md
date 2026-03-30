@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Rain stitches the earth with silver thread.
-雨用银线把大地细细缝起。
+March ends with a promise in its pocket.
+三月将尽，口袋里装着一个承诺。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/dd02912f39844aecf6417a577069b71f.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/eb43e9b47f994e89347187ed343b24b9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
