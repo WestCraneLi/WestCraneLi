@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-March ends with a promise in its pocket.
-三月将尽，口袋里装着一个承诺。
+Dawn breaks not with a shout, but with a quiet glow.
+黎明不以喧嚣降临，而以静默的光绽放。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/eb43e9b47f994e89347187ed343b24b9.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/292007fa979329677d7eca6483af00ca.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
