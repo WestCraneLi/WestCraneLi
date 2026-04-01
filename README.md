@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Dawn breaks not with a shout, but with a quiet glow.
-黎明不以喧嚣降临，而以静默的光绽放。
+Roots grow deep in the dark, so the tree can trust the light.
+根在黑暗中深扎，树才能信任光明。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/292007fa979329677d7eca6483af00ca.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/de0e2b6b62b7cc42b6077e2126b1c049.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
