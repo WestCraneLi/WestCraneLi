@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Roots grow deep in the dark, so the tree can trust the light.
-根在黑暗中深扎，树才能信任光明。
+The river does not hurry; it simply knows the sea.
+河流不急于赶路，它只是知道海的方向。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/de0e2b6b62b7cc42b6077e2126b1c049.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/07ac3d41e9f11b33b697523c6d8506a9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
