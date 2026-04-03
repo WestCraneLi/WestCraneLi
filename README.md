@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The river does not hurry; it simply knows the sea.
-河流不急于赶路，它只是知道海的方向。
+Each fallen petal makes room for the fruit to come.
+每一片落花，都为果实让出未来的位置。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/07ac3d41e9f11b33b697523c6d8506a9.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/6838ffcacd2b9c9e4cc3bf1f3e2c013f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
