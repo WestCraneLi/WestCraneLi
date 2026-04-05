@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Rain cleanses yesterday's tears; new green appears.
-雨洗昨日泪，新绿悄然生。
+The path is made by walking, not by waiting for signs.
+路是走出来的而不是等待征兆。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/6ddea0d5bbf44f3eba1b6c6a8d1a621b.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/aa742f825befbbbea16f4a6db6e3e9be.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
