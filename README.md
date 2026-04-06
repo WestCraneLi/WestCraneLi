@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The path is made by walking, not by waiting for signs.
-路是走出来的而不是等待征兆。
+The seed believes in spring while winter still rages.
+当冬天还在肆虐，种子已经相信春天。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/aa742f825befbbbea16f4a6db6e3e9be.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/200dd34625abe212f1738745c3f79fad.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
