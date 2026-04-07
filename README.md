@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The seed believes in spring while winter still rages.
-当冬天还在肆虐，种子已经相信春天。
+Waves do not fear the shore; they embrace their ending as a new beginning.
+海浪不畏惧海岸，它把终结拥作新的开端。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/200dd34625abe212f1738745c3f79fad.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/95e6691becd4ec2e3aa1b22db9ed6414.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
