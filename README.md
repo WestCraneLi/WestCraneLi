@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Waves do not fear the shore; they embrace their ending as a new beginning.
-海浪不畏惧海岸，它把终结拥作新的开端。
+The mountain never moves, yet it teaches the clouds to dance.
+山峦岿然不动，却教会了云朵如何舞蹈。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/95e6691becd4ec2e3aa1b22db9ed6414.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/6b0bef952a46c4165e415089ee543a09.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
