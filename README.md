@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The mountain never moves, yet it teaches the clouds to dance.
-山峦岿然不动，却教会了云朵如何舞蹈。
+Your heartbeat is the drum of a journey only you can walk.
+你的心跳，是那场独属于你的征程的战鼓。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/6b0bef952a46c4165e415089ee543a09.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/cc84c56b7e37f721b91f9f20062d91bf.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
