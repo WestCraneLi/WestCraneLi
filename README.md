@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Your heartbeat is the drum of a journey only you can walk.
-你的心跳，是那场独属于你的征程的战鼓。
+Forward ever, backward never.
+永远向前，绝不后退。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/cc84c56b7e37f721b91f9f20062d91bf.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/a304c21ea8a1f13bc02e230185f107ef.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
