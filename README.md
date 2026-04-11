@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Forward ever, backward never.
-永远向前，绝不后退。
+Life is short; smile while you still have teeth.
+人生苦短，趁牙齿未落微笑。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/a304c21ea8a1f13bc02e230185f107ef.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/5ff3699358c880838b9835022ebaaec0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
