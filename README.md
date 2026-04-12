@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is short; smile while you still have teeth.
-人生苦短，趁牙齿未落微笑。
+Your potential is a universe; don't settle for being a single star.
+你的潜力是一个宇宙，别满足于做一颗孤星。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/5ff3699358c880838b9835022ebaaec0.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/17e5a937a2daebb486a2243003ab445e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
