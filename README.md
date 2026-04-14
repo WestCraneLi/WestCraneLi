@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Every scar on the earth becomes a valley or a river.
-大地上的每道伤痕，最终都成了山谷或河流。
+Hope is the feather that balances the stone of today.
+希望是那根羽毛，平衡着今日的顽石。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/48826d8958693517cbf113c6aa1ee6ec.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/c0ccd572fce797d9c288990d7e38ba94.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
