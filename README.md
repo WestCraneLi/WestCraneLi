@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Hope is the feather that balances the stone of today.
-希望是那根羽毛，平衡着今日的顽石。
+Your thoughts are gardeners; tend only to the flowers.
+你的思绪是园丁，只去照料那些花朵吧。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/c0ccd572fce797d9c288990d7e38ba94.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/590fbc6b2f6c1606d248b4ce9b7141ab.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
