@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Raindrops never compete; they all reach the ground together.
-雨滴从不竞争，它们终将一起抵达大地。
+Within you is a stillness vast enough to hold every storm.
+你的内心深处，有一片足以容纳所有风暴的宁静。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/206b58e0bf4d6aefc1dac7336c3dfffb.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/2ee657e6ca60d7110d55c79184136b65.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
