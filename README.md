@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Within you is a stillness vast enough to hold every storm.
-你的内心深处，有一片足以容纳所有风暴的宁静。
+Bamboo grows skyward by bending with the wind.
+竹子向天生长，靠的是随风俯身。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/2ee657e6ca60d7110d55c79184136b65.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/7304cce816f61b7a7d3b6cfaf1fd37f4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
