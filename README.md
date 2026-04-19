@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Bamboo grows skyward by bending with the wind.
-竹子向天生长，靠的是随风俯身。
+Rain awakens the seeds sleeping in your heart.
+谷雨唤醒你心中沉睡的种子。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/7304cce816f61b7a7d3b6cfaf1fd37f4.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/3b93226e7c96facdfb4c81e7d11bb36c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
