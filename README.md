@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Rain awakens the seeds sleeping in your heart.
-谷雨唤醒你心中沉睡的种子。
+The moon doesn't need to be full to light the path.
+月亮不必圆满，也能照亮前路。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/3b93226e7c96facdfb4c81e7d11bb36c.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/c238eee927e09acb329bf752429dd0bc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
