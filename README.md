@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The moon doesn't need to be full to light the path.
-月亮不必圆满，也能照亮前路。
+A kind word is a boomerang that returns with warmth.
+一句善意的话，是带着温暖飞回的回旋镖。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/c238eee927e09acb329bf752429dd0bc.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/db68b216fab85870c07a6fa024f24c05.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
