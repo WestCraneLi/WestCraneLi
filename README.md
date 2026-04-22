@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A kind word is a boomerang that returns with warmth.
-一句善意的话，是带着温暖飞回的回旋镖。
+The butterfly's beauty is born from the caterpillar's patience.
+蝴蝶的美丽，诞生于毛虫的耐心。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/db68b216fab85870c07a6fa024f24c05.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/b435fe06a3d0d0e284d35af80d8645c4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
