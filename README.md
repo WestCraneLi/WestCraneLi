@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The butterfly's beauty is born from the caterpillar's patience.
-蝴蝶的美丽，诞生于毛虫的耐心。
+Every sunset is a promise of a dawn we haven't met.
+每一次日落，都是对我们尚未谋面的黎明的承诺。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/b435fe06a3d0d0e284d35af80d8645c4.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/380842c2a31f10174da2fca4b21afb26.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
