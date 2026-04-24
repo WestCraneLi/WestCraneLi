@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Every sunset is a promise of a dawn we haven't met.
-每一次日落，都是对我们尚未谋面的黎明的承诺。
+Hope and love truly make every challenge a little easier.
+希望与爱让每个挑战变得更容易。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/380842c2a31f10174da2fca4b21afb26.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/cc78beeff2d6d029266cf0df422e5baa.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
