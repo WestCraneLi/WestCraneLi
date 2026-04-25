@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Hope and love truly make every challenge a little easier.
-希望与爱让每个挑战变得更容易。
+You are the painter of skies you have yet to see.
+你是那片你尚未见过的天空的画师。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/cc78beeff2d6d029266cf0df422e5baa.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/cb749cf75952a200b8b610813865b197.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
