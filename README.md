@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Small acts of kindness are the stars that navigate lost ships.
-微小的善行，是为迷航的船只引路的星星。
+Growth is not a straight line, but a spiral reaching higher.
+成长不是直线，而是盘旋上升的螺旋。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/b6b1a60cd1aeb39f949d56750584cdfe.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/b2e1382dcce92b4ea8f5734d625b611b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
