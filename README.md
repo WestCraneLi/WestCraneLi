@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Growth is not a straight line, but a spiral reaching higher.
-成长不是直线，而是盘旋上升的螺旋。
+The most beautiful melodies come from instruments that were carved.
+最美妙的旋律，来自被精心雕琢的乐器。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/b2e1382dcce92b4ea8f5734d625b611b.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/e1f5c0fbafaf2b10ab1d0920157a1c9e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
