@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The most beautiful melodies come from instruments that were carved.
-最美妙的旋律，来自被精心雕琢的乐器。
+Let your mistakes be the compost for your future garden.
+让你的错误，成为未来花园的养料。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/e1f5c0fbafaf2b10ab1d0920157a1c9e.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/c457b0c39ecbb1c6877955ec11f4e27c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
