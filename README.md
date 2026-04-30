@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Let your mistakes be the compost for your future garden.
-让你的错误，成为未来花园的养料。
+All labor that uplifts humanity has dignity and importance.
+所有提升人类的劳动都具有尊严和重要性。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/c457b0c39ecbb1c6877955ec11f4e27c.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/eb24793ac54b951f36636c9e48d86d3f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
