@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-All labor that uplifts humanity has dignity and importance.
-所有提升人类的劳动都具有尊严和重要性。
+Here comes the sun. And I say, it’s all right.
+阳光来了，我说，一切都好。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/eb24793ac54b951f36636c9e48d86d3f.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/71c7e57d2978f5eb7f5875aba2e7e575.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
