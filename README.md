@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Here comes the sun. And I say, it’s all right.
-阳光来了，我说，一切都好。
+When clouds part, the sky reveals its pale blue base.
+云层散开时，天空露出淡蓝的底色。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/71c7e57d2978f5eb7f5875aba2e7e575.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/a03e0958cfd4dd66277fbd9d54f34a11.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
