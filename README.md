@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Youth like morning light holds endless promise.
-青年如晨光，充满无限可能。
+A cool breeze still visits, saying goodbye to spring.
+凉风偶尔到访，与春天告别。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/218d00efb82a82e3e5fece78507d7273.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/1e8e60bee1b0340bf4e634b20973be35.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
