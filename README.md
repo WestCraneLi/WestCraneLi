@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A cool breeze still visits, saying goodbye to spring.
-凉风偶尔到访，与春天告别。
+The smell of wet earth brings peace to the heart.
+雨后泥土的气息让人心安。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/1e8e60bee1b0340bf4e634b20973be35.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/cb0d0ff34130b0c301872b45acea810a.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
