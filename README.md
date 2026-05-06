@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The smell of wet earth brings peace to the heart.
-雨后泥土的气息让人心安。
+Wild flowers on the ridge quietly weave a colorful blanket.
+田埂上的野花，悄悄铺成彩毯。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/cb0d0ff34130b0c301872b45acea810a.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/ae731569c923059b29428ce94e2b18bd.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
