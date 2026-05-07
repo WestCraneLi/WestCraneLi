@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Wild flowers on the ridge quietly weave a colorful blanket.
-田埂上的野花，悄悄铺成彩毯。
+I’ve nothing to do today but smile.
+你今天唯一能做的事就是微笑。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/ae731569c923059b29428ce94e2b18bd.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/5c5c34a4b790cf2b1431a491ab5b8497.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
