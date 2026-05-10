@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A mother's love blows like the May wind, soft and long.
-母亲的爱像五月的风，温柔而绵长。
+The calendar turns, and time quietly flows forward.
+日历翻动，时间静静流淌向前。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/09624536b4638ac06c159bab33bb950e.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/d853d9cec52d23789c25bcc73706f2cb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
