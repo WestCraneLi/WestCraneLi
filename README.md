@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The calendar turns, and time quietly flows forward.
-日历翻动，时间静静流淌向前。
+A soft breeze brings the scent of locust flowers, sweetening the way home.
+微风送来槐花香，甜了归途。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/d853d9cec52d23789c25bcc73706f2cb.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/a87d4cba57b7803b1d97dc4907941241.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
