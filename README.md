@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A soft breeze brings the scent of locust flowers, sweetening the way home.
-微风送来槐花香，甜了归途。
+Rain taps on the window, like a quiet whisper.
+雨水轻轻敲着窗，像在说悄悄话。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/a87d4cba57b7803b1d97dc4907941241.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/e42acaea9e939ff4295f3cd21c6fa196.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
