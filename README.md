@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Rain taps on the window, like a quiet whisper.
-雨水轻轻敲着窗，像在说悄悄话。
+The wheat bows in the wind, making green waves.
+麦田在风中泛起绿色的波浪。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/e42acaea9e939ff4295f3cd21c6fa196.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/29405d61bd777834439676def932c0d9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
