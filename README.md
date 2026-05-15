@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Roses climb the fence, blooming pink dreams one by one.
-蔷薇爬满篱笆，开出一朵朵粉色的梦。
+I’ve found 10,000 ways that won’t work.
+我找到了10,000种行不通的方法。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/7ebb804f07ac10ff3f3c76d519520b75.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/3d34053cfdec1d9a91bf9b957395e0b0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
