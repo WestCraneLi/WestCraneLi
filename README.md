@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I’ve found 10,000 ways that won’t work.
-我找到了10,000种行不通的方法。
+Under the shade, ants work hard carrying summer.
+树荫下，蚂蚁们忙着搬运夏天。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/3d34053cfdec1d9a91bf9b957395e0b0.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/b0544cb4fb99eb4ae743e6187f9582a7.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
