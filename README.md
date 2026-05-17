@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Under the shade, ants work hard carrying summer.
-树荫下，蚂蚁们忙着搬运夏天。
+Cherries turn red, like a shy girl's cheeks.
+樱桃开始泛红，像少女害羞的脸颊。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/b0544cb4fb99eb4ae743e6187f9582a7.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/97f58cf60fdbb6f94d85e3f8ae2c6946.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
