@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Cherries turn red, like a shy girl's cheeks.
-樱桃开始泛红，像少女害羞的脸颊。
+Lazy afternoon sun is good for half a book.
+午后阳光慵懒，适合读半本书。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/97f58cf60fdbb6f94d85e3f8ae2c6946.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/5d4bb3395104fddb1a9ac1e24324e88e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
