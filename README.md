@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Lazy afternoon sun is good for half a book.
-午后阳光慵懒，适合读半本书。
+Light stretches longer, painting walls gold.
+日光拉得更长，把墙壁染成金色。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/5d4bb3395104fddb1a9ac1e24324e88e.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/fa0ba1a3b8cc0bc45195b87a9e7dc82f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
