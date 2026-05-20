@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Light stretches longer, painting walls gold.
-日光拉得更长，把墙壁染成金色。
+Wheat grains grow full; the rain comes more often.
+麦粒渐满，雨水增多。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/fa0ba1a3b8cc0bc45195b87a9e7dc82f.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/46a72b9c542cb98ff15c0c31b68cb889.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
