@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Wheat grains grow full; the rain comes more often.
-麦粒渐满，雨水增多。
+A dragonfly stands on a lotus tip, still like a guard.
+蜻蜓立在荷尖上，一动不动像个哨兵。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/46a72b9c542cb98ff15c0c31b68cb889.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/ac7a4c8d6e93cf21977e86affa7b83b6.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
