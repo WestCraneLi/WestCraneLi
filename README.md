@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Each of us is more than our worst mistake.
-我们每个人都超越了自己最糟的错误。
+After rain, a rainbow bridges the sky and the earth.
+雨后彩虹像一座桥，连接天空和大地。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/66abbe039c86e5e7f149eaa5a292265c.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/fc3d76d7da3e567bae23570b829c9731.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
