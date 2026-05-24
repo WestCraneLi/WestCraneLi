@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-After rain, a rainbow bridges the sky and the earth.
-雨后彩虹像一座桥，连接天空和大地。
+Clouds drift like thoughts, light and slow.
+云如思绪，轻轻缓缓地飘。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/fc3d76d7da3e567bae23570b829c9731.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/9eade884767043638c9e7c6e43b1c7d8.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
