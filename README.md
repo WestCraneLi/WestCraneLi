@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Clouds drift like thoughts, light and slow.
-云如思绪，轻轻缓缓地飘。
+The sound of a cut watermelon is summer's sweetest hello.
+西瓜切开的声音，是夏天最动听的问候。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/9eade884767043638c9e7c6e43b1c7d8.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/695117ec483204ede65654ac5f655c9c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
