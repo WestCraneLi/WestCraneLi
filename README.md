@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The sound of a cut watermelon is summer's sweetest hello.
-西瓜切开的声音，是夏天最动听的问候。
+The wind carries a softer, greener scent.
+风捎来更柔软、更青翠的气息。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/695117ec483204ede65654ac5f655c9c.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/92fae1beac316f110982e6fc6de2abc1.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
