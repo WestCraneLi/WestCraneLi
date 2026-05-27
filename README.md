@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The wind carries a softer, greener scent.
-风捎来更柔软、更青翠的气息。
+By the pond, kids splash water with bare feet.
+池塘边，孩子们光着脚丫踩水花。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/92fae1beac316f110982e6fc6de2abc1.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/df74b8d3255e2ae9d8ba3d886557b2a1.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
