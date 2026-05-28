@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-By the pond, kids splash water with bare feet.
-池塘边，孩子们光着脚丫踩水花。
+Gardenias bloom, turning the yard white with scent.
+栀子花开了，整个院子都是白色的香气。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/df74b8d3255e2ae9d8ba3d886557b2a1.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/f2f3dd7425a4982f640d715555981dbd.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
