@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Gardenias bloom, turning the yard white with scent.
-栀子花开了，整个院子都是白色的香气。
+No one is useless who lightens another’s burden.
+减轻他人负担的人绝非无用。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/f2f3dd7425a4982f640d715555981dbd.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/524b39923afcfd79686a9d3a9416a478.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
