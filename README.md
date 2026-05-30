@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-No one is useless who lightens another’s burden.
-减轻他人负担的人绝非无用。
+Light lingers, reluctant to say goodbye.
+光线流连着，不舍得说再见。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/524b39923afcfd79686a9d3a9416a478.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/0978c3be8ea8fef792d933db0f77b498.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
