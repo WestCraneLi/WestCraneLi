@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Light lingers, reluctant to say goodbye.
-光线流连着，不舍得说再见。
+Don't grow up today. Be a happy kid for one day.
+今天不长大，做一天快乐的小孩。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/0978c3be8ea8fef792d933db0f77b498.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/bcd3aef391feec4c8c9adbb4fbf7d855.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
