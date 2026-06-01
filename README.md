@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Don't grow up today. Be a happy kid for one day.
-今天不长大，做一天快乐的小孩。
+Sunlight pools where shadows used to live.
+阳光在曾是阴影的地方积成了水洼。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/bcd3aef391feec4c8c9adbb4fbf7d855.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/4cbeb9fae62847426e32f91293a36067.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
