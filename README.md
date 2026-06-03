@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Sunlight pools where shadows used to live.
-阳光在曾是阴影的地方积成了水洼。
+The pendulum sways, counting time's soft joints.
+钟摆摇晃，数着时间柔软的骨节。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/4cbeb9fae62847426e32f91293a36067.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/80025422d88cf661630e782059fad677.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
