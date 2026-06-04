@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The pendulum sways, counting time's soft joints.
-钟摆摇晃，数着时间柔软的骨节。
+Between the unread pages dwells the silence of a long hallway.
+未读完的书页间，栖居着寂静的走廊。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/80025422d88cf661630e782059fad677.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/4bc454096765cc61e7a954d309e63df3.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
