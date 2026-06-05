@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Wheat awns pierce the dawn. Farmers bend to pick up gold.
-麦芒刺破晨光，农人弯腰拾起金黄。
+Trust time. Good things grow slowly.
+相信时间。美好的事物需要慢慢生长。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/ba88bc52e0cbf3ea047cf04fd9ab0d22.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/4ee855f7bf352d2f9429f5c8c144a3b2.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
