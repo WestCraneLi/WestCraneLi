@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Trust time. Good things grow slowly.
-相信时间。美好的事物需要慢慢生长。
+You are stronger than you imagine.
+你比自己想象的更强大。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/4ee855f7bf352d2f9429f5c8c144a3b2.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/71114c35124008d107567262a70f1f55.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
