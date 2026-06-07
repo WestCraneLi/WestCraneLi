@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You are stronger than you imagine.
-你比自己想象的更强大。
+Go forth—the outcome will give you the answer.
+去做吧，结果会给你答案。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/71114c35124008d107567262a70f1f55.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/6c3d86c0f4d88b3b0215d06f10f5a6cb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
