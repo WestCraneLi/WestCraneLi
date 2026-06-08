@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Go forth—the outcome will give you the answer.
-去做吧，结果会给你答案。
+Memory sometimes short-circuits.
+记忆有时会短路。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/6c3d86c0f4d88b3b0215d06f10f5a6cb.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/f6fb878eaed67346ba8f97af9fd1f762.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
