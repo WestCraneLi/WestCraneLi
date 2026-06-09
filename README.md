@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Memory sometimes short-circuits.
-记忆有时会短路。
+Shadows are sketches made of light.
+影子是光做的素描。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/f6fb878eaed67346ba8f97af9fd1f762.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/b897f9091378b8199b293d909cd54e60.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
