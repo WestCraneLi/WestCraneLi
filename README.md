@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Shadows are sketches made of light.
-影子是光做的素描。
+The door closed on the story just now.
+门合上了刚才的故事。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/b897f9091378b8199b293d909cd54e60.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/7a4a69ddf18db17c7ecc2a8f4213bdc4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
