@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The scent of green lime cuts through the stifling air.
-青柠的气味切开沉闷。
+You miss 100% of the shots you don’t take.
+你不射门，就永远得不了分。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/1b8de1fbd8f86e4153add0a1dfb132ae.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/141942163d922a88954dc0a2427d43c4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
