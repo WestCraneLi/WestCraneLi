@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You miss 100% of the shots you don’t take.
-你不射门，就永远得不了分。
+The eraser wears itself away.
+橡皮擦消耗着自己。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/141942163d922a88954dc0a2427d43c4.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/5e16573f2fd1474c03ca742f78143dc2.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
