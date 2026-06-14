@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The eraser wears itself away.
-橡皮擦消耗着自己。
+A smile is the shortest bridge.
+微笑是最短的桥。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/5e16573f2fd1474c03ca742f78143dc2.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/bcda4b0c22594af0786047465169e7a4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
