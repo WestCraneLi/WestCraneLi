@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Not seeking fleeting acclaim, But only that the echoes linger on.
-不争一时之响，只求余音绵长。
+Dark clouds fringed with gold are where the light struggles through.
+乌云镶着金边，是光在努力穿透。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/e593c6779e5c436d1c76c5351d4c9ef4.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/76e8007046e88be5fd3600e965e270a6.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
