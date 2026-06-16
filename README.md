@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A smile is the shortest bridge.
-微笑是最短的桥。
+Not seeking fleeting acclaim, But only that the echoes linger on.
+不争一时之响，只求余音绵长。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/bcda4b0c22594af0786047465169e7a4.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/e593c6779e5c436d1c76c5351d4c9ef4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
