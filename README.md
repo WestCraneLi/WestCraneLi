@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Dark clouds fringed with gold are where the light struggles through.
-乌云镶着金边，是光在努力穿透。
+One smile can warm another person's heart.
+一个微笑，可以点燃另一颗心。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/76e8007046e88be5fd3600e965e270a6.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/b1f6646a9a5ca383dc2f65ac5c422c3f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
