@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-One smile can warm another person's heart.
-一个微笑，可以点燃另一颗心。
+Reed leaves wrap rice scent, and also a thousand years of longing.
+粽叶裹着米香，也裹着千年的想念。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/b1f6646a9a5ca383dc2f65ac5c422c3f.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/8c25dc3edb8db81f6eb9007c199cabf0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
