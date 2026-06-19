@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Reed leaves wrap rice scent, and also a thousand years of longing.
-粽叶裹着米香，也裹着千年的想念。
+Too many of us are not living our dreams because we are living our fears.
+我们太多人没有实现梦想，因为我们活在恐惧中。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/8c25dc3edb8db81f6eb9007c199cabf0.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/db69acb5ac08ad2ccc77e8375276d527.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
