@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Cicada songs fall from treetops, splashing heat waves on the ground.
-蝉声从树梢落下，砸出一地热浪。
+The ocean's vastness lies in embracing countless ordinary rivers.
+大海的宽广，在于接纳无数江河的平凡。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/0fd95e5d34a2c3748dc482cdab63b7ad.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/f0ed34aec1303f601a03ab8f6e3f32ef.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
