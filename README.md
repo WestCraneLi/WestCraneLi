@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The ocean's vastness lies in embracing countless ordinary rivers.
-大海的宽广，在于接纳无数江河的平凡。
+You needn't be born radiant, but you can keep shining.
+你不必天生闪耀，但可以持续发光。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/f0ed34aec1303f601a03ab8f6e3f32ef.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/456964ba372efd6351997bde68501fae.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
