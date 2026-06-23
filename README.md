@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You needn't be born radiant, but you can keep shining.
-你不必天生闪耀，但可以持续发光。
+Silence grows in the forest.
+寂静在树林里生长。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/456964ba372efd6351997bde68501fae.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/c91c4224987a4eb4e9921226de45299c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
