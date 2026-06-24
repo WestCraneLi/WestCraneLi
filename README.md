@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Silence grows in the forest.
-寂静在树林里生长。
+Dewdrops await the dawn upon blades of grass.
+露珠在草叶上等待黎明。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/c91c4224987a4eb4e9921226de45299c.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/4911a2c8135434c43465057c05f2e23b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
