@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Dewdrops await the dawn upon blades of grass.
-露珠在草叶上等待黎明。
+Longing is a letter without an address.
+思念是没有地址的信。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/4911a2c8135434c43465057c05f2e23b.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/877db4056f84bc18ac5e3cb953b9848e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
