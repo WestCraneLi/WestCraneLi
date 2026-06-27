@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Great people do things before they are ready.
-伟大的人在准备好前就行动。
+Screen light illuminates a face deep in focus.
+屏幕的光照亮了专注的脸。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/7618409dae53f1e04f486798817f1537.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/6c145e74c71837649aeda5a3660ad7f8.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
