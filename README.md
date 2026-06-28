@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Screen light illuminates a face deep in focus.
-屏幕的光照亮了专注的脸。
+The radio crackles with hoarse memories.
+收音机发出沙哑的回忆。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/6c145e74c71837649aeda5a3660ad7f8.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/c329f9d6d6cd1fb9d2bb142a584b3ff5.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
