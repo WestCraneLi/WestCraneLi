@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The radio crackles with hoarse memories.
-收音机发出沙哑的回忆。
+Stamps are tickets to distant lands.
+邮票是远方的门票。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/c329f9d6d6cd1fb9d2bb142a584b3ff5.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/383ab9c203d1274d55d310d08e76c385.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
