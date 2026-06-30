@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Stamps are tickets to distant lands.
-邮票是远方的门票。
+Focus on the present, not the past or future.
+不念过往，不畏将来，专注当下。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/383ab9c203d1274d55d310d08e76c385.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/2c9d0604127e56a4ddb52a41a4ed6ea0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
