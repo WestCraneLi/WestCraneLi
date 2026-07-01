@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Focus on the present, not the past or future.
-不念过往，不畏将来，专注当下。
+Every raindrop falls from the clouds above.
+每一滴雨，都从云层里落下来。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/2c9d0604127e56a4ddb52a41a4ed6ea0.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/66abfee7baea57322caae26890401c10.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
