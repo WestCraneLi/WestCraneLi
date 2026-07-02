@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Every raindrop falls from the clouds above.
-每一滴雨，都从云层里落下来。
+Light bulbs are like fruits that light up the night.
+灯泡像黑夜里结出的果实。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/66abfee7baea57322caae26890401c10.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/31c67e54d6582f83729aa17c350d67e8.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
