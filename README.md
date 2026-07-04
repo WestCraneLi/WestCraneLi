@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Silence is the most perfect expression of scorn.
-沉默是轻蔑最完美的表达。
+No matter how long the rain lasts, there will be a rainbow.
+无论雨下多久，终见彩虹。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/8f51ac5d3260bf5eeb829a7144bf9b97.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/fcc5472a3bd75918b0402c2a4b1163d6.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
