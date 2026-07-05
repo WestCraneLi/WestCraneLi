@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-No matter how long the rain lasts, there will be a rainbow.
-无论雨下多久，终见彩虹。
+Life is a question and how we live it is our answer.
+生活是一个问题，我们如何生活是我们的答案。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/fcc5472a3bd75918b0402c2a4b1163d6.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/1f98b9d56edd7995eeb7fd59d3a5ded0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
