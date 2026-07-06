@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Life is a question and how we live it is our answer.
-生活是一个问题，我们如何生活是我们的答案。
+Don’t burn bridges. A wide network provides support.
+别自断后路，广阔人脉网提供前进资源。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/1f98b9d56edd7995eeb7fd59d3a5ded0.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/a4a28ab4d974f3fc26aa7d4d0af82264.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
