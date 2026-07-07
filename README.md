@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Don’t burn bridges. A wide network provides support.
-别自断后路，广阔人脉网提供前进资源。
+All advantages aren't in running quickly, but in getting a head start.​
+优势不在于跑得快，而在于起身早。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/a4a28ab4d974f3fc26aa7d4d0af82264.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/687a6d079850e1ca37b9dad9e7ec05d0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
