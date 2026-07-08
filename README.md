@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-All advantages aren't in running quickly, but in getting a head start.​
-优势不在于跑得快，而在于起身早。
+Stay curious, and the world stays fresh.
+保持好奇，世界永远新鲜。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/687a6d079850e1ca37b9dad9e7ec05d0.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/ceeadae658ac602ae877705feb40a7f4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
