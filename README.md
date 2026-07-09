@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Stay curious, and the world stays fresh.
-保持好奇，世界永远新鲜。
+You are becoming the person you are meant to be.
+你正在成为你该成为的人。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/ceeadae658ac602ae877705feb40a7f4.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/066b859b85bf11d77ec906cb53db8df7.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
