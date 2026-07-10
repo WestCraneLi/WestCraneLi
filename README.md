@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You are becoming the person you are meant to be.
-你正在成为你该成为的人。
+You're someone's whole world.
+一人即某人的全世界。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/066b859b85bf11d77ec906cb53db8df7.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/dd2a35af0fc5669cf9360ee2e20b1f59.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
