@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You're someone's whole world.
-一人即某人的全世界。
+The tallest tree was once a seed brave enough to sprout.
+最高的树，也曾是一粒敢于发芽的种子。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/dd2a35af0fc5669cf9360ee2e20b1f59.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/c2a57cbe7d87867414d3537efff3c693.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
