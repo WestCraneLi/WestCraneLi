@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Patience is not just waiting. It makes us stronger.
-耐心不是干等，而是在等待里变强。
+Living a meaningful life is a great achievement.
+过有意义的生活，就是伟大的成就。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/52142c41fbdb90ea4015352fe948cab9.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/ad12301ff0243730bc738486e3513304.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
