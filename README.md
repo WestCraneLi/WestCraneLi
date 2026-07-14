@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Living a meaningful life is a great achievement.
-过有意义的生活，就是伟大的成就。
+Not too much, not too little — just enough.
+不溢不缺，恰如其分。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/ad12301ff0243730bc738486e3513304.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/e2ad4cb1af6b0b599392bc3b49d5b791.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
