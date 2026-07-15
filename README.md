@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Not too much, not too little — just enough.
-不溢不缺，恰如其分。
+Listening is a silent embrace.
+倾听，是沉默的拥抱。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/e2ad4cb1af6b0b599392bc3b49d5b791.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/15d1a22301ec9f6cb5f74e0068bde1c7.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
