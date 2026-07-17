@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Trust is the gentle care we give each other.
-信任，是彼此愿意给出的温柔。
+Custom makes all things easy.
+习惯成自然。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/8ae25d502d5d64ea353bfd177c3d1cfc.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/dec2e060dc61b8716a8abb4ae680f553.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
