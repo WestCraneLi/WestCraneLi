@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Custom makes all things easy.
-习惯成自然。
+Be grateful for now. The future is full of hope.
+感恩此刻，未来还充满可能。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/dec2e060dc61b8716a8abb4ae680f553.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/768a8c2cc5928768984e46fea7191c92.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
