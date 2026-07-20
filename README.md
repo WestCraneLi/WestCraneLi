@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Be grateful for now. The future is full of hope.
-感恩此刻，未来还充满可能。
+True strength is standing up again after we fall.
+真正的强大，是跌倒后再站起来。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/768a8c2cc5928768984e46fea7191c92.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/7ac3b435c25f67b7e13d75382fbf3402.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
