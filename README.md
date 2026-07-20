@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-True strength is standing up again after we fall.
-真正的强大，是跌倒后再站起来。
+Calm is the quiet deep place in a lake.
+平静，像湖水最深处的安静。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/7ac3b435c25f67b7e13d75382fbf3402.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/a9597ebbaa7603859916cd01ef057617.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
