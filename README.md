@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Calm is the quiet deep place in a lake.
-平静，像湖水最深处的安静。
+In conflict, the heart seems to speak with two voices.
+矛盾时，心里像有两个声音在说话。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/a9597ebbaa7603859916cd01ef057617.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/88b10614b0bddf42072c7b455a04921b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
