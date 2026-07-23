@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Heat rolls in, but watermelon tastes just right.
-热浪滚滚，但西瓜甜得正好。
+Friends by our side make the road feel shorter.
+同行的人让路变短了。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/6a654d74173a3aafd69011c414ea86a5.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/f0258369540871c9407516b6a1234d58.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
