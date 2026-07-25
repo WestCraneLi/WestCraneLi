@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Pains make stronger, tears make braver,and heartbreaks make wiser.
-伤痛铸坚强，眼泪淬勇敢，心碎炼智慧。
+Your life is a gift to someone.
+你的存在本身，就是某些人的礼物。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/5adf7476a4e81ef1cc35b448e1ae1044.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/146d9ceb93be0395dc389e34b3a9eff4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
