@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Your life is a gift to someone.
-你的存在本身，就是某些人的礼物。
+Kind words can gently hold a hurting heart.
+安慰的话，能轻轻扶住受伤的心。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/146d9ceb93be0395dc389e34b3a9eff4.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/ea911b437f26a17467f0fe7e3fb1813c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
