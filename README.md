@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Kind words can gently hold a hurting heart.
-安慰的话，能轻轻扶住受伤的心。
+Habit is like a path that leads us forward.
+习惯像一条路，引着我们往前走。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/ea911b437f26a17467f0fe7e3fb1813c.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/533f39b1e5c43eb31cc3fc5aa21b3260.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
