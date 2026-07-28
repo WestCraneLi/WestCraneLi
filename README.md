@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Habit is like a path that leads us forward.
-习惯像一条路，引着我们往前走。
+Waiting turns time into something sweet.
+等待把时间熬成了糖。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/533f39b1e5c43eb31cc3fc5aa21b3260.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/73320a816fedb409de59a99c4e96a7b0.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
