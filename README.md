@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Waiting turns time into something sweet.
-等待把时间熬成了糖。
+A chance meeting is candy from fate.
+偶遇是命运送的糖果。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/73320a816fedb409de59a99c4e96a7b0.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/61dc962e6736d21fa158e4efc392f1bd.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
