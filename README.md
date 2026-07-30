@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A chance meeting is candy from fate.
-偶遇是命运送的糖果。
+At goodbye, even a full suitcase cannot hold all our cares.
+离别时，行李箱再满，也装不下全部牵挂。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/61dc962e6736d21fa158e4efc392f1bd.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/3e1899ba4368a42bfae3bd4fa102e82b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
