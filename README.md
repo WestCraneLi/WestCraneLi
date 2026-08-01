@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Your silent march through storms writes peace upon our land.
-你穿越风暴的无声行进，在大地写下和平。
+To be human is to hold sovereignty over one's fate.​
+为人之本，在于对命运的掌控。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/fc7f6af757558e3dddb4aab41ac867d4.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/dca2cf48a1cd201db57ad770410f2ed5.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
