@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-To be human is to hold sovereignty over one's fate.​
-为人之本，在于对命运的掌控。
+Keep your eyes on the stars and your feet on the ground.
+仰望星空，脚踏实地。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/dca2cf48a1cd201db57ad770410f2ed5.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/7db4072380613d36b2388bcc1e559c84.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
