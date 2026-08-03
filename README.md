@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Keep your eyes on the stars and your feet on the ground.
-仰望星空，脚踏实地。
+A lazy youth, a lousy age.
+少壮不努力，老大徒伤悲。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/7db4072380613d36b2388bcc1e559c84.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/1c594806fe0e5bbf58089027e1571c72.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
