@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A lazy youth, a lousy age.
-少壮不努力，老大徒伤悲。
+Nurture passes nature.
+教养胜过天性。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/1c594806fe0e5bbf58089027e1571c72.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/f1323df8f1a7a11c4f8db68f484236c5.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
