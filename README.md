@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-One swallow does not make a summer.
-一燕不成夏（一花独放不是春）。
+Courage is not the absence of fear, but the will to guard what we cherish.
+勇气非无畏，而是守护所爱的意志。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/f79276c1c2f1a673d4cd0419e61fcb8a.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/559d07b3da72513c47de640065dfb3fa.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
