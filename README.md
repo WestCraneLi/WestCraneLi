@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Poverty is stranger to industry.
-勤劳之人不受穷。
+Even short goodbyes leave long shadows behind.
+再短的告别，也会留下长长的影子。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/a21ab0ed164003ec8d649ea173a054a2.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/7fbb101e5b097bc8e5bfc329b41e6d13.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
