@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Even short goodbyes leave long shadows behind.
-再短的告别，也会留下长长的影子。
+Love looks not with the eyes, but with the mind.
+爱情不用眼睛看，而用心灵看。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/7fbb101e5b097bc8e5bfc329b41e6d13.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/b34955e5543078c16abad6bf812462e5.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
