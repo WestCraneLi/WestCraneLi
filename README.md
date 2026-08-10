@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Love looks not with the eyes, but with the mind.
-爱情不用眼睛看，而用心灵看。
+Morning light makes its way through half-drawn curtains.
+晨光穿过半掩的窗帘，慢慢进来。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/b34955e5543078c16abad6bf812462e5.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/d5e4d34bddc678bc18f3263d2c8739bc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
