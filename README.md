@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Morning light makes its way through half-drawn curtains.
-晨光穿过半掩的窗帘，慢慢进来。
+Kindness costs little, yet it changes the whole room.
+善意花费很少，却能改变整个房间。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/d5e4d34bddc678bc18f3263d2c8739bc.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/f8ef8a41d58d4fc9af1e755a5bf89bde.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
