@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Kindness costs little, yet it changes the whole room.
-善意花费很少，却能改变整个房间。
+Warm tea on a quiet night softens a hard day.
+安静夜里的热茶，能软化艰难的一天。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/f8ef8a41d58d4fc9af1e755a5bf89bde.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/a4a477800d5befbada74e49cc817d890.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
