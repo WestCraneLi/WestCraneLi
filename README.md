@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Warm tea on a quiet night softens a hard day.
-安静夜里的热茶，能软化艰难的一天。
+Let today be enough; tomorrow can wait a while.
+让今天就够了，明天可以再等等。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/a4a477800d5befbada74e49cc817d890.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/392e95d9c46e52c3d96abd4755f37735.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
