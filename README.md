@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Let today be enough; tomorrow can wait a while.
-让今天就够了，明天可以再等等。
+Virtue never grows old.
+美德常青。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/392e95d9c46e52c3d96abd4755f37735.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/f4dcccbacd2725ff92902d063128dea5.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
