@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Virtue never grows old.
-美德常青。
+Clouds drift low, and the city breathes more slowly.
+云压得很低，城市也呼吸得更慢。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/f4dcccbacd2725ff92902d063128dea5.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/11610363829915c2302a4dab0811acb6.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
