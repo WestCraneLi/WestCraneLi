@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A shared meal turns ordinary hours into memories.
-一顿共享的饭，把平常时光变成回忆。
+Distance tests love, but it also teaches patience.
+距离考验爱情，也教会人耐心。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/9633f2cbe2826481453b81bd55932c2c.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/ad1ccf4f9fad9be4c8af5c43a10581a6.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
