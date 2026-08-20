@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-After meeting, parting arrives more gently than we fear.
-相逢之后，离别来得比我们担心的更轻柔。
+Deep green still drinks the long summer light.
+浓绿仍在畅饮悠长的夏日光。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/06d8a5754c0237285b56b0862c6c900b.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/fe7e030df7fe5f682716a02b569744a3.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
