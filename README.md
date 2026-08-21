@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Deep green still drinks the long summer light.
-浓绿仍在畅饮悠长的夏日光。
+There is a crack in everything; that's how the light gets in.
+万物皆有裂痕，那是光照进来的地方。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/fe7e030df7fe5f682716a02b569744a3.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/8c6229253169465631a2b287fccd8fea.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
