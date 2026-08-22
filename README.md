@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-There is a crack in everything; that's how the light gets in.
-万物皆有裂痕，那是光照进来的地方。
+The heat still reigns, yet evenings turn a little milder.
+暑气仍盛，傍晚却稍稍温和了些。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/8c6229253169465631a2b287fccd8fea.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/af3c95f838c451fd9b24b96294b87fdb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
