@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The heat still reigns, yet evenings turn a little milder.
-暑气仍盛，傍晚却稍稍温和了些。
+New habits grow best in the quiet of early days.
+新习惯最适合在安静的早期生长。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/af3c95f838c451fd9b24b96294b87fdb.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/ef439d7263fc7e059cb706cbc69b11ff.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
