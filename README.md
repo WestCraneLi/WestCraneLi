@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-New habits grow best in the quiet of early days.
-新习惯最适合在安静的早期生长。
+Listen closely: even wind can carry a gentle song.
+仔细听：风也能带来轻柔的歌。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/ef439d7263fc7e059cb706cbc69b11ff.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/9d1915b5eb39cabedf73f7c8064fdd2c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
