@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Listen closely: even wind can carry a gentle song.
-仔细听：风也能带来轻柔的歌。
+We leave pieces of ourselves in places we loved.
+我们把自己的碎片，留在爱过的地方。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/9d1915b5eb39cabedf73f7c8064fdd2c.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/a3a639b728522a82706f7c4d9ad9464c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
