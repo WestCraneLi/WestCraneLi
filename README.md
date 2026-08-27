@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-We leave pieces of ourselves in places we loved.
-我们把自己的碎片，留在爱过的地方。
+A late walk clears the mind better than long worry.
+晚间散步，比漫长忧虑更能清空思绪。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/a3a639b728522a82706f7c4d9ad9464c.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/a45138709adf1299b8f8e6805e08eba7.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
