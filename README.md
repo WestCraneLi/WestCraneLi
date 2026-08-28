@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A late walk clears the mind better than long worry.
-晚间散步，比漫长忧虑更能清空思绪。
+No man is an island.
+没有人是一座孤岛。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/a45138709adf1299b8f8e6805e08eba7.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/de4109cc632b5945d57d12c785fbf8ed.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
