@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-No man is an island.
-没有人是一座孤岛。
+Meet me where the magpies bridge the sky, just once a year yet forever.
+鹊桥相会，一年一度，却是一生一世。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/de4109cc632b5945d57d12c785fbf8ed.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/b861fc3d1aa10a489a5e2feae400b585.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
