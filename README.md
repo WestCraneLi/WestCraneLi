@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Meet me where the magpies bridge the sky, just once a year yet forever.
-鹊桥相会，一年一度，却是一生一世。
+Pack lightly; carry only what still warms you.
+轻装前行，只带走仍能温暖你的东西。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/b861fc3d1aa10a489a5e2feae400b585.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/7856f8e35fa170cf2e42a02e1b73b05d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
