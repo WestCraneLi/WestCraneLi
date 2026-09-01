@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-August holds the sun a little longer for us.
-八月为我们多留住了一会儿阳光。
+September opens with a sky both clear and wide.
+九月展开，天空又清又阔。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/02a69502b664c2a5aa20f1642687c963.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/8337557d5d51443a0460f97fa3aea6a4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
