@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-September opens with a sky both clear and wide.
-九月展开，天空又清又阔。
+Morning sun rests on the quiet street.
+早晨的太阳，停在安静的街上。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/8337557d5d51443a0460f97fa3aea6a4.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/b38f9f6f8616c5968e0261f595ebb18b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
