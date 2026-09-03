@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Morning sun rests on the quiet street.
-早晨的太阳，停在安静的街上。
+The woods are lovely, dark and deep.
+树林可爱，又暗又深。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/b38f9f6f8616c5968e0261f595ebb18b.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/4a8f2d20a6071766d51fd0f21fbc9bec.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
