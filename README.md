@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The woods are lovely, dark and deep.
-树林可爱，又暗又深。
+A slow cup of tea starts a peaceful morning hour.
+慢慢喝一杯茶，开启平和的早晨。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/4a8f2d20a6071766d51fd0f21fbc9bec.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/90a0fb29d9388199c6bfbdd087e45296.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
