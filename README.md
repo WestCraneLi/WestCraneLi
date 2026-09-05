@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A slow cup of tea starts a peaceful morning hour.
-慢慢喝一杯茶，开启平和的早晨。
+In the age of AI, curiosity is still our superpower.  
+在AI时代，好奇心仍是我们的超能力。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/90a0fb29d9388199c6bfbdd087e45296.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/b35d5016d7a0a8e5cb047f5689b254e9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
