@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Evening light moves slowly across the floor.
-晚间的光，慢慢挪过地板。
+White dew cools the green at break of day.
+白露在破晓时，凉了满地的绿。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/ea5abaad6ce27978dd456ff5bfa665a2.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/068dbae6f55518c577f20b6f2bed2843.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
