@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-White dew cools the green at break of day.
-白露在破晓时，凉了满地的绿。
+I wandered lonely as a cloud.
+我孤独地漫游，像一朵云。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/068dbae6f55518c577f20b6f2bed2843.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/ad59813033aafd7e48f9b5c2659d99a6.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
