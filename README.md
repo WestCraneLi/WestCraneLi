@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-I wandered lonely as a cloud.
-我孤独地漫游，像一朵云。
+Books stay open when the heart stays curious.
+心保持好奇，书就会一直打开。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/ad59813033aafd7e48f9b5c2659d99a6.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/17aeaf2af5e8c2d26c95050859e091ad.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
