@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Books stay open when the heart stays curious.
-心保持好奇，书就会一直打开。
+A good teacher plants questions that keep growing.
+好老师种下的，是不断生长的问题。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/17aeaf2af5e8c2d26c95050859e091ad.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/9ce85ae0ae162e795d729a4aac838bbd.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
