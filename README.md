@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A good teacher plants questions that keep growing.
-好老师种下的，是不断生长的问题。
+Curiosity makes ordinary work feel brand new.
+好奇能让平常的工作，也焕然一新。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/9ce85ae0ae162e795d729a4aac838bbd.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/8785fdc1e79c2590e65a7857c7cfb6f9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
