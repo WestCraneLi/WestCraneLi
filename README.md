@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Curiosity makes ordinary work feel brand new.
-好奇能让平常的工作，也焕然一新。
+Shared laughter makes the long road feel easy.
+一同笑过，长路也显得轻松。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/8785fdc1e79c2590e65a7857c7cfb6f9.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/089a4a7a5e0a3192225d268e58d4a785.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
