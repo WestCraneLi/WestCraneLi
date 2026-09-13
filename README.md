@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Shared laughter makes the long road feel easy.
-一同笑过，长路也显得轻松。
+Old songs return when evening grows still.
+夜静下来，旧歌就会回来。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/089a4a7a5e0a3192225d268e58d4a785.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/83c48d60b73354ee5f6905acd5a92633.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
