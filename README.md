@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Old songs return when evening grows still.
-夜静下来，旧歌就会回来。
+Do what you love, and the hours grow light.
+做你热爱的事，时光也会变轻。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/83c48d60b73354ee5f6905acd5a92633.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/712595fd93f0337cb8fe536bf034e2fd.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
