@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Do what you love, and the hours grow light.
-做你热爱的事，时光也会变轻。
+A kind word can turn a hard hour around.
+一句善意的话，能让难熬的一小时好转。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/712595fd93f0337cb8fe536bf034e2fd.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/37c19ce8f514e84dee7179d70dd6e6bc.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
