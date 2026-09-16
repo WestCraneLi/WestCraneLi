@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A kind word can turn a hard hour around.
-一句善意的话，能让难熬的一小时好转。
+Tread softly because you tread on my dreams.
+轻轻走，因为你踏着我的梦。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/37c19ce8f514e84dee7179d70dd6e6bc.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/24bb76794d083c03309b1d893e8a11b1.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
