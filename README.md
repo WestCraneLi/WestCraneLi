@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Tread softly because you tread on my dreams.
-轻轻走，因为你踏着我的梦。
+Warm bread on the table feels like home.
+桌上的热面包，闻起来像家。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/24bb76794d083c03309b1d893e8a11b1.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/b0ff662df226374d3a8911f9db45d14f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
