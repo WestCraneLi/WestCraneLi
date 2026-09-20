@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Small thanks make big joy.  
-小小的感恩，带来大大的快乐。  
+Rain on the window makes the room feel safe.
+雨打在窗上，房间也显得安稳。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/430e58113c3fc3eb5c20fc94034c4980.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/2246ba27c12e803f77c427427aff71ba.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
