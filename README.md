@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Rain on the window makes the room feel safe.
-雨打在窗上，房间也显得安稳。
+Brevity is the soul of wit.
+简洁是智慧的灵魂。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/2246ba27c12e803f77c427427aff71ba.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/f17b8eb801d4387dd780d113fea6d2b3.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
