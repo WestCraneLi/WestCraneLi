@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Brevity is the soul of wit.
-简洁是智慧的灵魂。
+Balance lives between the rush and the rest.
+平衡，住在忙碌与休息之间。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/f17b8eb801d4387dd780d113fea6d2b3.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/fb0d376e5416724ada14acf7149ef76f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
