@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Balance lives between the rush and the rest.
-平衡，住在忙碌与休息之间。
+Day and night stand equal, calm and clear.
+昼夜等长，平静而清澈。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/fb0d376e5416724ada14acf7149ef76f.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/8e7be6e5537e13922350fa7b46babfbf.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
