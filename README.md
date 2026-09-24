@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Day and night stand equal, calm and clear.
-昼夜等长，平静而清澈。
+Write one short letter to someone you miss.
+给想念的人，写一封短短的信。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/8e7be6e5537e13922350fa7b46babfbf.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/be1878d9e3ece4bf67926a1c81fa85a4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
