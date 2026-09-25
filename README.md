@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Write one short letter to someone you miss.
-给想念的人，写一封短短的信。
+The full moon brings distant hearts back home.
+圆月把远方的心，带回家里。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/be1878d9e3ece4bf67926a1c81fa85a4.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/8f3089da0eeffff90ea19e8e8080dd65.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
