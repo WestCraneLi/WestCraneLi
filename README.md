@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Seeds grow in quiet soil.  
-种子在寂静的泥土里生长。  
+Small habits, done daily, quietly change a year.
+每天做的小习惯，会悄悄改变一年。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/e99ba414d21f86e67b043e0155874c94.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/8ea4b0086b11d9b5e7b93d782288387c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
