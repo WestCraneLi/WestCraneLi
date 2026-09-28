@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Small habits, done daily, quietly change a year.
-每天做的小习惯，会悄悄改变一年。
+The world is too much with us.
+这世界与我们纠缠得太深。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/8ea4b0086b11d9b5e7b93d782288387c.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/69e71144805a02fdacaf27165fb3d799.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
