@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The world is too much with us.
-这世界与我们纠缠得太深。
+Keep one true task close to your hands.
+把一件真正要做的事，留在手边。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/69e71144805a02fdacaf27165fb3d799.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/3b84e5efaf061db4130a262fc3e41eba.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
