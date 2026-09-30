@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Keep one true task close to your hands.
-把一件真正要做的事，留在手边。
+We close the month with thanks, not haste.
+我们用感谢，而不是匆忙，结束这个月。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/3b84e5efaf061db4130a262fc3e41eba.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/c17ea7540c3fb9f148dff7fa7a8fd771.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
