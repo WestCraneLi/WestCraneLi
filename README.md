@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-We close the month with thanks, not haste.
-我们用感谢，而不是匆忙，结束这个月。
+Red flags wave, hearts unite. 
+红旗飘扬，万众一心。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/c17ea7540c3fb9f148dff7fa7a8fd771.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/c7e324474b03af2cabdc41e0dae37b0d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
