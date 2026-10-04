@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The moon leans on my windowsill tonight.
-今晚，月亮倚在我的窗台上。
+Every creature carries its own small light.
+每个生灵，都带着自己的微光。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/01b0885ad12b8c2f10b04a49ea90c59b.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/905d510689e8ba3899255653782e23c8.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
