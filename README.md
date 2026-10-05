@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Every creature carries its own small light.
-每个生灵，都带着自己的微光。
+Slow mornings make the whole day feel longer.
+不慌不忙的清晨，让一整天都变得悠长。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/905d510689e8ba3899255653782e23c8.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/4af64c5e5ad0a53fcb1c76fb800d892f.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
