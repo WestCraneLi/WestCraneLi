@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Slow mornings make the whole day feel longer.
-不慌不忙的清晨，让一整天都变得悠长。
+Leaves let go, and the trees stand taller.
+叶子放手了，树却站得更挺拔。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/4af64c5e5ad0a53fcb1c76fb800d892f.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/974a402003710604e0b70362756b350b.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
