@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Leaves let go, and the trees stand taller.
-叶子放手了，树却站得更挺拔。
+Wherever you go, your courage goes with you.
+无论去哪里，勇气都与你同行。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/974a402003710604e0b70362756b350b.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/4d2701e1cd7319833eee0d258f8917aa.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
