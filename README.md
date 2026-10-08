@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Wherever you go, your courage goes with you.
-无论去哪里，勇气都与你同行。
+Cold dew wets the grass, and autumn deepens its voice.
+寒露打湿了草，秋天深沉了嗓音。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/4d2701e1cd7319833eee0d258f8917aa.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/82c2ae2a48a69c65a317f228df8ea935.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
