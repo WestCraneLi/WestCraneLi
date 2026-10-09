@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Cold dew wets the grass, and autumn deepens its voice.
-寒露打湿了草，秋天深沉了嗓音。
+A good book is a door you can open anywhere.
+好书是一扇随处可开的门。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/82c2ae2a48a69c65a317f228df8ea935.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/dc42c9d3f7da8ca7c83c6e6de99b754d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
