@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A good book is a door you can open anywhere.
-好书是一扇随处可开的门。
+Rivers never argue with the stones; they simply move on.
+江河不与石头争辩，只管向前流淌。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/dc42c9d3f7da8ca7c83c6e6de99b754d.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/f34e2570fe0399c31543ee22bf3694c6.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
