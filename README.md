@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Rivers never argue with the stones; they simply move on.
-江河不与石头争辩，只管向前流淌。
+The best memories are made around a full table.
+最好的回忆，总在满满的餐桌旁。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/f34e2570fe0399c31543ee22bf3694c6.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/46657997a5dcced221f8ba702f538824.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
