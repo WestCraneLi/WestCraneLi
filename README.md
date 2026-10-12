@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The best memories are made around a full table.
-最好的回忆，总在满满的餐桌旁。
+Small steps, taken daily, become a long road traveled.
+每天一小步，走过就是长路。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/46657997a5dcced221f8ba702f538824.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/9e5ace1a8d616a1da7c6edd58ac26015.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
