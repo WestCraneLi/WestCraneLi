@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Small steps, taken daily, become a long road traveled.
-每天一小步，走过就是长路。
+Your kindness may be someone's whole sunshine today.
+你的善意，也许正是别人今天全部的阳光。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/9e5ace1a8d616a1da7c6edd58ac26015.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/05cf86aea700106c4ad9ef60a6908ecf.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
