@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Your kindness may be someone's whole sunshine today.
-你的善意，也许正是别人今天全部的阳光。
+Mist rolls over the hills like a slow song.
+雾漫过山丘，像一首舒缓的歌。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/05cf86aea700106c4ad9ef60a6908ecf.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/83b5581fffc92d3fa89fe5abd3697814.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
