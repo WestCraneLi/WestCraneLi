@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Mist rolls over the hills like a slow song.
-雾漫过山丘，像一首舒缓的歌。
+Choose the harder right instead of the easier wrong.
+选择更难的正确，而非更容易的错误。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/83b5581fffc92d3fa89fe5abd3697814.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/a7d81efabb8d9854942b877f8037719d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
