@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Choose the harder right instead of the easier wrong.
-选择更难的正确，而非更容易的错误。
+Bread tastes better when it is shared.
+一起分享的面包，格外香甜。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/a7d81efabb8d9854942b877f8037719d.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/d30eedeb6093373f7f2618f54250c0e5.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
