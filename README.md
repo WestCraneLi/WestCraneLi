@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Bread tastes better when it is shared.
-一起分享的面包，格外香甜。
+Stars are the night's way of saying keep going.
+星星是夜空在说：请继续前行。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/d30eedeb6093373f7f2618f54250c0e5.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/1e9ba12b0fc303b27a3f495296eb2ad4.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
