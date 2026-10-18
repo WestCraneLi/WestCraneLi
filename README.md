@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Stars are the night's way of saying keep going.
-星星是夜空在说：请继续前行。
+Climb high today, and think of those who wait at home.
+今日登高处，也念家中人。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/1e9ba12b0fc303b27a3f495296eb2ad4.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/e046ef0bcc0470c26c3154c032fce1e7.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
