@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A candle loses nothing by lighting another candle.
-蜡烛点亮另一支，自己并不损失什么。
+The wind reads every leaf before it falls.
+风在每片叶子落下前，都读过它。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/195807e21e8f8d8825ac356cc8716205.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/1bb42c1325fb265f03b81ebb4249c7f8.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
