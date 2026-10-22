@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Say thank you to the small things today.
-今天，对身边的小事说声谢谢。
+Rain on the roof is the sky's lullaby.
+雨打屋檐，是天空的摇篮曲。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/f06acf888bea6252185bd5ad3ad1104a.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/08c0419841d565c486a75bff3561d172.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
