@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Rain on the roof is the sky's lullaby.
-雨打屋檐，是天空的摇篮曲。
+Frost is coming, yet the persimmons hang like lanterns.
+霜要来了，柿子却像灯笼一样挂着。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/08c0419841d565c486a75bff3561d172.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/6e804722a4fb83813002b146e325603e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
