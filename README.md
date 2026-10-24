@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Frost is coming, yet the persimmons hang like lanterns.
-霜要来了，柿子却像灯笼一样挂着。
+Grow through what you go through. 
+穿越困境，得以成长。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/6e804722a4fb83813002b146e325603e.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/5510d1a560616c5c884f2c30b7580c30.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
