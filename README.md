@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Patience is bitter, but its fruit is sweet.
-忍耐是苦涩的，但它的果实是甜的。
+Old streets hold the warmest stories.
+老街藏着最暖的故事。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/c21daa3ce2b6e842f70e75e611e48a87.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/e709cf40d25fd7d493ce4dfe0b0aef18.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
