@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Old streets hold the warmest stories.
-老街藏着最暖的故事。
+You are allowed to be both strong and tired.
+你可以同时坚强，也可以疲惫。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/e709cf40d25fd7d493ce4dfe0b0aef18.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/4a64aa787ed37d93a365429ad8d2ad2d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
