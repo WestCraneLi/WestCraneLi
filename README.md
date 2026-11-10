@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-You are allowed to be both strong and tired.
-你可以同时坚强，也可以疲惫。
+Frost paints the sleeping land with patient silver.
+霜耐心地给沉睡的大地刷上银色。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/4a64aa787ed37d93a365429ad8d2ad2d.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/21f220e60983b46ea58c24d4affc3359.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
