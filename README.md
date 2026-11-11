@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Frost paints the sleeping land with patient silver.
-霜耐心地给沉睡的大地刷上银色。
+The best thing to buy today is a little time for yourself.
+今天最值得买下的，是给自己的一点时间。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/21f220e60983b46ea58c24d4affc3359.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/d78072c91261f77c15cc2467721a753d.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
