@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The best thing to buy today is a little time for yourself.
-今天最值得买下的，是给自己的一点时间。
+A hot drink in cold hands holds the morning still.
+冷手里捧一杯热饮，清晨就静止了。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/d78072c91261f77c15cc2467721a753d.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/860e44b286e631763a3fbb29d2fb1cfe.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
