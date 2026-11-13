@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A hot drink in cold hands holds the morning still.
-冷手里捧一杯热饮，清晨就静止了。
+Trees sleep deeply and dream of green again.
+树沉睡着，梦见重回绿色。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/860e44b286e631763a3fbb29d2fb1cfe.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/912585950e7306d1cda457d8a8124add.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
