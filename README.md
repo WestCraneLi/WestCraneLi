@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-From sadness comes joy, as dead flowers bring blooms.
-悲伤生喜悦，如枯花绽新蕾。
+The night is long, but so is our list of small joys.
+夜虽长，小欢喜也一样的多。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/bff941bff2af14588e2851186692d28d.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/a85214ee13c5b191126a6a95a974a9df.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
