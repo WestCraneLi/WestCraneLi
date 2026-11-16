@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The night is long, but so is our list of small joys.
-夜虽长，小欢喜也一样的多。
+A short walk can untangle a long worry.
+一次短途散步，能解开一长串烦恼。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/a85214ee13c5b191126a6a95a974a9df.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/e5cfde453c97d2a900c3bea893b16237.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
