@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-A short walk can untangle a long worry.
-一次短途散步，能解开一长串烦恼。
+The north wind sorts the leaves from the strong branches.
+北风把落叶和坚强的枝干分开。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/e5cfde453c97d2a900c3bea893b16237.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/627a0c46364b517ac2b26a119f897fb9.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
