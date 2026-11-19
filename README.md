@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Keep a warm pocket and a warmer heart.
-口袋要暖，心要更暖。
+Some doors only open for those who knock again.
+有些门，只肯为再次敲响的人打开。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/b61d80c616df1c22eff26b409dec941a.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/c43b23486d1a9ea58ac78d733262ea93.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
