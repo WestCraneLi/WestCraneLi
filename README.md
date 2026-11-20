@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Some doors only open for those who knock again.
-有些门，只肯为再次敲响的人打开。
+Even the longest night ends with a sunrise.
+再长的夜，也会以日出收尾。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/c43b23486d1a9ea58ac78d733262ea93.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/8343bfce135dd0d79bc629db73c8e7fa.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
