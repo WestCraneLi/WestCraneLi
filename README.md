@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Gratitude turns what we have into enough.
-感恩让我们拥有的变成足够。
+Light snow whispers that the year is folding up.
+小雪轻声说，一年正在合上书页。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/138e70a98ccf9a3f8445b1633d263380.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/ceaf8ce2493d375c7aa0f981b681442c.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
