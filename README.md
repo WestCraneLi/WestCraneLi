@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Light snow whispers that the year is folding up.
-小雪轻声说，一年正在合上书页。
+A pot of soup warms more than the body.
+一锅热汤，暖的不只是身体。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/ceaf8ce2493d375c7aa0f981b681442c.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/e3fe92db958801b362c396f53cb8596e.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
