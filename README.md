@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Your voice deserves the same kindness you give.
-你的声音，也值得你给出的那份善意。
+It does not do to dwell on dreams and forget to live.
+沉溺于梦想而忘记生活，是不行的。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/9f0890379bc25f5a08e8c316cc87ccbf.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/7a17a4297af38d24c85d696093163662.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
