@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-It does not do to dwell on dreams and forget to live.
-沉溺于梦想而忘记生活，是不行的。
+Grateful hearts never run out of season.
+感恩的心，从不过季。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/7a17a4297af38d24c85d696093163662.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/530b39b29da9da470039635fad3252f7.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
