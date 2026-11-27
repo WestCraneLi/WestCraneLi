@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-Grateful hearts never run out of season.
-感恩的心，从不过季。
+The winter sun pours gold on every bare branch.
+冬日的阳光，给每根秃枝都镀上金色。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/530b39b29da9da470039635fad3252f7.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/4caf9078be5be004242db42d2d46b9bb.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
