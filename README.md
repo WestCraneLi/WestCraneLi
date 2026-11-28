@@ -2,10 +2,10 @@
 <h3>🕡Daily Sentence</h3>
 
 <blockquote>
-The winter sun pours gold on every bare branch.
-冬日的阳光，给每根秃枝都镀上金色。
+There is beauty in letting go.
+在放下之中亦有美感。
 </blockquote>
-<img src=https://staticedu-wps-cache.iciba.com/image/4caf9078be5be004242db42d2d46b9bb.png alt="img" />
+<img src=https://staticedu-wps-cache.iciba.com/image/b50a3a7ef14a08d27eefde165c4ce7f8.png alt="img" />
 
 <h3>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势" />
